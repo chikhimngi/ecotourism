@@ -1,5 +1,8 @@
 correct_dependency_ids: {}
-services: []
+services:
+- source: /runtime/services/tables.yml
+  client_config: {}
+  server_config: {}
 package_name: ecotourism
 allow_embedding: false
 name: ecotourism
