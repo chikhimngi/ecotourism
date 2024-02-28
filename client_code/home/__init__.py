@@ -1,6 +1,7 @@
 from ._anvil_designer import homeTemplate
 from anvil import *
 from ..kef import kef
+from ..geopark import geopark
 
 class home(homeTemplate):
   def __init__(self, **properties):
@@ -10,8 +11,17 @@ class home(homeTemplate):
     # Any code you write here will run before the form opens.
 
   def vist_kef_click(self, **event_args):
-    self.column_panel01.clear()
-    self.content_panel01.add_component(kef())
+    self.content_panel.clear()
+    self.content_panel.add_component(kef())
+
+  def link_1_click(self, **event_args):
+    open_form('home')
+
+  def geoparck_click(self, **event_args):
+    
+    self.content_panel.clear()
+    self.content_panel.add_component(geopark())
+
 
 
 
