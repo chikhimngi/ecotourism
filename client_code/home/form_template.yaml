@@ -8,6 +8,10 @@ components:
   name: content_panel
   layout_properties: {slot: default}
   components:
+  - name: headline_1
+    properties: {role: headline}
+    type: Label
+    layout_properties: {grid_position: 'WGYZWK,BNNOBE'}
   - type: Image
     properties: {role: null, vertical_align: center, height: '200', tooltip: '', border: '',
       foreground: '', visible: true, display_mode: fill_width, spacing_above: small,
