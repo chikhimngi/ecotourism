@@ -9,25 +9,53 @@ components:
   components:
   - type: RichText
     properties: {role: null, align: left, tooltip: '', enable_slots: true, border: '',
-      foreground: '', visible: true, font_size: null, content: "**Crit\xe8res de d\xe9\
-        limitation**\n\nLes limites du Projet de Geopark reposent sur plusieurs crit\xe8\
-        res, \xe0 savoir :  \n-\tDes unit\xe9s morphostructurales comprenant la vall\xe9\
-        e du barrage Mell\xe8gue, le synclinal perch\xe9 de Dyr El Kef de direction\
-        \ NE-SW, contre lequel est agripp\xe9e la ville du Kef,  une s\xe9rie de massif\
-        \ rocheux r\xe9cifaux escarp\xe9s qui s\u2019\xe9tendent dans la partie sud\
-        \ et sud ouest de la r\xe9gion du Kef (Jebels Slata, Jerissa, Harrab, Boujaber..)\n\
-        \n-\tUne s\xe9rie g\xe9ologique allant du Trias (250 Ma) au Quaternaires (1.6\
-        \ ma);\n\n-\tDes sites g\xe9ologiques exceptionnel et de curiosit\xe9 et dont\
-        \ l\u2019un pr\xe9sente un int\xe9r\xeat universel (la limite du passage Cr\xe9\
-        tac\xe9 Pal\xe9og\xe8ne) ;\n\n-\tLes vestiges de plieurs gisements miniers\
-        \ polym\xe9talliques\n\n-\tUne station thermale (Hammam Mell\xe8gue) ;\n\n\
-        -\tDes sites pr\xe9historiques (peintures rupestres \xe0 Dyr El Kef, escargoti\xe8\
-        res, le pal\xe9olithique inf\xe9rieur de Sidi Zine)\n\n-\tHistoire antique\
-        \ (dolmens, arc de triomphe romain, th\xe9\xe2tre antique..) ;\n\n-\tmus\xe9\
-        e des Arts et Traditions Populaires ;\n\n-\tfor\xeat dense de pin d\u2019\
-        Alep riche en faune et flaures, travers\xe9 par l\u2019Oued Mell\xe8gue qui\
-        \ d\xe9verse son flow dans le barrage qui porte le m\xeame nom ; \n", font: '',
-      spacing_above: small, spacing_below: small, data: null, background: '', format: markdown}
+      foreground: '', visible: true, font_size: null, content: "L\u2019id\xe9e de\
+        \ la cr\xe9ation d\u2019un G\xe9oparc en Tunisie et particuli\xe8rement dans\
+        \ la r\xe9gion du Kef date de 2002, bien avant celui du Sud-Est tunisien dont\
+        \ le d\xe9marrage a eu lieu seulement en 2016 et il est encore en cours de\
+        \ r\xe9alisation. \n\nQuelles sont alors les crit\xe8res qui justifient le\
+        \ choix de la r\xe9gion du Kef pour mettre en place le premier G\xe9oparc\
+        \ en Tunisie? \n\nC\u2019est bien \xe9videmment son patrimoine g\xe9ologique\
+        \ de grand int\xe9r\xeat scientifique qui semble justifier ce choix. En effet,\
+        \ Ce patrimoine permet une lecture correcte des ph\xe9nom\xe8nes g\xe9ologiques\
+        \ qui ont marqu\xe9 l\u2019histoire de notre plan\xe8te durant les derniers\
+        \ 250 millions d\u2019ann\xe9es. Cette histoire est riche gr\xe2ce \xe0 l\u2019\
+        abondance et \xe0 la vari\xe9t\xe9 des fossiles, des structures g\xe9ologiques,\
+        \ des paysages morpho-structuraux et des concentrations min\xe9rales polym\xe9\
+        talliques. De plus cette r\xe9gion renferme un site d\u2019int\xe9r\xeat mondial.\
+        \ En effet ce site, situ\xe9 \xe0 7 km au SW de la ville du Kef, fossilise\
+        \ dans le passage Cr\xe9tac\xe9-Pal\xe9og\xe8ne (K-Pg), les t\xe9moins de\
+        \ la 5\xe8 grande crise de la biodiversit\xe9 qui a marqu\xe9 l\u2019histoire\
+        \ de notre plan\xe8te il y a 65 millions d\u2019ann\xe9es. Cette crise, due\
+        \ \xe0 la percussion de notre plan\xe8te par un g\xe9ant ast\xe9ro\xefde,\
+        \ a entrain\xe9 des extinctions biologiques massives de plus de  80% des esp\xe8\
+        ces marines et continentales y compris les Dinosaures. Cette localit\xe9,\
+        \ \xe9tudi\xe9e avec d\u2019autres sites similaires dans le monde, a \xe9\
+        t\xe9 retenue comme la localit\xe9 de r\xe9f\xe9rence internationale de la\
+        \ limite K-Pg lors du 28\xe8me Congr\xe8s G\xe9ologique International, \xe0\
+        \ Washington, et le Workshop on the K-Pg boundary, El Kef, 1992). Le site\
+        \ de la limite K-Pg figure sur la liste indicative de l\u2019UNESCO depuis\
+        \ 2016. \n\nPour valoriser ce patrimoine for riche de la r\xe9gion du Kef,\
+        \ le Gouvernorat du Kef a accueilli, le 19 juin 2002 un groupe de 8 experts,\
+        \ de l\u2019European Geoparks Network (M. Guy Martin et Mme Rosaria Modica)\
+        \ et de Cultural Parc Rocca Di Cerere (Italie). Ces experts avaient pour mission\
+        \ de r\xe9aliser une \xe9tude de faisabilit\xe9 pour v\xe9rifier la possibilit\xe9\
+        \ de cr\xe9er un syst\xe8me touristique int\xe9gr\xe9 (STI) et d\u2019\xe9\
+        valuer les possibilit\xe9s pour cr\xe9er un Geopark selon les normes \xe9\
+        tablis par l\u2019European Geoparks Network. \n\nAu cours de leur d\xe9placement\
+        \ sur le terrain, ces experts ont \xe9t\xe9 accompagn\xe9s et guid\xe9s par\
+        \ Chikhaloui Mongi (G\xe9ologue) et Tlili Mohamed (Arch\xe9ologue). \n\nLes\
+        \ travaux de terrain, qui ont dur\xe9 un mois environ, ont permis de recenser\
+        \ plusieurs sites g\xe9ologiques et miniers d\u2019int\xe9r\xeat r\xe9gional\
+        \ et universel. Ils sont associ\xe9s \xe0 des sites historiques, arch\xe9\
+        ologiques, environnementaux et culturels. La Table de Jugurtha, site historique\
+        \  c\xe9l\xe8bre, se trouve lui aussi sur la liste indicative de l\u2019UNESCO\
+        \ depuis 2017. \n\nLa m\xe9thodologie adopt\xe9e est celle d\xe9j\xe0 exp\xe9\
+        riment\xe9e par la  a Rocca di Cerere qui pr\xe9voit trois approches : \n\
+        Une approche territoriale globale du d\xe9veloppement\nUne approche dit \xab\
+        \ bottom-up \xbb \nLa participation active des acteurs socio-\xe9conomiques\
+        \ et des institutions de la r\xe9gion\n\n", font: '', spacing_above: small,
+      spacing_below: small, data: null, background: '', format: markdown}
     name: rich_text_1
     layout_properties: {grid_position: 'RCCJVW,WUIOXQ'}
 - type: Image

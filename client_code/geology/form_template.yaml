@@ -1,0 +1,85 @@
+is_package: true
+container:
+  type: HtmlTemplate
+  properties: {html: '@theme:standard-page.html'}
+components:
+- type: ColumnPanel
+  properties: {}
+  name: content_panel
+  layout_properties: {slot: default}
+- type: FlowPanel
+  properties: {}
+  name: navbar_links
+  layout_properties: {slot: nav-right}
+- type: Link
+  properties: {role: null, url: '', align: left, tooltip: '', border: '', foreground: '',
+    visible: true, text: Home, font_size: null, wrap_on: mobile, font: '', col_spacing: medium,
+    spacing_above: small, icon_align: left, col_widths: '', spacing_below: small,
+    italic: false, background: '', bold: false, underline: false, icon: ''}
+  name: home
+  layout_properties: {slot: title}
+- type: ColumnPanel
+  properties: {col_widths: '{}'}
+  name: column_panel_1
+  layout_properties: {slot: left-nav}
+  components:
+  - type: Link
+    properties: {role: null, url: '', align: left, tooltip: '', border: '', foreground: 'theme:White',
+      visible: true, text: les roches phosphatées, font_size: 18, wrap_on: mobile,
+      font: '', col_spacing: medium, spacing_above: small, icon_align: left, col_widths: '',
+      spacing_below: small, italic: true, background: 'theme:Primary 500', bold: true,
+      underline: false, icon: ''}
+    name: phospate
+    layout_properties: {grid_position: 'RMRJXM,WYKKPE'}
+  - type: Link
+    properties: {role: null, url: '', align: left, tooltip: '', border: '', foreground: 'theme:White',
+      visible: true, text: Synclinal perché de Dyr El Kef, font_size: 18, wrap_on: mobile,
+      font: '', col_spacing: medium, spacing_above: small, icon_align: left, col_widths: '',
+      spacing_below: small, italic: true, background: 'theme:Primary 500', bold: true,
+      underline: false, icon: ''}
+    name: link_2
+    layout_properties: {grid_position: 'YMMWXG,YCPQRY'}
+  - type: Link
+    properties: {role: null, url: '', align: left, tooltip: '', border: '', foreground: 'theme:White',
+      visible: true, text: Les roches volcaniques (ophites), font_size: 18, wrap_on: mobile,
+      font: '', col_spacing: medium, spacing_above: small, icon_align: left, col_widths: '',
+      spacing_below: small, italic: true, background: 'theme:Primary 500', bold: true,
+      underline: false, icon: ''}
+    name: link_3
+    layout_properties: {grid_position: 'SFIWEG,RZCQBD'}
+  - type: Link
+    properties: {role: null, url: '', align: left, tooltip: '', border: '', foreground: 'theme:White',
+      visible: true, text: Couche à Iridium et spinelles, font_size: 18, wrap_on: mobile,
+      font: '', col_spacing: medium, spacing_above: small, icon_align: left, col_widths: '',
+      spacing_below: small, italic: true, background: 'theme:Primary 500', bold: true,
+      underline: false, icon: ''}
+    name: link_4
+    layout_properties: {grid_position: 'NNFRQR,IISKQQ'}
+  - type: Link
+    properties: {}
+    name: link_5
+    layout_properties: {grid_position: 'TBPBML,XXEULU'}
+  - type: Link
+    properties: {}
+    name: link_6
+    layout_properties: {grid_position: 'TMHPYN,FKBXUI'}
+  - type: Link
+    properties: {}
+    name: link_7
+    layout_properties: {grid_position: 'SXZAVX,HOTKZR'}
+  - type: Link
+    properties: {}
+    name: link_8
+    layout_properties: {grid_position: 'VQBNSR,XGGCOI'}
+  - type: Link
+    properties: {}
+    name: link_9
+    layout_properties: {grid_position: 'KXTHTZ,SQWJDR'}
+  - type: Link
+    properties: {}
+    name: link_10
+    layout_properties: {grid_position: 'DWVXZF,QUCPLV'}
+  - type: Link
+    properties: {}
+    name: link_11
+    layout_properties: {grid_position: 'HEYSIF,SAMQVR'}

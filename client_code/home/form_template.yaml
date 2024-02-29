@@ -8,10 +8,13 @@ components:
   name: content_panel
   layout_properties: {slot: default}
   components:
-  - name: headline_1
-    properties: {role: headline}
-    type: Label
-    layout_properties: {grid_position: 'WGYZWK,BNNOBE'}
+  - type: Label
+    properties: {role: headline, align: center, tooltip: '', border: '', foreground: 'theme:Secondary
+        500', visible: true, text: Geological and Mining Heritage of the Kef Region (Tunisia),
+      font_size: null, font: '', spacing_above: small, icon_align: left, spacing_below: small,
+      italic: true, background: '', bold: true, underline: false, icon: ''}
+    name: headline_1
+    layout_properties: {grid_position: 'VWEKKA,RYVQQX'}
   - type: Image
     properties: {role: null, vertical_align: center, height: '200', tooltip: '', border: '',
       foreground: '', visible: true, display_mode: fill_width, spacing_above: small,
@@ -23,6 +26,7 @@ components:
   properties: {}
   name: navbar_links
   layout_properties: {slot: nav-right}
+  components: []
 - type: ColumnPanel
   properties: {col_widths: '{}'}
   name: column_panel_1

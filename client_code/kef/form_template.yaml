@@ -30,9 +30,8 @@ components:
         \ de l'homme pr\xe9historique, remontant au Pl\xe9istoc\xe8ne moyen (300 000\
         \ ans, site arch\xe9ologique de Sidi Zine, peintures rupestres de Dyr El Kef).\
         \ La ville du Kef a vu se succ\xe9der les civilisations : Carthaginoise, romaine,\
-        \ musulmane puis fran\xe7aise.\n\nTraduit avec www.DeepL.com/Translator (version\
-        \ gratuite)", font: '', spacing_above: small, spacing_below: small, data: null,
-      background: '', format: markdown}
+        \ musulmane puis fran\xe7aise.\n\n", font: '', spacing_above: small, spacing_below: small,
+      data: null, background: '', format: markdown}
     name: rich_text_1
     layout_properties: {grid_position: 'IVROGG,DFTLMN'}
 - type: ColumnPanel
