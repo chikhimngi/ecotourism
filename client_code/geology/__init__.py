@@ -3,6 +3,8 @@ from anvil import *
 import anvil.tables as tables
 import anvil.tables.query as q
 from anvil.tables import app_tables
+from ..ophites import ophites
+from ..phosphateDyr import phosphateDyr
 
 class geology(geologyTemplate):
   def __init__(self, **properties):
@@ -18,5 +20,16 @@ class geology(geologyTemplate):
   def link_3_click(self, **event_args):
     """This method is called when the link is clicked"""
     pass
+
+  def ophite_click(self, **event_args):
+    self.content_ophite.clear()
+    self.content_ophite.add_component(ophites())
+
+  def phospate_click(self, **event_args):
+    self.content_ophite.clear()
+    self.content_ophite.add_component(phosphateDyr())
+
+
+
 
 
