@@ -5,6 +5,8 @@ import anvil.tables.query as q
 from anvil.tables import app_tables
 from ..ophites import ophites
 from ..phosphateDyr import phosphateDyr
+from ..synclinal import synclinal
+from ..kt import kt
 
 class geology(geologyTemplate):
   def __init__(self, **properties):
@@ -28,6 +30,16 @@ class geology(geologyTemplate):
   def phospate_click(self, **event_args):
     self.content_ophite.clear()
     self.content_ophite.add_component(phosphateDyr())
+
+  def synclinal_click(self, **event_args):
+    self.content_ophite.clear()
+    self.content_ophite.add_component(synclinal())
+
+  def kt_click(self, **event_args):
+    self.content_ophite.clear()
+    self.content_ophite.add_component(kt())
+
+
 
 
 
