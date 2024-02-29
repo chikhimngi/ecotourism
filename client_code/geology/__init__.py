@@ -7,6 +7,7 @@ from ..ophites import ophites
 from ..phosphateDyr import phosphateDyr
 from ..synclinal import synclinal
 from ..kt import kt
+from ..grotte import grotte
 
 class geology(geologyTemplate):
   def __init__(self, **properties):
@@ -38,6 +39,11 @@ class geology(geologyTemplate):
   def kt_click(self, **event_args):
     self.content_ophite.clear()
     self.content_ophite.add_component(kt())
+
+  def grotte_click(self, **event_args):
+    self.content_ophite.clear()
+    self.content_ophite.add_component(grotte())
+
 
 
 
