@@ -22,6 +22,9 @@ class home(homeTemplate):
     self.content_panel.clear()
     self.content_panel.add_component(geopark())
 
+  def geology_click(self, **event_args):
+    open_form('geology')
+
 
 
 
