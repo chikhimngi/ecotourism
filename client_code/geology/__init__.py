@@ -8,6 +8,7 @@ from ..phosphateDyr import phosphateDyr
 from ..synclinal import synclinal
 from ..kt import kt
 from ..grotte import grotte
+from ..ammonite import ammonite
 
 class geology(geologyTemplate):
   def __init__(self, **properties):
@@ -43,6 +44,12 @@ class geology(geologyTemplate):
   def grotte_click(self, **event_args):
     self.content_ophite.clear()
     self.content_ophite.add_component(grotte())
+
+  def ammonite_click(self, **event_args):
+    self.content_ophite.clear()
+    self.content_ophite.add_component(ammonite())
+
+
 
 
 

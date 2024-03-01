@@ -54,6 +54,10 @@ components:
     name: phospate
     layout_properties: {grid_position: 'RMRJXM,WYKKPE'}
     event_bindings: {click: phospate_click}
+  - type: Spacer
+    properties: {height: 0}
+    name: spacer_1
+    layout_properties: {grid_position: 'NVZZKF,TTQHCA'}
   - type: Link
     properties: {role: null, url: '', align: left, tooltip: '', border: '', foreground: 'theme:White',
       visible: true, text: Synclinal perché de Dyr El Kef, font_size: 18, wrap_on: mobile,
@@ -63,6 +67,10 @@ components:
     name: synclinal
     layout_properties: {grid_position: 'YMMWXG,YCPQRY'}
     event_bindings: {click: synclinal_click}
+  - type: Spacer
+    properties: {height: 0}
+    name: spacer_2
+    layout_properties: {grid_position: 'CSHWQS,CAFGKZ'}
   - type: Link
     properties: {role: null, url: '', align: left, tooltip: '', border: '', foreground: 'theme:White',
       visible: true, text: Les roches volcaniques (ophites), font_size: 18, wrap_on: mobile,
@@ -72,6 +80,10 @@ components:
     name: ophite
     layout_properties: {grid_position: 'SFIWEG,RZCQBD'}
     event_bindings: {click: ophite_click}
+  - type: Spacer
+    properties: {height: 0}
+    name: spacer_3
+    layout_properties: {grid_position: 'UHUXKY,HGHUPQ'}
   - type: Link
     properties: {role: null, url: '', align: left, tooltip: '', border: '', foreground: 'theme:White',
       visible: true, text: Couche à Iridium et spinelles, font_size: 18, wrap_on: mobile,
@@ -81,6 +93,10 @@ components:
     name: kt
     layout_properties: {grid_position: 'NNFRQR,IISKQQ'}
     event_bindings: {click: kt_click}
+  - type: Spacer
+    properties: {height: 0}
+    name: spacer_4
+    layout_properties: {grid_position: 'KSADUO,XNDXAB'}
   - type: Link
     properties: {role: null, url: '', align: left, tooltip: '', border: '', foreground: 'theme:White',
       visible: true, text: Grotte à Stalactites et stalagmites, font_size: 18, wrap_on: mobile,
@@ -90,6 +106,10 @@ components:
     name: grotte
     layout_properties: {grid_position: 'TBPBML,XXEULU'}
     event_bindings: {click: grotte_click}
+  - type: Spacer
+    properties: {height: 0}
+    name: spacer_5
+    layout_properties: {grid_position: 'JPXONV,HFPLOM'}
   - type: Link
     properties: {role: null, url: '', align: left, tooltip: '', border: '', foreground: 'theme:White',
       visible: true, text: 'Horizon à Ammonite de l''Aptien ', font_size: 18, wrap_on: mobile,
@@ -98,6 +118,11 @@ components:
       underline: false, icon: ''}
     name: ammonite
     layout_properties: {grid_position: 'TMHPYN,FKBXUI'}
+    event_bindings: {click: ammonite_click}
+  - type: Spacer
+    properties: {height: 0}
+    name: spacer_6
+    layout_properties: {grid_position: 'BTPWGC,DKVCJZ'}
   - type: Link
     properties: {role: null, url: '', align: left, tooltip: '', border: '', foreground: 'theme:White',
       visible: true, text: Les calcaires récifaux  de l'Aptien, font_size: 18, wrap_on: mobile,
@@ -106,6 +131,10 @@ components:
       underline: false, icon: ''}
     name: recif
     layout_properties: {grid_position: 'SXZAVX,HOTKZR'}
+  - type: Spacer
+    properties: {height: 0}
+    name: spacer_7
+    layout_properties: {grid_position: 'BWFXFG,RQHQLN'}
   - type: Link
     properties: {role: null, url: '', align: left, tooltip: '', border: '', foreground: 'theme:White',
       visible: true, text: 'Phosphates de Sra Ouertane ', font_size: 18, wrap_on: mobile,
@@ -114,6 +143,10 @@ components:
       underline: false, icon: ''}
     name: link_8
     layout_properties: {grid_position: 'VQBNSR,XGGCOI'}
+  - type: Spacer
+    properties: {height: 0}
+    name: spacer_8
+    layout_properties: {grid_position: 'WDBYFI,XWWWPI'}
   - type: Link
     properties: {role: null, url: '', align: left, tooltip: '', border: '', foreground: 'theme:White',
       visible: true, text: Mégaslump dans l'Eocène, font_size: 18, wrap_on: mobile,

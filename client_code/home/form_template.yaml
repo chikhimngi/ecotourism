@@ -42,7 +42,7 @@ components:
     layout_properties: {grid_position: 'GQISQU,ALDGZZ'}
     event_bindings: {click: vist_kef_click}
   - type: Spacer
-    properties: {height: 1}
+    properties: {height: 0}
     name: spacer_1
     layout_properties: {grid_position: 'BPKOZL,KAIANU'}
   - type: Link
@@ -55,7 +55,7 @@ components:
     layout_properties: {grid_position: 'QXNNTC,PZJJCF'}
     event_bindings: {click: geoparck_click}
   - type: Spacer
-    properties: {height: 1}
+    properties: {height: 0}
     name: spacer_2
     layout_properties: {grid_position: 'KBQXPS,LEPGPO'}
   - type: Link
@@ -68,7 +68,7 @@ components:
     layout_properties: {grid_position: 'ZWQESP,ZSRLRW'}
     event_bindings: {click: geology_click}
   - type: Spacer
-    properties: {height: 2}
+    properties: {height: 0}
     name: spacer_3
     layout_properties: {grid_position: 'MFFKHP,AZFNOK'}
   - type: Link
@@ -80,7 +80,7 @@ components:
     name: link_4
     layout_properties: {grid_position: 'CNVMBS,ZMVZDD'}
   - type: Spacer
-    properties: {height: 4}
+    properties: {height: 0}
     name: spacer_4
     layout_properties: {grid_position: 'IPNNMC,GCUPFM'}
   - type: Link
