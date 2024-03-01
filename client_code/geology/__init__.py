@@ -9,6 +9,8 @@ from ..synclinal import synclinal
 from ..kt import kt
 from ..grotte import grotte
 from ..ammonite import ammonite
+from ..slata import slata
+from ..sraouertane import sraouertane
 
 class geology(geologyTemplate):
   def __init__(self, **properties):
@@ -48,6 +50,17 @@ class geology(geologyTemplate):
   def ammonite_click(self, **event_args):
     self.content_ophite.clear()
     self.content_ophite.add_component(ammonite())
+
+  def recif_click(self, **event_args):
+    self.content_ophite.clear()
+    self.content_ophite.add_component(slata())
+
+  def link_8_click(self, **event_args):
+    self.content_ophite.clear()
+    self.content_ophite.add_component(sraouertane())
+
+
+
 
 
 
