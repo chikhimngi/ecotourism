@@ -1,0 +1,73 @@
+container: {type: ColumnPanel}
+components:
+- name: column_panel_1
+  properties: {}
+  type: ColumnPanel
+  layout_properties: {grid_position: 'SAZMNE,DKUKGT'}
+  components:
+  - name: rich_text_1
+    properties: {content: "**I.\tIdentification**\n\n1.\tTh\xe8me /Sujet : Pli dans\
+        \ l\u2019Eoc\xe8ne \n2.\tSite : Kef R\u2019Gueb\n3.\t Localisation : 36,12067,\
+        \ 8.90201\n\n**II.\tConseils et informations pratiques**\n\n-\tSituation fonci\xe8\
+        re : Domaine de l\u2019Etat\n-\tAcc\xe8s : facile par une route goudronn\xe9\
+        e en bon \xe9tat\n-\tLieu d\xe9part vers le site : la ville du Kef (fig.2).\
+        \ \n\n-\tDistance \xe0 parcourir : 20km.\n-\tManque de signal\xe9tique\n-\t\
+        Sentiers d\u2019acc\xe8s au site non am\xe9nag\xe9s\n\n\n**III.\tDescriptif\
+        \ du site**\n\n**1.\tInt\xe9r\xeat de la visite du site**\n\n**nt\xe9r\xea\
+        t g\xe9ologique**:\n\nLe site correspond \xe0 un pli  faill\xe9 et d\xe9vers\xe9\
+        \ vers le NW affectant les alternances de calcaires et de marnes de la base\
+        \ de l\u2019Eoc\xe8ne. Ce pli est scell\xe9 par la dalle calcaire \xe0 nummulites\
+        \ de l\u2019Eoc\xe8ne. Cette structure indique que la r\xe9gion \xe9tait le\
+        \ si\xe8ge d\u2019une instabilit\xe9 tectonique contemporaine de s\xe9dimentation\
+        \ de la barre de calcaire \xe0 nummulites de l\u2019\xe9oc\xe8nes, il y a\
+        \ 65 Ma.\n\n**Int\xe9r\xeat paysag\xe9**\n\nLa s\xe9rie \xe9oc\xe8ne est travers\xe9\
+        e par une petite rivi\xe8re ou l\u2019eau a pu creuser au fil des ann\xe9\
+        es des sortes de sillons dans lesquels des petites cascades d\u2019eau ont\
+        \ \xe9t\xe9 cr\xe9\xe9es. Le calme de l\u2019endroit et le son de la chute\
+        \ de l\u2019eau en font un en lieu de repos et de relaxation.\n\n**Int\xe9\
+        r\xeat historique**\n\nTout pr\xe8s du pli \xe9oc\xe8ne on d\xe9couvre un\
+        \ moulin romain qui servait pour presser les olives (Tlili Mohamed, historien).\n\
+        \n**2.\tR\xe9sum\xe9 des informations importantes \xe0 retenir**\n\nL\u2019\
+        int\xe9r\xeat de ce site est de monter que la r\xe9gion a \xe9t\xe9 marqu\xe9\
+        e par une instabilit\xe9 tectonique en compression manifest\xe9e par la formation\
+        \ d\u2019un pli anticlinal affectant les alternances marno-calcaires de la\
+        \ base de l\u2019Eoc\xe8ne. Le pli est scell\xe9 par la dalle calcaire \xe0\
+        \ nummulites de l\u2019Eoc\xe8ne. \n\nLes calcaires \xe9oc\xe8nes de ce site\
+        \ constituent, comme dans tous le nord de la Tunisie, de bons r\xe9servoirs\
+        \ d\u2019eau potable. D\u2019ailleurs, \xe0 leur arriv\xe9e, les Romains,\
+        \ premiers occupants s\xe9dentaires, s\u2019installent surtout dans ces zones\
+        \ riches en eau et plus favorables au d\xe9veloppement de l\u2019habitat et\
+        \ de l\u2019agriculture et o\xf9 ont \xe9t\xe9 retrouv\xe9s divers vestiges\
+        \ en l\u2019occurrence le moulin \xe0 huile.\n\n**IV.\tEn savoir plus** :\
+        \ \n\n**R\xe9f\xe9rences bibliographiques**\n\nAbdessalem El Ghali et al.(\
+        \  2003)- Les manifestations tectoniques syns\xe9dimentaires associ\xe9es\
+        \ \xe0 la compression \xe9oc\xe8ne en Tunisie : implications pal\xe9og\xe9\
+        ographiques et structurales sur la marge Nord-Africaine- Comptes Rendus Geoscience\
+        \ Volume 335, Issue 9, September 2003, Pages 763-771\n\nBen Salem Habib (2017)-\
+        \ Le Pal\xe9oc\xe8ne et l\u2019Eoc\xe8ne-https://hbsgeol.wordpress.com/2017/12/26/le-paleocene-et-leocene/\n\
+        \nFouad Zargouni , Anis Krima (2003)- Les manifestations tectoniques syns\xe9\
+        dimentaires associ\xe9es \xe0 la compression \xe9oc\xe8ne en Tunisie : implications\
+        \ pal\xe9og\xe9ographiques et structurales sur la marge Nord-Africaine\n\n\
+        **Personnes ressources**\n\n-\tMongi Chikaoui- e-mail: Chikhaoui_mongi@yahoo.fr\n\
+        -\tMohamed Tlili, Histoire du Kef- http://elkef7100.free.fr/Histoire.htm\n\
+        \n\n"}
+    type: RichText
+    layout_properties: {grid_position: 'PFIUGF,NTBOUU'}
+- name: column_panel_2
+  properties: {}
+  type: ColumnPanel
+  layout_properties: {grid_position: 'SAZMNE,BJLINN POBRBR,FMURRP'}
+  components:
+  - name: image_1
+    properties: {source: _/theme/slump-eocene.jpg, display_mode: fill_width, tooltip: Pli dans les calcaires de l'Eocène}
+    type: Image
+    layout_properties: {grid_position: 'ORYMCF,VZOTOS'}
+- name: image_2
+  properties: {source: _/theme/kef Rgueb2.jpg, display_mode: fill_width, tooltip: Moulin romain}
+  type: Image
+  layout_properties: {grid_position: 'SAZMNE,BJLINN ZEIBYX,CEANOX'}
+- name: image_3
+  properties: {source: _/theme/kef Rgueb1.jpg, display_mode: fill_width, tooltip: Des petites cascades}
+  type: Image
+  layout_properties: {grid_position: 'SAZMNE,BJLINN GZIDNZ,ICJGHA'}
+is_package: true
