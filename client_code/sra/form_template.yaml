@@ -1,0 +1,45 @@
+container: {type: ColumnPanel}
+components:
+- name: column_panel_1
+  properties: {}
+  type: ColumnPanel
+  layout_properties: {grid_position: 'ELMUHT,BWJMZV'}
+  components:
+  - name: rich_text_1
+    properties: {content: "Sra Ouertane corresponds to a gently sloping plateau\n\n\
+        La photo montre un niveau tendre, masqu\xe9 par des \xe9boulis, correspondant\
+        \ \xe0 la s\xe9rie phosphat\xe9e de l'Ypr\xe9sien (tranch\xe9e). Au-dessu,\
+        \ repose la dalle calcaires \xe0 Nummulites d\u2019allure massive.\n\nle gisement\
+        \ de Sra Ouertane est un projet exemplaire d\u2019extraction, transformation\
+        \ et exploitation des phosphates dans la r\xe9gion du Ksour dans le gouvernorat\
+        \ du Kef. \n\uf09eLe gisement contient pr\xe8s de 5 Milliards de tonnes de\
+        \ minerais phosphat\xe9s de teneur moyenne 14% P2O5, et Il s\u2019agit de:\
+        \ \n\uf097Mise en concession de 25 % du gisement de Sra Ouertane. \n\uf097\
+        Cr\xe9ation d\u2019une soci\xe9t\xe9 mini\xe8re et d\u2019une soci\xe9t\xe9\
+        \ chimique \n\uf097Extraction et flottation de 4 Millions de tonnes de phosphate\
+        \ marchand par an. \n\uf097Transformation de 1 Million de tonnes P2O5 /an\
+        \ sous forme d\u2019acide phosphorique et engrais. \n\nImplantation des infrastructures\
+        \ requises : voie ferr\xe9e, site portuaire, adduction d\u2019eau, alimentation\
+        \ \xe9lectrique, d\xe9charge de phosphogypse, utilit\xe9s et stockages. \n\
+        \uf09eCo\xfbt de l\u2019investissement: 3 Milliards $ US (\u2248 2,1 Milliards\
+        \ \u20ac) \n"}
+    type: RichText
+    layout_properties: {grid_position: 'VIWBIW,ZVNLYM'}
+- name: column_panel_2
+  properties: {}
+  type: ColumnPanel
+  layout_properties: {grid_position: 'ELMUHT,KJVEWY'}
+  components:
+  - name: image_1
+    properties: {source: _/theme/sraouertane.png, display_mode: fill_width}
+    type: Image
+    layout_properties: {grid_position: 'PORKFX,HTCPPV'}
+  - name: image_2
+    properties: {source: _/theme/sraa1.png, display_mode: fill_width}
+    type: Image
+    layout_properties: {grid_position: 'ZNUEAH,ELVLSD'}
+  - name: image_3
+    properties: {source: _/theme/dents-sraa.png, display_mode: fill_width}
+    type: Image
+    layout_properties: {grid_position: 'HBDNJN,QTZSFP'}
+is_package: true

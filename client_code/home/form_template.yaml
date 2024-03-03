@@ -79,6 +79,7 @@ components:
       underline: false, icon: ''}
     name: link_4
     layout_properties: {grid_position: 'CNVMBS,ZMVZDD'}
+    event_bindings: {click: link_4_click}
   - type: Spacer
     properties: {height: 0}
     name: spacer_4

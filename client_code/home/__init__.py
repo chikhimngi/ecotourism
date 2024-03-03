@@ -2,6 +2,7 @@ from ._anvil_designer import homeTemplate
 from anvil import *
 from ..kef import kef
 from ..geopark import geopark
+from ..sra import sra
 
 class home(homeTemplate):
   def __init__(self, **properties):
@@ -24,6 +25,10 @@ class home(homeTemplate):
 
   def geology_click(self, **event_args):
     open_form('geology')
+
+  def link_4_click(self, **event_args):
+    self.content_panel.clear()
+    self.content_panel.add_component(sra())
 
 
 
