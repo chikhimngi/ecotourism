@@ -9,71 +9,60 @@ components:
   components:
   - type: RichText
     properties: {role: null, align: left, tooltip: '', enable_slots: true, border: '',
-      foreground: '', visible: true, font_size: null, content: "**I.\tIdentification**\n\
-        \n1.\tTh\xe8me /Sujet : Limite Cr\xe9tac\xe9-Tertiaire (site K/T)\n2.\tSite\
-        \ : Fej hadjar\n3.\tLocalisation : 36.15362, 8.64869\n\n**II.\tConseils et\
-        \ informations pratiques** :\n\n-\tSituation fonci\xe8re : inconnue\n-\tAcc\xe8\
-        s : facile par une route goudronn\xe9e en bon \xe9tat\n-\tLieu d\xe9part vers\
-        \ le site : la ville du Kef \n-\tDistance \xe0 parcourir : environ 7 km\n\
-        -\tSignal\xe9tiques install\xe9s par l\u2019Office National des Mines, disparus\
-        \ plus tard\n-\tSentiers d\u2019acc\xe8s au site non am\xe9nag\xe9s\n-\tRisque\
-        \ de disparition du site par l\u2019\xe9rosion \n\n\n**III.\tDescriptif du\
-        \ site**\n\n**1.\tInt\xe9r\xeat de la visite du site**\n\nLa limit\xe9 Cr\xe9\
-        tac\xe9-Tertiaire a \xe9t\xe9 \xe9tudi\xe9e au Sud de la route, au niveau\
-        \ de l\u2019Oued Hadjar. Il   pr\xe9sentant des int\xe9r\xeats :\n\n-\tPaysager\
-        \ : caract\xe9ris\xe9 par deux collines \xe9rod\xe9es ou bois\xe9es, s\xe9\
-        par\xe9es par une vaste combe occup\xe9e par des terrains agricoles et travers\xe9\
-        e par l\u2019Oued Djerfane (fig.2). Des habitations sont parsem\xe9es \xe7\
-        a et l\xe0 sont accol\xe9es aux diff\xe9rentes collines ;\n\n-\tG\xe9ologique\
-        \ : la colline situ\xe9e au NW de l\u2019Oued Djerfane est constitu\xe9e d\u2019\
-        une barre de calcaires de couleur blanch\xe2tre et de marnes grises. On voit\
-        \ en mi-pente une suite de bancs calcaires et de marnes blancs qui plongent\
-        \ vers la combe. La colline situ\xe9e au SE de l\u2019Oued Djerfane est form\xe9\
-        e de calcaires \xe0 nummulites. Les deux collines sont s\xe9par\xe9es par\
-        \ une vaste combe de marnes grises de 600 m d\u2019\xe9paisseur. \n\n-\tPal\xe9\
-        ontologique : les \xe9tudes pal\xe9ontologiques ont permis d\u2019attribuer\
-        \ les calcaires blancs au Cr\xe9tac\xe9 sup\xe9rieur. Le reste de la s\xe9\
-        rie marneuse au Pal\xe9oc\xe8ne. Les calcaires \xe0 nummulites de la seconde\
-        \ colline \xe0 l\u2019Eoc\xe8ne.\n\n\n**2.\tR\xe9sum\xe9 des informations\
-        \ importantes \xe0 retenir**: \n\nIl apparait que la limite du Cr\xe9tac\xe9\
-        -Tertiaire ou K/T passe exactement dans l\u2019Oued Djerfane. Et c\u2019est\
-        \ l\xe0 que les recherches ont d\xe9cel\xe9 l\u2019existence d\u2019une couche\
-        \ d\u2019argile millim\xe9trique (photo 1) pr\xe9sentant un taux anormal d'iridium.\
-        \ Celui-ci est rare sur Terre, mais plus abondant dans certaines m\xe9t\xe9\
-        orites. \n\nLa limite Cr\xe9tac\xe9-Tertiaire ou site K/T est situ\xe9 \xe0\
-        \ environ 7 km de la ville du Kef au niveau de la localit\xe9 de Fej Hadjar.\
-        \ On y acc\xe8de par une route goudronn\xe9e qui va jusqu\u2019\xe0 Hammam\
-        \ Mell\xe8gue (fig.2).\n\nL\u2019une des \xe9nigmes qui a longtemps embarrass\xe9\
-        \ les scientifiques \xe9tait l\u2019extinction des dinosaures au passage Cr\xe9\
-        tac\xe9-Tertiaire.\n\nLes recherches scientifiques effectu\xe9es au niveau\
-        \ de la limite Cr\xe9tac\xe9-Tertiaire (K/T) dans une centaine de sites dans\
-        \ le monde, y compris le site K/T du Kef (fig. 2), ont d\xe9montr\xe9 l\u2019\
-        extinction de 70% des esp\xe8ces animales et v\xe9g\xe9tales y compris les\
-        \ Dinosaures. Cette extinction massive aurait \xe9t\xe9 caus\xe9e par la percussion\
-        \ de la Terre par ast\xe9ro\xefde g\xe9ant, il y a      -65 Ma. C'est la cinqui\xe8\
-        me extinction de masse de l'histoire du vivant.\n\nL\u2019impact de cette\
-        \ m\xe9t\xe9orite sur Terre a \xe9t\xe9 localis\xe9 pr\xe8s l\u2019actuel\
-        \ village de Chicxulub, sur la c\xf4te du Yucatan, au Mexique (fig. 4).\n\
-        Les recherches effectu\xe9es sur la couche argileuse du Kef (fig.2, photo\
-        \ 1) ont montr\xe9 qu\u2019elle est l\u2019unique au monde ayant fossilis\xe9\
-        \ tous les ph\xe9nom\xe8nes de l\u2019impact, sans aucune lacune.  Elle \xe9\
-        t\xe9 d\xe9sign\xe9 comme un stratotype mondial lors du 28\xb0 Congr\xe8s\
-        \ G\xe9ologique International de Washington (1989). Elle figure depuis 2016\
-        \ sur la liste indicative de l\u2019UNESCO. Son classement est demeur\xe9\
-        \ en instance car le dossier scientifique qui devrait \xeatre pr\xe9par\xe9\
-        \ et remis \xe0 l\u2019UNESCO n\u2019est encore pas jusqu\u2019\xe0 nos jours.\n\
-        \n**IV.\tEn savoir plus**\n\nR\xe9f\xe9rences bibliographiques\n-\tBen Salem\
+      foreground: '', visible: true, font_size: null, content: "**I. Identification**\n\
+        1.\tTheme /Subject: Cretaceous-Tertiary boundary (K/T site)\n2.\tSite: Fej\
+        \ hadjar\n3.\tLocation: 36.15362, 8.64869\n\n**II.\tTips and practical information**\
+        \ :\n\n- Land situation: unknown\n- Access: easy via tarmac road in good condition\n\
+        - Departure point : the town of Le Kef \n- Distance: approx. 7 km\n- Signs\
+        \ installed by the Office National des Mines, later removed\n- Undeveloped\
+        \ access paths to the site\n- Risk of site disappearance due to erosion \n\
+        \n\n**III.\tSite description**\n\n**1 Why visit the site?**\n\nThe Cretaceous-Tertiary\
+        \ limit was studied to the south of the road, at Oued Hadjar level. It is\
+        \ of interest for :\n\n- Landscape: characterized by two eroded or wooded\
+        \ hills, separated by a vast combe occupied by agricultural land and crossed\
+        \ by the Oued Djerfane (fig.2). Dwellings are scattered here and there on\
+        \ the various hills;\n\n- Geology: the hill to the NW of Oued Djerfane consists\
+        \ of a bar of whitish limestone and grey marl. At mid-slope, a series of white\
+        \ limestone and marl beds plunge down towards the combe. The hill to the SE\
+        \ of Oued Djerfane is formed of nummulite limestone. The two hills are separated\
+        \ by a vast combe of grey marl 600 m thick. \n\n- Paleontology: paleontological\
+        \ studies have attributed the white limestones to the Upper Cretaceous. The\
+        \ rest of the marl series is Paleocene. The nummulite limestones of the second\
+        \ hill are Eocene.\n\n\n**2.\tSummary of important information to remember**:\
+        \ \n\nIt appears that the Cretaceous-Tertiary or K/T boundary passes exactly\
+        \ in the Oued Djerfane. This is where research has revealed the existence\
+        \ of a millimetric clay layer (photo 1) with an abnormal iridium content.\
+        \ Iridium is rare on Earth, but more abundant in certain meteorites. \n\n\
+        The Cretaceous-Tertiary boundary, or K/T site, is located around 7 km from\
+        \ the town of Le Kef, in the Fej Hadjar locality. It is reached by a tarmac\
+        \ road that runs as far as Hammam Mell\xe8gue (fig.2).\n\nOne of the enigmas\
+        \ that has long puzzled scientists was the extinction of the dinosaurs during\
+        \ the Cretaceous-Tertiary transition.\n\nScientific research carried out at\
+        \ the Cretaceous-Tertiary (K/T) boundary in some 100 sites around the world,\
+        \ including the K/T site at Le Kef (fig. 2), has demonstrated the extinction\
+        \ of 70% of animal and plant species, including the dinosaurs. This mass extinction\
+        \ is thought to have been caused by the impact of a giant asteroid on the\
+        \ Earth 65 million years ago. It was the fifth mass extinction in the history\
+        \ of life.\n\nThe impact of this meteorite on Earth was located near the present-day\
+        \ village of Chicxulub, on Mexico's Yucatan coast (fig. 4).\n\nResearch carried\
+        \ out on the Kef clay layer (fig.2, photo 1) has shown that it is the only\
+        \ one in the world to have fossilized all the impact phenomena, without any\
+        \ gaps.  It was designated as a world stratotype at the 28th International\
+        \ Geological Congress in Washington (1989). It has been on UNESCO's tentative\
+        \ list since 2016. Its classification is still pending, as the scientific\
+        \ file that should be prepared and submitted to UNESCO has not yet been completed.\n\
+        \n**IV.\tFurther information**\n\n**Bibliographical references**\n- Ben Salem\
         \ Habib, Donze Pierre (1995) - general presentation of the Cretaceous-Tertiary\
-        \ (K/T)boundary type section of El Kef, Tunisia-ONM\n-\tLe Stratotype de la\
-        \ limite Cr\xe9tac\xe9-Tertiaire (limite K-T)- UNESCO https://whc.unesco.org/fr/listesindicatives/6088/\n\
-        -\tJ. Smita, G. Keller b, F. Zargouni, S. Razgallah , M. Shimi, 0. Ben Abdelkader\
-        \ C, N. Ben Haj Ali, H. Ben Salem (1997)- The El Kef sections and shampoing\
-        \ proc\xe9dures. Marine Micropaleontology 29 (1997) 6% 103\n-\tNarjess Karoui\
-        \ et al.(1999)-  The Cretaceous-Tertiary (K/T) mass extinction in planktic\
+        \ (K/T)boundary type section of El Kef, Tunisia-ONM\n- The Cretaceous-Tertiary\
+        \ (K/T)boundary Stratotype - UNESCO https://whc.unesco.org/fr/listesindicatives/6088/\n\
+        - J. Smita, G. Keller b, F. Zargouni, S. Razgallah , M. Shimi, 0. Ben Abdelkader\
+        \ C, N. Ben Haj Ali, H. Ben Salem (1997)- The El Kef sections and shampoo\
+        \ procedures. Marine Micropaleontology 29 (1997) 6% 103\n- Narjess Karoui\
+        \ et al.(1999)- The Cretaceous-Tertiary (K/T) mass extinction in planktic\
         \ foraminifera at Elles I and El Melah, Tunisia - Palaeogeography, Palaeoclimatology,\
-        \ Palaeoecology 178 (2002) 233-255\n\n**Personnes ressources**\n-\tMongi Chikhaoui\
-        \ e-mail: Chikhaoui_mongi@yahoo.fr\n-\tBen Salem Habib: https://www.facebook.com/habib.bensalem.77985\n",
-      font: '', spacing_above: small, spacing_below: small, data: null, background: '',
+        \ Palaeoecology 178 (2002) 233-255\n\n**Resource persons**\n - Mongi Chikhaoui\n\
+        - Mongi Chikhaoui e-mail: Chikhaoui_mongi@yahoo.fr\n- Ben Salem Habib: https://www.facebook.com/habib.bensalem.77985\n\
+        \n", font: '', spacing_above: small, spacing_below: small, data: null, background: '',
       format: markdown}
     name: rich_text_1
     layout_properties: {grid_position: 'MTZSXV,TWNUQG'}

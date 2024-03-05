@@ -10,40 +10,31 @@ components:
   - type: RichText
     properties: {role: null, align: left, tooltip: '', enable_slots: true, border: '',
       foreground: '', visible: true, font_size: null, content: "**I.\tIdentification**\n\
-        \n1. Th\xe8me /Sujet : Le niveau phosphat\xe9 \xe0 glauconie \n2. Arr\xea\
-        t C1a : flanc Sud Est de Dyr El Kef (fig.1 et 3)\n3. Localisation : 36.18523,\
-        \ 8.71980\n\n**II.\tConseils et informations pratiques** :\n\n- Situation\
-        \ fonci\xe8re : Domaine de l\u2019Etat\n- Acc\xe8s : facile par une route\
-        \ goudronn\xe9e en bon \xe9tat\n- Lieu d\xe9part vers le site : Palais Pr\xe9\
-        sidentiel (fig.2).\n- Distance \xe0 parcourir : circuit A (environ 1.8 km),\
-        \ circuit B (890m)\n- Manque de signal\xe9tique\n- Sentiers d\u2019acc\xe8\
-        s au site non am\xe9nag\xe9s\n- Risque de disparition par l\u2019alt\xe9ration\
-        \ et l\u2019action de l\u2019homme\n- Installer des panneaux de signalisation\
-        \ \xe0 l\u2019entr\xe9e du site\n- Mettre \xe0 la disposition visiteurs des\
-        \ affiches et d\xe9pliants d\xe9crivant le site \n- Installer des panneaux\
-        \ expliquant l\u2019int\xe9r\xeat du site pour le g\xe9otourisme \n- installer\
-        \ des panneaux d\u2019interdiction d\u2019\xe9chantillonnage et d\xe9gradation\
-        \ des sites\n\n**III.\tDescription du site**\n\n**1.\tInt\xe9r\xeat de la\
-        \ visite du site**\n\nIl s\u2019agit de d\xe9couvrir un site g\xe9ologique\
-        \ remarquable par son int\xe9r\xeat : \n\n-\t**G\xe9ologique** (pr\xe9sences\
-        \ de fossiles d\u2019organismes divers, surtout de grosses nummulites, et\
-        \ des dents de requins, de plusieurs couches de phosphates reconnaissables\
-        \ par leur teinte gris\xe2tre, leur texture grenue, leur odeur f\xe9tide et\
-        \ leur richesse en grains de glauconie, min\xe9ral argileux verd\xe2tre, facilement\
-        \ rep\xe9rable), \n\n-\t**P\xe9dagogique**(pr\xe9sentation de la s\xe9rie\
-        \ g\xe9ologique aux \xe9l\xe8ves du scolaire leurs permet d\u2019y appr\xe9\
-        hender l\u2019histoire de la g\xe9ologie de la r\xe9gion, en particulier comment\
-        \ les couches s\xe9dimentaires se sont d\xe9pos\xe9es, leur \xe2ges, les fossiles\
-        \ visibles, le mode de gisement du phosphate, etc.\u2026), \n\n-\t**Historique**(existence\
-        \ \xe0 proximit\xe9 de trois cimeti\xe8res musulmane, chr\xe9tien et juif\
-        \ c\xf4te \xe0 c\xf4te, des thermes romains, du temple de Venus et des \xe9\
-        critures rupestres),\n\n-\t**Paysager** puisqu\u2019il domine la ville du\
-        \ Kef qui s\u2019\xe9tend en contre bas avec son c\xe9l\xe8bre Kasbha, les\
-        \ vastes plaines verdoyantes (surtout au printemps) qui s\u2019\xe9tendent\
-        \ sur des dizaines de kilom\xe8tres tout autour de la ville, parsem\xe9es\
-        \ de montagnes dont on peut voire \xe0 l\u2019horizon celles qui se trouvent\
-        \ en Alg\xe9rie.\n\n", font: '', spacing_above: small, spacing_below: small,
-      data: null, background: '', format: markdown}
+        \n1. Theme /Subject: Glauconia phosphate level \n2. Stop C1a: south-east flank\
+        \ of Dyr El Kef (fig.1 and 3)\n3. Location: 36.18523, 8.71980\n\n**II.\tTips\
+        \ and practical information** :\n\n- Land situation: State-owned\n- Access:\
+        \ easy via tarmac road in good condition\n- Departure point: Presidential\
+        \ Palace (fig.2).\n- Distance: circuit A (approx. 1.8 km), circuit B (890m)\n\
+        - Lack of signage\n- Access paths to site not developed\n- Risk of disappearance\
+        \ through alteration and human action\n- Install signposts at site entrance\n\
+        - Provide visitors with posters and leaflets describing the site \n- Install\
+        \ signs explaining the site's interest in geotourism \n- Install signs prohibiting\
+        \ sampling and site degradation.\n\n**III.\tSite description**\n\n**1 Why\
+        \ visit the site?**\n\nThe aim is to discover a geological site that is remarkable\
+        \ for its : \n\n- Geology  (fossils of various organisms, especially large\
+        \ nummulites and sharks' teeth, several layers of phosphates recognizable\
+        \ by their grayish hue, grainy texture, fetid odor and richness in grains\
+        \ of glauconie, an easily identifiable greenish clay mineral), \n\n- Pedagogy\
+        \  (presentation of the geological series to schoolchildren enables them to\
+        \ learn about the history of the region's geology, in particular how the sedimentary\
+        \ layers were deposited, their ages, visible fossils, how phosphate was deposited,\
+        \ etc....), \n\n- History (three Muslim, Christian and Jewish cemeteries exist\
+        \ side by side, as do Roman baths, the Temple of Venus and rock writings),\n\
+        \n- Landscape as it overlooks the town of Le Kef, with its famous Kasbha,\
+        \ and the vast green plains (especially in spring) that stretch for dozens\
+        \ of kilometers around the town, dotted with mountains that can be seen on\
+        \ the horizon as far away as Algeria.\n", font: '', spacing_above: small,
+      spacing_below: small, data: null, background: '', format: markdown}
     name: rich_text_1
     layout_properties: {grid_position: 'YZZJKY,YAGBME'}
 - type: Image

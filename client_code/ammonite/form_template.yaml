@@ -9,52 +9,47 @@ components:
   components:
   - type: RichText
     properties: {role: null, align: left, tooltip: '', enable_slots: true, border: '',
-      foreground: '', visible: true, font_size: null, content: "**I.\tIdentification**\n\
-        \n1.\tTh\xe8me /Sujet : Le niveau d\u2019ammonites \n2.\tSite : Jebel Harraba\n\
-        3.\t Localisation : 35.98873, 8.34510\n\n**II.\tConseils et informations pratiques**\
-        \ :\n\n-\tSituation fonci\xe8re : Domaine de l\u2019Etat\n-\tAcc\xe8s : facile\
-        \ par une piste carrossable de 1km de distance, \xe0 de la route J. Harraba-J.Slata\
-        \ (fig.2).\n-\tLieu d\xe9part vers le site : Circuit du Kef vers J. Harraba\
-        \ (fig.1). \n\n\n-\tDistance \xe0 parcourir : environ 43 km\n-\tManque de\
-        \ signal\xe9tique\n-\tSentiers d\u2019acc\xe8s au site non am\xe9nag\xe9s\n\
-        -\tMettre en place des panneaux d\u2019interdiction de pr\xe9l\xe8vement des\
-        \ fossiles \n\n\n**III.\tDescriptif du site**\n\n**1.\tInt\xe9r\xeat de la\
-        \ visite du site**\n\n**G\xe9ologique**\n\nLe site en question est situ\xe9\
-        \ au nord du Jebel Harraba. On y acc\xe8de par une piste carrossable \xe0\
-        \ partir de la route qui relie J. Harraba au J. Slata\n\nPal\xe9ontologiquement,\
-        \ le site en question correspond \xe0 une couche m\xe9trique form\xe9e de\
-        \ gr\xe8s roux portant de nombreuses empruntes de grosses ammonites (photos).\
-        \ Le banc gr\xe9seux marque le passage entre l\u2019Aptien sup\xe9rieur (-108\
-        \ Ma), repr\xe9sent\xe9s par les calcaires r\xe9cifaux et l\u2019Albien (-108\
-        \ \xe0 -96 Ma) repr\xe9sent\xe9 par une \xe9paisse s\xe9rie essentiellement\
-        \ marneuse \xe0 intercalations calcaires en bancs centim\xe9triques. \n\n\
-        Le visiteur qui arrive au niveau du banc se trouva en fait devant un gisement\
-        \ d\u2019ammonites pyriteuses, de tailles et de formes de diff\xe9rentes,\
-        \ ne montrant aucune organisation mais dispos\xe9s p\xe8le m\xeale (photo).\
-        \  \nOn peut se permettre de prendre quelques ammonites mais en prenant soin\
-        \ de ne pas d\xe9molir le banc.\n\n**2.\tR\xe9sum\xe9 des informations importantes\
-        \ \xe0 retenir** \n\n**Pal\xe9og\xe9ographique**\n\nLes ammonites sont des\
-        \ organismes marins ayant apparus d\xe8s le D\xe9vonien (\u2212419 \xe0 \u2212\
-        359 Ma). \nIls ont disparus avec les dinosaures apr\xe8s la crise de la limite\
-        \ du Cr\xe9tac\xe9-Tertiaires (-65 Ma). \n\nPendant l\u2019Aptien sup\xe9\
-        rieur (-108 Ma), la r\xe9gion correspondait \xe0 un domaine de plateforme\
-        \ peu profonde, d\xe9coup\xe9e une s\xe9ries de haut fonds et de bassins.\
-        \ A l\u2019aplomb des zones hautes se d\xe9posaient les calcaires r\xe9cifaux\
-        \ riche en fossiles d\u2019organismes divers (rudistes, coraux, orbitolines).\
-        \  Vers la fin de l\u2019Aptien et le d\xe9but de l\u2019Albien, le niveau\
-        \ marin augmente, on parle de transgression. Les d\xe9p\xf4ts deviennent plus\
-        \ marneux avec une faune de milieu marin profond.\n\nLe niveau gr\xe9seux\
-        \ \xe0 ammonite s\u2019est d\xe9pos\xe9 pendant la transgression de la mer.\
-        \ Les ammonites qui nageaient dans l\u2019eau de mer tombent apr\xe8s leur\
-        \ mort dans le fond et sont m\xe9lang\xe9s avec les s\xe9diments. C\u2019\
-        est pourquoi ces fossiles sont dispos\xe9s p\xe8le m\xeale dans le s\xe9diment\
-        \ (photo). \n\n\n**IV.\tEn savoir plus** : \n\n**R\xe9f\xe9rences bibliographiques**\n\
-        \nBurollet, P.F. 1956: Contribution \xe0 l'\xe9tude stratigraphique de la\
-        \ Tunisie centrale. Ann. Mines G\xe9ol. (Tunis) 18. \u2014 1985: Signification\
+      foreground: '', visible: true, font_size: null, content: "\n\nI.\_\_ Identification\n\
+        \n\_\n\n1.\_\_\_\_ Theme /Subject : Ammonite level\n\n2.\_\_\_\_ Site: Jebel\
+        \ Harraba\n\n3.\_\_\_\_  Location: 35.98873, 8.34510\n\n\_\n\n**II.\_ Advice\
+        \ and practical information** :\n\n\_\n\n- Land status: State-owned\n\n- Access:\
+        \ easy via a 1km carriageway off the J. Harraba-J.Slata road (fig.2).\n\n\
+        - Departure point to site: Circuit du Kef vers J. Harraba (fig.1). \n\n\_\n\
+        \n\_\n\n- Distance:approx. 43 km\n\n- Lack of signposting\n\n- Access paths\
+        \ to site not developed\n\n- Put up signs prohibiting fossil collecting. \n\
+        \n\_\n\n\_\n\n**III. Site description\n\n\_\n\n1. interest in visiting the\
+        \ site** **Geological\n\n\_\n\n**Geological**\n\n\_\n\nThe site in question\
+        \ is located to the north of Jebel Harraba. It is accessed via a track from\
+        \ the road linking J. Harraba to J. Slata.\n\n\_\n\n**Paleontologically,**\n\
+        \nthe site in question corresponds to a metric layer of red sandstone bearing\
+        \ numerous large ammonite footprints (photos). The sandstone bed marks the\
+        \ transition between the Upper Aptian (-108 Ma), represented by reef limestones,\
+        \ and the Albian (-108 to -96 Ma), represented by a thick, essentially marly\
+        \ series with limestone intercalations in centimetric beds. \n\n\_\n\nThe\
+        \ visitor arriving at the level of the bench will in fact find himself in\
+        \ front of a deposit of pyrite ammonites, of various sizes and shapes, showing\
+        \ no organization but arranged in a jumble (photo).\_\n\n\n\_\n\nYou can take\
+        \ the liberty of picking up a few ammonites, but you must be careful not to\
+        \ damage them.\n\n\_\n\n\_\n\n**Palaeogeography**\n\n\_\n\nAmmonites are marine\
+        \ organisms that appeared as early as the Devonian (-419 to -359 Ma). \n\n\
+        They disappeared with the dinosaurs after the crisis of the Cretaceous-Tertiary\
+        \ boundary (-65 Ma). \n\n\_\n\nDuring the Upper Aptian (-108 Ma), the region\
+        \ corresponded to a shallow platform domain, cut by a series of shoals and\
+        \ basins. Reef limestones, rich in fossils of various organisms (rudists,\
+        \ corals, orbitolines), were deposited below the high zones.\_ Towards the\
+        \ end of the Aptian and the beginning of the Albian, the sea level rose, a\
+        \ process known as transgression. Deposits become more marly, with deep-sea\
+        \ fauna.\n\n\_\n\nThe ammonite-bearing sandstone level was deposited during\
+        \ the sea transgression. The ammonites that swam in the seawater fell to the\
+        \ bottom after their death and were mixed with the sediment. This is why these\
+        \ fossils are arranged in a jumble in the sediment (photo). \n\n\_\n\n\_\n\
+        \n**IV. Further information** : \n\n\_\n\n**Bibliographical references**\n\
+        \n\_\n\nBurollet, P.F. 1956: Contribution \xe0 l'\xe9tude stratigraphique\n\
+        de la Tunisie centrale. Ann. Mines G\xe9ol. (Tunis) 18. - 1985: Signification\
         \ g\xe9ologique de l'Axe nord-sud. 1er Congr. nat. Sci. Terre (Tunis, 1981).\n\
-        Bolze, J., Burollet, P.F. & Castany, J. 1952: Le sillon tunisien. 19\xe8me\
-        \ Congr. g\xe9ol. int. (Alger), Monogr. reg. 2\xe8me S\xe9r.: Tunisie - 5.\n\
-        \n", font: '', spacing_above: small, spacing_below: small, data: null, background: '',
+        \nBolze, J., Burollet, P.F. & Castany, J. 1952: Le sillon\ntunisien. 19\xe8\
+        me Congr. g\xe9ol. int. (Alger), Monogr. reg. 2\xe8me S\xe9r.: Tunisie - 5.\n\
+        \n\n", font: '', spacing_above: small, spacing_below: small, data: null, background: '',
       format: markdown}
     name: rich_text_1
     layout_properties: {grid_position: 'MKCFMU,CCUCCW'}
