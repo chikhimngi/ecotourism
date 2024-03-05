@@ -74,5 +74,26 @@ components:
   properties: {col_widths: '{}'}
   name: column_panel_2
   layout_properties: {grid_position: 'ECYDMH,URKIYU GMRZKQ,AWMDKS'}
-  components: []
+  components:
+  - name: image_1
+    properties: {source: _/theme/dyr.png, display_mode: fill_width, tooltip: Eocene perched syncline}
+    type: Image
+    layout_properties: {grid_position: 'PTCMAI,RKEZXQ'}
+  - name: image_2
+    properties: {source: _/theme/nummulites.png, display_mode: fill_width, tooltip: Nummulite fossils}
+    type: Image
+    layout_properties: {grid_position: 'VGRFVV,BGMJUO'}
+  - name: image_3
+    properties: {source: _/theme/carte_dyr.png, display_mode: fill_width, tooltip: dyr el Kef aerial photo}
+    type: Image
+    layout_properties: {grid_position: 'NRPVCN,WJFKZG'}
+- name: image_4
+  properties: {source: _/theme/pli.png, display_mode: fill_width, tooltip: 'Rock deformation
+      and fold formation model- a: horizontal startes, b: Anticline, c: Syncline'}
+  type: Image
+  layout_properties: {grid_position: 'ECYDMH,URKIYU FVWAXI,WPJLRS'}
+- name: image_5
+  properties: {source: _/theme/modrl_pli.png, display_mode: fill_width, tooltip: Eocene perched syncline of Dyr El Kef framed by Cretaceous anticlines}
+  type: Image
+  layout_properties: {grid_position: 'ECYDMH,URKIYU DEPOVO,CXDCRU'}
 is_package: true

@@ -49,15 +49,15 @@ components:
   layout_properties: {grid_position: 'SAZMNE,BJLINN POBRBR,FMURRP'}
   components:
   - name: image_1
-    properties: {source: _/theme/slump-eocene.jpg, display_mode: fill_width, tooltip: Pli dans les calcaires de l'Eocène}
+    properties: {source: _/theme/slump-eocene.jpg, display_mode: fill_width, tooltip: Folded strata in the Eocene formation}
     type: Image
     layout_properties: {grid_position: 'ORYMCF,VZOTOS'}
 - name: image_2
-  properties: {source: _/theme/kef Rgueb2.jpg, display_mode: fill_width, tooltip: Moulin romain}
+  properties: {source: _/theme/kef Rgueb2.jpg, display_mode: fill_width, tooltip: roman mill}
   type: Image
   layout_properties: {grid_position: 'SAZMNE,BJLINN ZEIBYX,CEANOX'}
 - name: image_3
-  properties: {source: _/theme/kef Rgueb1.jpg, display_mode: fill_width, tooltip: Des petites cascades}
+  properties: {source: _/theme/kef Rgueb1.jpg, display_mode: fill_width, tooltip: ''}
   type: Image
   layout_properties: {grid_position: 'SAZMNE,BJLINN GZIDNZ,ICJGHA'}
 is_package: true
