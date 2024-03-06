@@ -1,5 +1,10 @@
 container: {type: ColumnPanel}
 components:
+- name: headline_1
+  properties: {role: headline, text: Jerissa Iron Mine, align: center, bold: true,
+    foreground: 'theme:Secondary 700'}
+  type: Label
+  layout_properties: {grid_position: 'JMHQEP,MWBVPT'}
 - name: column_panel_1
   properties: {}
   type: ColumnPanel
