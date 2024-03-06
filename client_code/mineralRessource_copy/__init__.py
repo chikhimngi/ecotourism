@@ -13,3 +13,7 @@ class mineralRessource_copy(mineralRessource_copyTemplate):
   def sraa_phosphate_click(self, **event_args):
     self.column_panel_3.clear()
     self.column_panel_3.add_component(OuertanePhosphate())
+
+  def Jerissa_Mine_click(self, **event_args):
+    """This method is called when the link is clicked"""
+    pass

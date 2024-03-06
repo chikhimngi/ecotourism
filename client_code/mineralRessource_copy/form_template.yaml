@@ -11,6 +11,7 @@ components:
     type: Link
     layout_properties: {grid_position: 'ZELPZF,AFFKBD'}
     components: []
+    event_bindings: {click: Jerissa_Mine_click}
   - name: sraa_phosphate
     properties: {text: Sra Ouertane phosphate Project, background: 'theme:Secondary
         500', foreground: 'theme:White', align: center, font_size: 20}

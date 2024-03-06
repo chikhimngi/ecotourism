@@ -1,3 +1,37 @@
 container: {type: ColumnPanel}
-components: []
+components:
+- name: column_panel_1
+  properties: {}
+  type: ColumnPanel
+  layout_properties: {grid_position: 'JDHBAW,LSLDTJ'}
+  components:
+  - name: rich_text_1
+    properties: {}
+    type: RichText
+    layout_properties: {grid_position: 'NARCNS,SWDMUU'}
+- name: column_panel_2
+  properties: {}
+  type: ColumnPanel
+  layout_properties: {grid_position: 'JDHBAW,BFKMOA'}
+  components:
+  - name: image_1
+    properties: {}
+    type: Image
+    layout_properties: {grid_position: 'WUCUYT,ZHMIRU'}
+  - name: image_2
+    properties: {}
+    type: Image
+    layout_properties: {grid_position: 'AWTCQL,ORZCNX'}
+  - name: image_3
+    properties: {}
+    type: Image
+    layout_properties: {grid_position: 'NQZIRM,HIQXJH'}
+  - name: image_4
+    properties: {}
+    type: Image
+    layout_properties: {grid_position: 'NKCMKX,HOFHBU'}
+  - name: image_5
+    properties: {}
+    type: Image
+    layout_properties: {grid_position: 'WGXINH,NJHHEC'}
 is_package: true
