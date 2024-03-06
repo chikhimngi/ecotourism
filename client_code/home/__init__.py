@@ -5,6 +5,7 @@ from ..geopark import geopark
 from ..mineralRessource_copy import mineralRessource_copy
 
 
+
 class home(homeTemplate):
   def __init__(self, **properties):
     # Set Form properties and Data Bindings.

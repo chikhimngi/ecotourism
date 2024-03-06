@@ -2,6 +2,7 @@ from ._anvil_designer import mineralRessource_copyTemplate
 from anvil import *
 import anvil.server
 from ..OuertanePhosphate import OuertanePhosphate
+from ..jerissa import jerissa
 
 class mineralRessource_copy(mineralRessource_copyTemplate):
   def __init__(self, **properties):
@@ -15,5 +16,5 @@ class mineralRessource_copy(mineralRessource_copyTemplate):
     self.column_panel_3.add_component(OuertanePhosphate())
 
   def Jerissa_Mine_click(self, **event_args):
-    """This method is called when the link is clicked"""
-    pass
+    self.column_panel_3.clear()
+    self.column_panel_3.add_component(jerissa())
