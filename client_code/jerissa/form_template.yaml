@@ -46,7 +46,8 @@ components:
     type: RichText
     layout_properties: {grid_position: 'NARCNS,SWDMUU'}
 - name: image_6
-  properties: {source: _/theme/ambulance.png, display_mode: fill_width, height: 242}
+  properties: {source: _/theme/ambulance.png, display_mode: fill_width, height: 242,
+    tooltip: remnant of an ambulance used during the Second World War}
   type: Image
   layout_properties: {grid_position: 'JDHBAW,LSLDTJ QODKQK,MXHWUO'}
 - name: column_panel_2
@@ -55,23 +56,24 @@ components:
   layout_properties: {grid_position: 'JDHBAW,BFKMOA OINRBX,KXMMXG'}
   components:
   - name: image_1
-    properties: {source: _/theme/bureau.png, display_mode: fill_width}
+    properties: {source: _/theme/bureau.png, display_mode: fill_width, tooltip: Jerissa mine headquarters built in 1907}
     type: Image
     layout_properties: {grid_position: 'FAWAGE,HZAZRH'}
   - name: image_2
-    properties: {source: _/theme/galerie_jerissa.png, display_mode: fill_width}
+    properties: {source: _/theme/galerie_jerissa.png, display_mode: fill_width, tooltip: access gallery to the exhibition site}
     type: Image
     layout_properties: {grid_position: 'AWTCQL,ORZCNX'}
   - name: image_3
-    properties: {source: _/theme/hematite.png, display_mode: fill_width}
+    properties: {source: _/theme/hematite.png, display_mode: fill_width, tooltip: Hematite ore deposit (fe2O3)}
     type: Image
     layout_properties: {grid_position: 'NQZIRM,HIQXJH'}
   - name: image_4
-    properties: {source: _/theme/siderite.png, display_mode: fill_width}
+    properties: {source: _/theme/siderite.png, display_mode: fill_width, tooltip: 'Siderate
+        (iron carbonate, feCo3)'}
     type: Image
     layout_properties: {grid_position: 'NKCMKX,HOFHBU'}
 - name: image_7
-  properties: {source: _/theme/2-4.jpg, display_mode: fill_width}
+  properties: {source: _/theme/2-4.jpg, display_mode: fill_width, tooltip: iron carbonate roasting furnace}
   type: Image
   layout_properties: {grid_position: 'JDHBAW,BFKMOA NJRZKR,PNDWCM'}
 is_package: true

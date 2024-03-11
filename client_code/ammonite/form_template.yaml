@@ -21,36 +21,35 @@ components:
         \ site** **Geological\n\n\_\n\n**Geological**\n\n\_\n\nThe site in question\
         \ is located to the north of Jebel Harraba. It is accessed via a track from\
         \ the road linking J. Harraba to J. Slata.\n\n\_\n\n**Paleontologically,**\n\
-        \nthe site in question corresponds to a metric layer of red sandstone bearing\
-        \ numerous large ammonite footprints (photos). The sandstone bed marks the\
-        \ transition between the Upper Aptian (-108 Ma), represented by reef limestones,\
-        \ and the Albian (-108 to -96 Ma), represented by a thick, essentially marly\
-        \ series with limestone intercalations in centimetric beds. \n\n\_\n\nThe\
-        \ visitor arriving at the level of the bench will in fact find himself in\
-        \ front of a deposit of pyrite ammonites, of various sizes and shapes, showing\
-        \ no organization but arranged in a jumble (photo).\_\n\n\n\_\n\nYou can take\
-        \ the liberty of picking up a few ammonites, but you must be careful not to\
-        \ damage them.\n\n\_\n\n\_\n\n**Palaeogeography**\n\n\_\n\nAmmonites are marine\
-        \ organisms that appeared as early as the Devonian (-419 to -359 Ma). \n\n\
-        They disappeared with the dinosaurs after the crisis of the Cretaceous-Tertiary\
-        \ boundary (-65 Ma). \n\n\_\n\nDuring the Upper Aptian (-108 Ma), the region\
-        \ corresponded to a shallow platform domain, cut by a series of shoals and\
-        \ basins. Reef limestones, rich in fossils of various organisms (rudists,\
-        \ corals, orbitolines), were deposited below the high zones.\_ Towards the\
-        \ end of the Aptian and the beginning of the Albian, the sea level rose, a\
-        \ process known as transgression. Deposits become more marly, with deep-sea\
-        \ fauna.\n\n\_\n\nThe ammonite-bearing sandstone level was deposited during\
-        \ the sea transgression. The ammonites that swam in the seawater fell to the\
-        \ bottom after their death and were mixed with the sediment. This is why these\
-        \ fossils are arranged in a jumble in the sediment (photo). \n\n\_\n\n\_\n\
-        \n**IV. Further information** : \n\n\_\n\n**Bibliographical references**\n\
-        \n\_\n\nBurollet, P.F. 1956: Contribution \xe0 l'\xe9tude stratigraphique\n\
-        de la Tunisie centrale. Ann. Mines G\xe9ol. (Tunis) 18. - 1985: Signification\
-        \ g\xe9ologique de l'Axe nord-sud. 1er Congr. nat. Sci. Terre (Tunis, 1981).\n\
-        \nBolze, J., Burollet, P.F. & Castany, J. 1952: Le sillon\ntunisien. 19\xe8\
-        me Congr. g\xe9ol. int. (Alger), Monogr. reg. 2\xe8me S\xe9r.: Tunisie - 5.\n\
-        \n\n", font: '', spacing_above: small, spacing_below: small, data: null, background: '',
-      format: markdown}
+        The ammonite site corresponds to a metric layer of red sandstone bearing numerous\
+        \ large ammonite footprints (photos). The sandstone bed marks the transition\
+        \ between the Upper Aptian (-108 Ma), represented by reef limestones, and\
+        \ the Albian (-108 to -96 Ma), represented by a thick, essentially marly series\
+        \ with limestone intercalations in centimetric beds. \n\n\_\n\nThe visitor\
+        \ arriving at the level of the bench will in fact find himself in front of\
+        \ a deposit of pyrite ammonites, of various sizes and shapes, showing no organization\
+        \ but arranged in a jumble (photo).\_\n\n\n\_\n\nYou can take the liberty\
+        \ of picking up a few ammonites, but you must be careful not to damage them.\n\
+        \n\_\n\n\_\n\n**Palaeogeography**\n\n\_\n\nAmmonites are marine organisms\
+        \ that appeared as early as the Devonian (-419 to -359 Ma). \n\nThey disappeared\
+        \ with the dinosaurs after the crisis of the Cretaceous-Tertiary boundary\
+        \ (-65 Ma). \n\n\_\n\nDuring the Upper Aptian (-108 Ma), the region corresponded\
+        \ to a shallow platform domain, cut by a series of shoals and basins. Reef\
+        \ limestones, rich in fossils of various organisms (rudists, corals, orbitolines),\
+        \ were deposited below the high zones.\_ Towards the end of the Aptian and\
+        \ the beginning of the Albian, the sea level rose, a process known as transgression.\
+        \ Deposits become more marly, with deep-sea fauna.\n\n\_\n\nThe ammonite-bearing\
+        \ sandstone level was deposited during the sea transgression. The ammonites\
+        \ that swam in the seawater fell to the bottom after their death and were\
+        \ mixed with the sediment. This is why these fossils are arranged in a jumble\
+        \ in the sediment (photo). \n\n\_\n\n\_\n\n**IV. Further information** : \n\
+        \n\_\n\n**Bibliographical references**\n\n\_\n\nBurollet, P.F. 1956: Contribution\
+        \ \xe0 l'\xe9tude stratigraphique\nde la Tunisie centrale. Ann. Mines G\xe9\
+        ol. (Tunis) 18. - 1985: Signification g\xe9ologique de l'Axe nord-sud. 1er\
+        \ Congr. nat. Sci. Terre (Tunis, 1981).\n\nBolze, J., Burollet, P.F. & Castany,\
+        \ J. 1952: Le sillon\ntunisien. 19\xe8me Congr. g\xe9ol. int. (Alger), Monogr.\
+        \ reg. 2\xe8me S\xe9r.: Tunisie - 5.\n\n\n", font: '', spacing_above: small,
+      spacing_below: small, data: null, background: '', format: markdown}
     name: rich_text_1
     layout_properties: {grid_position: 'MKCFMU,CCUCCW'}
 - type: ColumnPanel
