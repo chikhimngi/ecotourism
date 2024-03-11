@@ -1,0 +1,29 @@
+container: {type: ColumnPanel}
+components:
+- name: column_panel_1
+  properties: {}
+  type: ColumnPanel
+  layout_properties: {grid_position: 'TDVJKS,JVFOUR'}
+  components:
+  - name: rich_text_1
+    properties: {}
+    type: RichText
+    layout_properties: {grid_position: 'MIKMVL,ABPAIX'}
+- name: column_panel_2
+  properties: {}
+  type: ColumnPanel
+  layout_properties: {grid_position: 'TDVJKS,ERFFAZ'}
+  components:
+  - name: image_1
+    properties: {}
+    type: Image
+    layout_properties: {grid_position: 'CDZMDN,BNMTRC'}
+  - name: image_2
+    properties: {}
+    type: Image
+    layout_properties: {grid_position: 'FHDASN,KHISPF'}
+  - name: image_3
+    properties: {}
+    type: Image
+    layout_properties: {grid_position: 'XRVGHN,TNETWH'}
+is_package: true
