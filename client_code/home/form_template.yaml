@@ -26,7 +26,10 @@ components:
   properties: {}
   name: navbar_links
   layout_properties: {slot: nav-right}
-  components: []
+  components:
+  - name: link_2
+    properties: {}
+    type: Link
 - type: ColumnPanel
   properties: {col_widths: '{}'}
   name: column_panel_1

@@ -22,5 +22,9 @@ components:
   properties: {}
   type: ColumnPanel
   layout_properties: {grid_position: 'IGZROG,KYVONE'}
-  components: []
+  components:
+  - name: image_1
+    properties: {}
+    type: Image
+    layout_properties: {grid_position: 'MNUJQS,JJAWBH'}
 is_package: true
