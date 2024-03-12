@@ -10,42 +10,33 @@ components:
       bold: true, foreground: 'theme:Secondary 700'}
     type: Label
     layout_properties: {grid_position: 'TSFEWJ,KLXAVE'}
+- name: image_1
+  properties: {source: _/theme/sraouertane.png, display_mode: fill_width, tooltip: Fig. 1- Sraa ouertane location}
+  type: Image
+  layout_properties: {grid_position: 'ELMUHT,BWJMZV TKVXTU,AHUFYI'}
 - name: column_panel_1
   properties: {}
   type: ColumnPanel
-  layout_properties: {grid_position: 'ELMUHT,BWJMZV'}
+  layout_properties: {grid_position: 'ELMUHT,BWJMZV HXQURU,DHQARA'}
   components:
+  - name: image_2
+    properties: {source: _/theme/sraa1.png, display_mode: fill_width, tooltip: Fig. 2- Paleocene and Eocene outcrops}
+    type: Image
+    layout_properties: {grid_position: 'JECYAG,ERETOF'}
   - name: rich_text_1
     properties: {content: "Sra Ouertane project corresponds to a gently sloping plateau\n\
-        The photo shows a soft level, masked by scree, corresponding to the Ypresian\
-        \ phosphate series (trench). Underneath lies the massive Nummulites limestone\
-        \ slab.\n\nThe Sra Ouertane areais an exemplary phosphate extraction, processing\
-        \ and mining project in the Ksour region of the Kef governorate. \n\n- Le\
-        \ contains almost 5 billion tonnes of phosphate ore with an average content\
-        \ of 14% P2O5: \n\n- Mise concession of 25% of the Sra Ouertane deposit. \n\
-        - Creation of a mining company and a chemical company \n- Extraction and flotation\
-        \ of 4 million tonnes of marketable phosphate per year. \n- Transformation\
+        \nThe photo (fig. 1) shows a soft level, masked by scree, corresponding to\
+        \ the Ypresian phosphate series (trench). Underneath lies the massive Nummulites\
+        \ limestone slab.\n\nThe Sra Ouertane area is an exemplary phosphate extraction,\
+        \ processing and mining project in the Ksour region of the Kef governorate.\
+        \ \n\n- It contains almost 5 billion tonnes of phosphate ore with an average\
+        \ content of 14% P2O5: \n\n- Mise concession of 25% of the Sra Ouertane deposit.\
+        \ \n- Creation of a mining company and a chemical company \n- Extraction and\
+        \ flotation of 4 million tonnes of marketable phosphate per year. \n- Transformation\
         \ 1 million tonnes P2O5/year in the form of phosphoric acid and fertiliser.\
         \ \n\nInstallation of the required infrastructure: railway, port site, water\
         \ supply, power supply, phosphogypsum dump, utilities and storage facilities.\
         \ \n- Co\xfbt of the investment: US$3 billion (\u2248 \u20ac2.1 billion)"}
     type: RichText
     layout_properties: {grid_position: 'VIWBIW,ZVNLYM'}
-- name: column_panel_2
-  properties: {}
-  type: ColumnPanel
-  layout_properties: {grid_position: 'ELMUHT,KJVEWY'}
-  components:
-  - name: image_1
-    properties: {source: _/theme/sraouertane.png, display_mode: fill_width, tooltip: Sraa ouertane location}
-    type: Image
-    layout_properties: {grid_position: 'PORKFX,HTCPPV'}
-  - name: image_2
-    properties: {source: _/theme/sraa1.png, display_mode: fill_width, tooltip: Paleocene and Eocene outcrops}
-    type: Image
-    layout_properties: {grid_position: 'ZNUEAH,ELVLSD'}
-  - name: image_3
-    properties: {source: _/theme/dents-sraa.png, display_mode: fill_width, tooltip: Shark teeth}
-    type: Image
-    layout_properties: {grid_position: 'HBDNJN,QTZSFP'}
 is_package: true

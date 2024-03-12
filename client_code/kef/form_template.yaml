@@ -10,11 +10,11 @@ components:
   - type: RichText
     properties: {role: null, align: left, tooltip: '', enable_slots: true, border: '',
       foreground: '', visible: true, font_size: null, content: "The Kef region is\
-        \ located 170 km north-west of Tunisia country (fig. 1). It is bordered to\
+        \ located 170 km north-west of Tunisia country (figure). It is bordered to\
         \ the north by the governorate of Jendouba, to the east by the governorate\
         \ of Siliana, to the south by the governorate of Kasserine and to the west\
-        \ by the Algerian border (fig. 2). \n\nIt covers an area of 5081 km2, i.e.\
-        \ 3% of the country's surface area, and has a population of 243156. The governorate\
+        \ by the Algerian border. \n\nIt covers an area of 5081 km2, i.e. 3% of the\
+        \ country's surface area, and has a population of 243156. The governorate\
         \ of Kef is located in the Atlas Mountains. It is made up of a succession\
         \ of mountain ranges stretching in a NE-SW direction. Altitudes can reach\
         \ 1000m at Dyr El Kef and 1100m at Jebel Slata. The climate is semi-arid.\
@@ -25,9 +25,8 @@ components:
         \ of Kef is one of the few regions where traces of prehistoric man have been\
         \ found, dating back to the Middle Pleistocene (300,000 years, Sidi Zine archaeological\
         \ site, Dyr El Kef rock paintings). The town of Le Kef has seen a succession\
-        \ of civilisations: Carthaginian, Roman, Muslimh.\n\nTranslated with www.DeepL.com/Translator\
-        \ (free version)\n", font: '', spacing_above: small, spacing_below: small,
-      data: null, background: '', format: markdown}
+        \ of civilisations: Carthaginian, Roman, Muslimh.\n\n\n", font: '', spacing_above: small,
+      spacing_below: small, data: null, background: '', format: markdown}
     name: rich_text_1
     layout_properties: {grid_position: 'IVROGG,DFTLMN'}
 - type: ColumnPanel
