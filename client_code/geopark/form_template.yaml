@@ -7,6 +7,16 @@ components:
   name: column_panel_1
   layout_properties: {grid_position: 'YZPMBW,KGVOVD'}
   components:
+  - name: column_panel_2
+    properties: {}
+    type: ColumnPanel
+    layout_properties: {grid_position: 'PYNZCP,CFQDFV'}
+    components:
+    - name: headline_1
+      properties: {role: headline, text: Geopark Project, background: '', foreground: 'theme:Secondary
+          700', italic: true, bold: true, align: center}
+      type: Label
+      layout_properties: {grid_position: 'XATPAQ,OECZYY'}
   - type: RichText
     properties: {role: null, align: left, tooltip: '', enable_slots: true, border: '',
       foreground: '', visible: true, font_size: null, content: "\n\nThe idea of  creating\
