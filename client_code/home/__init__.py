@@ -40,7 +40,7 @@ class home(homeTemplate):
 
   def link_3_click(self, **event_args):
     self.content_panel.clear()
-    self.content_panel.add_component(cv)
+    self.content_panel.add_component(cv())
 
 
 
