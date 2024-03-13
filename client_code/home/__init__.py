@@ -3,6 +3,7 @@ from anvil import *
 from ..kef import kef
 from ..geopark import geopark
 from ..mineralRessource_copy import mineralRessource_copy
+from ..museum import museum
 
 
 
@@ -31,6 +32,10 @@ class home(homeTemplate):
   def link_4_click(self, **event_args):
     self.content_panel.clear()
     self.content_panel.add_component(mineralRessource_copy())
+
+  def link_5_click(self, **event_args):
+    self.content_panel.clear()
+    self.content_panel.add_component(museum())
 
 
 

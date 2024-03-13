@@ -95,6 +95,7 @@ components:
       underline: false, icon: ''}
     name: link_5
     layout_properties: {grid_position: 'AQBKLF,TZUSKQ'}
+    event_bindings: {click: link_5_click}
 - type: Link
   properties: {role: null, url: '', align: left, tooltip: '', border: '', foreground: '',
     visible: true, text: Home, font_size: null, wrap_on: mobile, font: '', col_spacing: medium,
