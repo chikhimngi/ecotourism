@@ -12,6 +12,7 @@ from ..ammonite import ammonite
 from ..slata import slata
 from ..sraouertane import sraouertane
 from ..slump import slump
+from ..jerissa import jerissa
 
 class geology(geologyTemplate):
   def __init__(self, **properties):
@@ -63,6 +64,10 @@ class geology(geologyTemplate):
   def link_9_click(self, **event_args):
     self.content_ophite.clear()
     self.content_ophite.add_component(slump())
+
+  def jerissa_click(self, **event_args):
+    self.content_ophite.clear()
+    self.content_ophite.add_component(jerissa())
 
 
 

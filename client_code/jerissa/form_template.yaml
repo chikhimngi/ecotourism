@@ -11,38 +11,32 @@ components:
   layout_properties: {grid_position: 'JDHBAW,LSLDTJ DSWYRL,HKGBIY'}
   components:
   - name: rich_text_1
-    properties: {content: "\n\nLa mine de Jerissa exploite le minerai de fer en Tunisie\
-        \ depuis 1901. \n\nDeux produits y sont extraits et commercialis\xe9s\_:\n\
-        \n-\_La Sid\xe9rite (feCo3), utilis\xe9e autrefois\ncomme additif dans l'alimentation\
-        \ des b\xe9tails, est actuellement abandonn\xe9e par\n\xe9puisement des r\xe9\
-        serves. \n\n\_\n\n-\_\_\_\_\_\_ L\u2019H\xe9matite\n(Fe2O3), utilis\xe9 comme\
-        \ additif dans l'industrie du ciment, est encore en\nexploitation en carri\xe8\
-        re.\n\n\_\n\nLa mine est elle-m\xeame un mus\xe9e \xe0 l'aire libre\navec\
-        \ le si\xe8ge de l'entreprise construit en 1907 (photo), ses anciennes\ninstallations\
-        \ \xe9lectriques, d\u2019air comprim\xe9 qui t\xe9moignent d'une importante\n\
-        activit\xe9 qui a dur\xe9 plus que 100 ans. La mine surplomb un superbe village,\n\
-        construit pendant l'\xe9poque coloniale, \_conservant encore le charme\ndes\
-        \ toitures en\_tuiles. Ce joli village est baptis\xe9 \"le petit\nParis\"\
-        . \n\nL\u2019exploitation\ndu fer se fait avec une s\xe9riede carri\xe8res\
-        \ et de \_galeries souterraines. Chaque ouvrage visit\xe9\npermet connaitre\
-        \ les diff\xe9rentes \xe9tapes de l'exploitation du fer. C'est aussi\nune\
-        \ occasion pour toucher sur place le minerai de fer, comprendre sa gen\xe8\
-        se\net\_ comprendre aussi le contexte\ng\xe9ologique et structural de la r\xe9\
-        gion qui correspond \xe0 un parcourt de plusieurs\ncentaines de millions d'ann\xe9\
-        es. \n\nLa mine dispose de son mus\xe9e. Celui-ci est\nabrit\xe9 par l'\xe9\
-        glise Saint Barbe b\xe2tie \xe0 l'\xe9poque du protectorat fran\xe7ais et\
-        \ c\xe9d\xe9e au gouvernement tunisien au\nmoment de la \_nationalisation\_\
-        des compagnies\_mini\xe8res. Le\nmus\xe9 propose une s\xe9rie de panneaux\
-        \ et de vitrines qui mettent l'accent sur\nl'histoire du fer. On y trouve\
-        \ aussi une s\xe9lection d'\xe9chantillon du minerai de\nfer ainsi que des\
-        \ objets miniers dont les plus anciens datent des ann\xe9es 1800.\nUne promenade\
-        \ dans le carreau de la mine permet de toucher de pr\xe8s certains objets\
-        \  tr\xe8s anciens : la carcasse d\u2019une ambulance qui date de la deuxi\xe8\
-        me guerre mondiale, une locomotive datant de 1952 et qui roulent jusqu\u2019\
-        \xe0 une r\xe9cente date (2020), un four de grillage de la sid\xe9rite, la\
-        \ maison de fonction du Directeur, un vrai bijou construite pendant la colonie\
-        \ fran\xe7aise, une bene d\u2019un ancien t\xe9l\xe9f\xe9rique utilis\xe9\
-        \ pour transporter le carbonate de fer vers le four de grillage. \n"}
+    properties: {content: "The Jerissa mine has been mining iron ore in Tunisia since\
+        \ 1901.\nTwo products are extracted and marketed:\n- Siderite (feCo3), once\
+        \ used as an additive\nas a cattle feed additive, has now been abandoned due\
+        \ to the depletion of\ndepletion of reserves. \n- Hematite\n(Fe2O3), used\
+        \ as an additive in the cement industry, is still being quarried.\nThe mine\
+        \ itself is an open-air museum, with the company headquarters built in 1907\
+        \ (photo), its old electrical and compressed-air installations electrical\
+        \ and compressed-air installations that bear witness to an important activity\
+        \ that lasted more than 100 years. The mine overlooks a superb village, built\
+        \ during the colonial era and still retaining the charm of its tiled roofs.\
+        \ This pretty village has been dubbed \"Little Paris\".\n\nis mined in a series\
+        \ of quarries and underground galleries. Each structure we visit provides\
+        \ an insight into the different stages of iron mining. It's also an opportunity\
+        \ to get hands-on with the iron ore, to understand its genesis and the geological\
+        \ and structural context of the region, which spans several hundred million\
+        \ years.\nThe mine has its own museum. It is housed in the Saint Barbe church,\
+        \ built during the French protectorate and handed over to the Tunisian government\
+        \ when the mining companies were nationalized. The museum features a series\
+        \ of panels and display cases focusing on the history of iron. There is also\
+        \ a selection of iron ore samples and mining artefacts, the oldest dating\
+        \ back to the 1800s.\n\nA stroll around the mine floor gives you the chance\
+        \ to get up close to some very old objects: the carcass of an ambulance dating\
+        \ back to the Second World War, a locomotive dating back to 1952 and still\
+        \ running today (2020), a siderite roasting furnace, the Director's office\
+        \ house, a real gem built during the French colony, a bene of an old teleferic\
+        \ used to transport iron carbonate to the roasting furnace.\n\n\n"}
     type: RichText
     layout_properties: {grid_position: 'NARCNS,SWDMUU'}
 - name: image_6
