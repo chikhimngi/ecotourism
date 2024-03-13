@@ -8,7 +8,7 @@ components:
   layout_properties: {grid_position: 'QKTXUQ,KPLSOQ'}
   components:
   - name: headline_1
-    properties: {role: headline, text: 'Sheet 03: Cretaceous-Paleogene boundary',
+    properties: {role: headline, text: 'Sheet 04: Cretaceous-Paleogene boundary',
       foreground: 'theme:Secondary 700', align: center, bold: true, italic: true}
     type: Label
     layout_properties: {grid_position: 'IOWEBS,POANYF'}
