@@ -11,7 +11,97 @@ components:
     type: Label
     layout_properties: {grid_position: 'ZMAXRS,DWYKEJ'}
 - name: rich_text_1
-  properties: {}
+  properties: {content: "\n\n**Personal data**\n\n\_\n\n**Name**: Chikhaoui\n\n**First\
+      \ name** : Mongi\n\n**Profession**: Professor of Geology at the Faculty of\n\
+      Sciences of Gafsa (Tunisia)\n\n**Nationality**: Tunisian\n\n**Email**: chikhaoui.mongi\
+      \ @ gmail.com\n\nTel: (216) 98750959\n\n\_\n\n**Diplomas**\n\n- Baccalaureate\
+      \ in Sciences (Lyc\xe9e Ahmed Amara le Kef (1974); \n- Master's degree in Geology\
+      \ Sciences and Techniques (Fac Sc of Tunis,\n1978); \n- Expert engineer diploma\
+      \ in mining techniques (Ecole Nationale\nSup\xe9rieure de G\xe9ologie de Nancy,\
+      \ France, 1980) \n- Diploma of Advanced Studies (DEA) in Natural Resources (Nancy\
+      \ School\nof Geology; France, 1983-1984); \n- University Doctorate in Structural\
+      \ Geology (Faculty of Sciences of\nNice, France, 1988) \n- Doctorate of State\
+      \ of Science in Structural Geology (Faculty of\nSciences of Tunis, 2002) (Very\
+      \ honorable mention) \n\n\n**Professional career** \n\n1978-1998: Geological\
+      \ Engineer at the National Office of Mines \n1998-2019: Professor at the Faculty\
+      \ of Sciences of Gafsa. \n2002 - 2009: Director of ISET du Kef ; \n2009-2011:\
+      \ Director of ISET de Siliana; \n2011-2019: CEO of Soci\xe9t\xe9 du Jebel Jerissa\
+      \ \nFrom July 2019: Independent consultant in Geology and Mining \n\n\n\n\n\_\
+      \n\n\n**Areas of expertise**\n\n- Geological research \n- Mining studies\n\n\
+      - Geological tourism\n\n- training of tourist guides in geological\nheritage\n\
+      \n\_\n\n**Scientific publications**\n\nMartinez C. Chikhaoui\nM. & Elsass (1987).-\
+      \ The Nebeur diapir (northern Tunisia)-\nGeometry of distensive accidents Cretaceous\
+      \ synsedimentary deposits and their\nrole during Alpine tightening.- Rev. Sc.\
+      \ Earth, Vol. 6, Tunisia\n\n\_\n\nChikhaoui M., Turki MM & Delteil Jean (1991).\
+      \ - Evidence of the structurogenesis\nof the Tunisian margin in the terminal\
+      \ Jurassic-Cretaceous (Kef region,\nnorthern Tunisia) - Mediterranean Geology,\
+      \ t. XVIII, No. 3, pp. 125-133.\n\n\_\n\nMartinez C, Chikhaoui M. , Truillet\
+      \ R., Ouali\nJ., & Creusot G. (1991) - The geodynamic context of the Albo -Aptian\n\
+      distension in northern and central Tunisia: Eocretaceous structuring of the\n\
+      Tunisian Atlas. Eclogaie geol . Helv . 84/1 pp. 61-82.\n\n\_\n\nDelteil J.,\
+      \ Zouari H., Chikhaoui M., Creusot\nG., Ouali J., Turki MM, Ya\xefch C. & Zargouni\
+      \ F. (1991). - Relationship between\nTethyan and Mesogenan openings in Tunisia.\
+      \ -Bull. Soc. geol .. France t. 162,\nno. 6, pp. 1173-1181 .\n\n\_\n\n\_Chikhaoui\
+      \ M. , Turki MM\n& Maamouri AL. (1994).- Geodynamic evolution of the Zag\nTir\
+      \ diapiric ridge (El Kef, northern Tunisia) in relation to early structurogenesis\n\
+      of Lower Cretaceous age- Notes du Serv . geol . No. 60 Tunis.\n\n\_\n\nMaamouri\
+      \ AL., Zaghbib Turki D., Matmati F., Chikhaoui\nM. & Salaj J. (1994).- The Bahloul\
+      \ formation in central -northern\nTunisia: lateral variations, new dating and\
+      \ new interpretation in terms of\nsequence stratigraphy. Journal of frican Earth\
+      \ Science , Vol. 18, no. 1, pp.\n37-35.\n\n\_\n\nVila J.-M., Ben Youssef M.,\
+      \ Charri\xe8re A, Chikhaoui\nM. , Ghanmi M., Kamoun F. Peybern\xe8s B., Saadi\
+      \ J., Souquet P. & Zarbout\nM. (1994).- Discovery in Tunisia, SW of Kef, Triassic\
+      \ material interstratified\nin the Albian: extension of the domain of submarine\
+      \ \u201csalt glaciers\u201d of the\nAlgerian -Tunisian borders. CR Acad Sc.,\
+      \ Paris, t.318, Series II, pp.\n1661-1667.\n\n\_\n\nChikhaoui M. and Turki MM\
+      \ (1995).- Role and importance of meridional fracturing in\nthe Cretaceous and\
+      \ Alpine deformations of the \u201cdiapirs\u201d zone (northern\nTunisia). Journal\
+      \ of African Earth Sciences, Vol. 21, No. 2 ,. pp. 271-280.\n\n\_\n\nVila J.-M.,\
+      \ Ben Youssef M., Chikhaoui M. &\nGhanmi M. (1996) .- A large middle Albian\
+      \ submarine \u201csalt glacier\u201d from\nnorthwest Tunisia: the Triassic material\
+      \ 6 6 of Ben Gasseur and the El Kef\nanticline Comparison and consequences.\
+      \ CR Acad. Sc., Paris, t. 322, series lia,\npp. 221-227.\n\n\_\n\nVila J.-M.,\
+      \ Ben Youssef M., Chikhaoui M. &\nGhanmi M. & Kchid -Ben Kherouf (1996).- The\
+      \ great Albian underwater \u201csalt\nglaciers\u201d of the Algerian-Tunisian\
+      \ borders ET AP Memory, n\xb0 10.\n\n\_\n\nVila J.-M., Ben Youssef M., Bouhel\
+      \ S. Chikhaoui M.\n& Ghanmi M. (1996).- Second surface study of a large Albian\
+      \ submarine \u201csalt\nglacier\u201d (250 Krn2): the Triassic masses of the\
+      \ Ben Gasseur diapir and the El\nKef anticline ( northwest Tunisia). Bull. Soc.\
+      \ geol ., France, t. 167, no.2,\npp. 235-246.\n\n\_\n\n\_Souquet P.,\nPeybern\xe8\
+      s B., Saadi J., Ben Youssef M., Ghanmi M., Zarbout M., Chikhaoui M.\n& Kamou\
+      \ F. (1997). - Sequences and cycles of order 2 in extensive and\ntranstensive\
+      \ regime : The Lower Cretaceous of the Tunisian Atlas. Bull. Soc.\ngeol ., France,\
+      \ t. 168, no. 3, p.377-386.\n\n\_\n\nChikhaoui M. , Maamouri AL, Salaj J., Turki\
+      \ MM, Ben Youssef M., Ghanmi M. &\nZarbout M. (1998).- Tipped blocks in the\
+      \ Lower Cretaceous in the Kef region\n(northern Tunisia). CR Acad. Sc., Paris',\
+      \ 327, pp. 265-270.\n\n\_\n\nChikhaoui M. and Turki MM (1999).- Synsedimentary\
+      \ tectonics distensive in the\nJurassic of the \u201cTunisian furrow\u201d:\
+      \ example of the Jurassic of Mejez El Bab\n(northern Tunisia). Notes from the\
+      \ Geological Survey, No. 65, pp. 43-48.\n\n\_\n\nChikhaoui M. , Rabhi , M.\n\
+      & Chekhma H.- (1999 ).- Relationship between tectonics and\nsedimentation in\
+      \ the Jurassic-Lower Cretaceous in the \u201cdome zone\u201d (Northern\nTunisian\
+      \ Atlas). Notes from the Geological Service of Tunisia, n\xb0 66, pp. 57-\n\n\
+      \_\n\nBraham A, Hammami M., Kadri A Htira N., Chikhaoui M.\nand Ben Ayed N.\
+      \ (1999).- The role of brittle tectonics in the distribution of\nmetal concentrations\
+      \ in the Fej mine Hassine (northern Tunisia). Notes from the\nGeological Service\
+      \ of Tunisia, n\xb0 66, pp.103-112 . \n\n\_\n\nChikhaoui M. , Braham A & Turki\
+      \ MM ( 2001) .-Proof of Triassic non-stratification\nin the Turanian of Koudiat\
+      \ Sidii (North-West Tunisia). CR Acad Sci ., 332,\n689-694.\n\n\_\n\nChikhaoui\
+      \ M. , Jallouli C., Turki MM, Soussi M., Braham A and Zagbib - Turki D.\n(2002).-\
+      \ The Triassic outcrop of D\xe9badib -Ben Gasseur (North-West of Tunisia):\n\
+      Diapir rooted with effusions laterals in the Albian Sea, folded during Tertiary\n\
+      compression phases. CR Acad. Sci. 334, 1129-1133.\n\n\_\n\n\_Jallouli C. ,\n\
+      Chikhaoui M. , Braham A, Turki MM, Mickus K. and Benassi R. 0.- Evidence\nfor\
+      \ Triassic salt/dome diapiric structures within the Jebel Debadib and 7 7 Ben\n\
+      Gasseur ( northwestern Tunisia) region from gravity and geological data.\n\n\
+      \_\n\n**Communications in Seminars and Congresses**\n\n\_\n\nCommunications\
+      \ in Seminars and Congresses 8th lAS\nregional meeting of sedimentology , Tunis,\
+      \ 1987 7th\n\n\_\n\nNational Earth Sciences Seminar, Algiers, 1989\n\n\_\n\n\
+      National Congress of Earth Sciences, Tunis, September\n24 and 30, 1990 First\
+      \ congress of sequence stratigraphy, Toulouse, 1994\n\n\_\n\nWorkshop on the\
+      \ Jurassic in Tunisia, 1996\n\n7th Tunisian Geology Days, Tunis, December 2\
+      \ and 3,\n1999\n\n\_\n\nThe chronology of tectonic events in Tunisia, Tunis,\n\
+      2003.\n\n"}
   type: RichText
   layout_properties: {grid_position: 'TPQCMR,HRAHKX'}
 is_package: true
