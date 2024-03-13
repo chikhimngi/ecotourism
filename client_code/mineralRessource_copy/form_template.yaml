@@ -27,8 +27,4 @@ components:
     properties: {source: _/theme/hematite5.png, display_mode: fill_width, height: 253}
     type: Image
     layout_properties: {grid_position: 'MNUJQS,JJAWBH'}
-- name: image_2
-  properties: {height: 287, source: _/theme/phosp.png}
-  type: Image
-  layout_properties: {grid_position: 'IGZROG,WTMOAE'}
 is_package: true
