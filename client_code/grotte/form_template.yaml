@@ -2,6 +2,16 @@ container:
   type: ColumnPanel
   properties: {col_widths: '{}'}
 components:
+- name: column_panel_2
+  properties: {}
+  type: ColumnPanel
+  layout_properties: {grid_position: 'UKXCVR,JUHCNZ'}
+  components:
+  - name: headline_1
+    properties: {role: headline, text: 'Sheet 05: Stalactites and stalagmites cave',
+      foreground: 'theme:Secondary 700', align: center, bold: true, italic: true}
+    type: Label
+    layout_properties: {grid_position: 'KDAYJE,AQAFWS'}
 - type: ColumnPanel
   properties: {col_widths: '{}'}
   name: column_panel_1

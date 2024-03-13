@@ -7,14 +7,14 @@ components:
   components:
   - name: Jerissa_Mine
     properties: {text: Jerissa iron mine, background: '', foreground: 'theme:Primary
-        700', align: center, bold: true, font_size: 20}
+        700', align: center, bold: true, font_size: 20, italic: true}
     type: Link
     layout_properties: {grid_position: 'ZELPZF,AFFKBD'}
     components: []
     event_bindings: {click: Jerissa_Mine_click}
   - name: sraa_phosphate
     properties: {text: Sra Ouertane phosphate Project, background: '', foreground: 'theme:Primary
-        700', align: center, font_size: 20, underline: false, bold: true}
+        700', align: center, font_size: 20, underline: false, bold: true, italic: true}
     type: Link
     layout_properties: {grid_position: 'ZELPZF,MXAAEO'}
     event_bindings: {click: sraa_phosphate_click}
@@ -24,7 +24,11 @@ components:
   layout_properties: {grid_position: 'IGZROG,KYVONE'}
   components:
   - name: image_1
-    properties: {source: _/theme/hematite5.png, display_mode: fill_width}
+    properties: {source: _/theme/hematite5.png, display_mode: fill_width, height: 253}
     type: Image
     layout_properties: {grid_position: 'MNUJQS,JJAWBH'}
+- name: image_2
+  properties: {height: 287, source: _/theme/phosp.png}
+  type: Image
+  layout_properties: {grid_position: 'IGZROG,WTMOAE'}
 is_package: true

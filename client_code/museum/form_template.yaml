@@ -6,7 +6,18 @@ components:
   layout_properties: {grid_position: 'TDVJKS,JVFOUR'}
   components:
   - name: rich_text_1
-    properties: {}
+    properties: {content: "The Jerissa mine geology and mining museum is housed in\
+        \ the Saint Barbe church, built during the French protectorate and handed\
+        \ over to the Tunisian government when the mining companies were nationalized.\
+        \ The museum features a series of panels and display cases focusing on the\
+        \ history of iron. There is also a selection of iron ore samples and mining\
+        \ artefacts, the oldest dating back to the 1800s.\nA stroll around the mine\
+        \ floor allows you to get up close and personal with some very old objects:\
+        \ the carcass of an ambulance dating from the Second World War, a locomotive\
+        \ dating from 1952 and still running, a siderite roasting furnace (shut down\
+        \ in 1960), the mine manager's office house, a real gem built during the French\
+        \ colony, a bene of an old teleferic used to transport iron carbonate to the\
+        \ roasting furnace. \n\nTranslated with www.DeepL.com/Translator (free version)"}
     type: RichText
     layout_properties: {grid_position: 'MIKMVL,ABPAIX'}
 - name: column_panel_2
