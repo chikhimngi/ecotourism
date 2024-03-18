@@ -8,7 +8,7 @@ allow_embedding: false
 name: ecotourism
 runtime_options: {version: 2, client_version: '3', server_version: python3-sandbox,
   server_spec: null}
-metadata: {}
+metadata: {title: ecotourism-in-the-kef}
 startup_form: home
 db_schema: {}
 renamed: true
