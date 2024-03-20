@@ -1,6 +1,4 @@
-import anvil.server
 
-anvil.server.connect("server_X6UXO5CF3CJIDLOI2C64UIBQ-6BZWT7SQVOIXVNCE")
 
 from ._anvil_designer import homeTemplate
 from anvil import *
