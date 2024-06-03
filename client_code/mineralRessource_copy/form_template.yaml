@@ -6,14 +6,14 @@ components:
   layout_properties: {grid_position: 'YDAEPY,AGZILR'}
   components:
   - name: Jerissa_Mine
-    properties: {text: Jerissa iron mine, background: '', foreground: 'theme:Primary
+    properties: {text: Mine de fer de Jerissa, background: '', foreground: 'theme:Primary
         700', align: center, bold: true, font_size: 20, italic: true}
     type: Link
     layout_properties: {grid_position: 'ZELPZF,AFFKBD'}
     components: []
     event_bindings: {click: Jerissa_Mine_click}
   - name: sraa_phosphate
-    properties: {text: Sra Ouertane phosphate Project, background: '', foreground: 'theme:Primary
+    properties: {text: Projet de phosphate Sra Ouertane, background: '', foreground: 'theme:Primary
         700', align: center, font_size: 20, underline: false, bold: true, italic: true}
     type: Link
     layout_properties: {grid_position: 'ZELPZF,MXAAEO'}

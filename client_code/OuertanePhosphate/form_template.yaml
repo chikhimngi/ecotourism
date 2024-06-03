@@ -6,7 +6,7 @@ components:
   layout_properties: {grid_position: 'IGZROG,KYVONE'}
   components:
   - name: headline_1
-    properties: {role: headline, text: Sheet 09- Sraa Ouertane phosphate project,
+    properties: {role: headline, text: 'Sheet 09- Projet phosphate Sra Ouertane ',
       align: center, bold: true, foreground: 'theme:Secondary 700'}
     type: Label
     layout_properties: {grid_position: 'TSFEWJ,KLXAVE'}

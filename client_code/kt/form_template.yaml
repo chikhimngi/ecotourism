@@ -20,77 +20,82 @@ components:
   - type: RichText
     properties: {role: null, align: left, tooltip: '', enable_slots: true, border: '',
       foreground: '', visible: true, font_size: null, content: "**I. Identification**\n\
-        1.\tTheme /Subject: Cretaceous-Tertiary boundary (K-Pg site)\n2.\tSite: Fej\
-        \ hadjar\n3.\tLocation: 36.15362, 8.64869\n\n**II.\tTips and practical information**\
-        \ :\n\n- Land situation: unknown\n- Access: easy via tarmac road in good condition\n\
-        - Departure point : the town of Le Kef \n- Distance: approx. 7 km\n- Signs\
-        \ installed by the Office National des Mines, later removed\n- Undeveloped\
-        \ access paths to the site\n- Risk of site disappearance due to erosion \n\
-        \n\n**III.\tSite description**\n\n**1 Why visit the site?**\n\nThe Cretaceous-Paleogene\
-        \ limit was studied to the south of the road, at Oued Hadjar level. It is\
-        \ of interest for :\n\n- Landscape: characterized by two eroded or wooded\
-        \ hills, separated by a vast combe occupied by agricultural land and crossed\
-        \ by the Oued Djerfane (fig.1). Dwellings are scattered here and there on\
-        \ the various hills;\n\n- Geology: the hill to the NW of Oued Djerfane consists\
-        \ of a bar of whitish limestone and grey marl. At mid-slope, a series of white\
-        \ limestone and marl beds plunge down towards the combe. The hill to the SE\
-        \ of Oued Djerfane is formed of nummulite limestone. The two hills are separated\
-        \ by a vast combe of grey marl 600 m thick. \n\n- Paleontology: paleontological\
-        \ studies have attributed the white limestones to the Upper Cretaceous. The\
-        \ rest of the marl series is Paleocene. The nummulite limestones of the second\
-        \ hill are Eocene.\n\n\n**2.\tSummary of important information to remember**:\
-        \ \n\nThe K-Pg layer actually corresponds to a 2 cm thick layer of grey clays,\
-        \ identified at the Cretaceous-Paleogene transition (- Ma) in several parts\
-        \ of the world. In the Kef region, this layer was studied in the Fej Hadjar\
-        \ locality, around 6 km W of the town of Le Kef, on the road to Hammam Mellegue\
-        \ (Fig.1 and photos ). This clay layer is exceptionally rich in Iridium, an\
-        \ element found abundantly in metallic meteorites. This discovery supports\
-        \ the idea that, at the end of the Cretaceous, 65 million years ago, a huge\
-        \ meteorite struck the Earth, causing a mass extinction of over 80% of animal\
-        \ and plant species.Before the catastrophe, dinosaurs and other reptile groups\
-        \ dominated the land, seas and skies.\n\nTheir extinction left the way clear\
-        \ for mammals and birds. The meteorite, some 10 km in diameter, fell near\
-        \ the present-day village of Chicxulub, on Mexico's Yucatan coast (fig. 2).\
-        \ Its fall created a crater 100 km in diameter and 12 km deep (fig. 3), and\
-        \ must have immediately annihilated all life over several thousand square\
-        \ kilometers around the impact site. Some 50,000 Km3 of rock were thrown into\
-        \ the atmosphere in the form of dust, molten rock droplets (spherules) and\
-        \ microdiamonds. On the basis of sedimentary continuity and palaeontological\
-        \ and palaeobotanical diversity, this locality was selected as the international\
-        \ reference section of the K-Pg boundary at the 28th International Geological\
-        \ Congress in Washington in 1989.\n\nThe Cretaceous-Paleogene extinction,\
-        \ or K-Pg extinction, which marks the end of the Cretaceous, is a massive,\
-        \ large-scale biological extinction. It represents a remarkable natural phenomenon.\n\
-        \n\_The Cretaceous-Tertiary crisis is one of the five major crises that have\
-        \ marked geological time. The K-Pg boundary is a remarkable example of a major\
-        \ stage in the history of life on earth.\n\nThe Cretaceous-Paleogene boundary\
-        \ still retains most of its integrity, but is threatened by erosion. It is\
-        \ also an object of curiosity for the local population. Information panels\
-        \ have been installed to raise local awareness of its natural heritage. The\
-        \ outcrop is considered an internationally-recognized stratotype, and as such\
-        \ deserves to be safeguarded and promoted.\n\nWorldwide, the number of sites\
-        \ with an excess iridium layer amounts to 100, 30 of which also contain fragments\
-        \ of \"shocked\" quartz (specific to large meteorite impacts). The Kef site\
-        \ is one of around fifteen worldwide that meet the main criteria for a complete\
-        \ succession of levels across the K-Pg boundary.\n\nThe criteria for comparison\
-        \ between these sites are based essentially on elements recording meteorite\
-        \ impacts, mass extinctions and the appearance of new fauna.Due to its international\
-        \ importance, the Kef world stratotype is the most cited in scientific publications,\
-        \ with over 70 studies published, far exceeding the number of studies carried\
-        \ out on other known K-Pg boundaries.\n\nThe K-Pg site has been on UNESCO's\
-        \ tentative list since 2016 (http://whc.unesco.org/fr/listesindicatives/6088/).\n\
-        \n**Bibliographical references**\n\n- Ben Salem Habib, Donze Pierre (1995)\
-        \ - general presentation of the Cretaceous-Tertiary (K-Pg)boundary type section\
-        \ of El Kef, Tunisia-ONM\n- The Cretaceous-Tertiary (K-Pg)boundary Stratotype\
-        \ - UNESCO https://whc.unesco.org/fr/listesindicatives/6088/\n- J. Smita,\
-        \ G. Keller b, F. Zargouni, S. Razgallah , M. Shimi, 0. Ben Abdelkader C,\
-        \ N. Ben Haj Ali, H. Ben Salem (1997)- The El Kef sections and shampoo procedures.\
-        \ Marine Micropaleontology 29 (1997) 6% 103\n- Narjess Karoui et al.(1999)-\
-        \ The Cretaceous-Tertiary (K-Pg) mass extinction in planktic foraminifera\
-        \ at Elles I and El Melah, Tunisia - Palaeogeography, Palaeoclimatology, Palaeoecology\
-        \ 178 (2002) 233-255\n\n**Resource persons**\n - Mongi Chikhaoui\n- Mongi\
-        \ Chikhaoui e-mail: Chikhaoui_mongi@yahoo.fr\n- Ben Salem Habib: https://www.facebook.com/habib.bensalem.77985\n\
-        \n", font: '', spacing_above: small, spacing_below: small, data: null, background: '',
+        1.\tTh\xe8me/sujet : Limite Cr\xe9tac\xe9-Tertiaire (site K-Pg)\n2.\tSite\
+        \ : Fej hadjar\n3.\tLocalisation : 36.15362, 8.64869 36.15362, 8.64869\n\n\
+        **II.\tConseils et informations pratiques** :\n\n- Situation du terrain :\
+        \ inconnue\n- Acc\xe8s : facile par route goudronn\xe9e en bon \xe9tat\n-\
+        \ Point de d\xe9part : la commune du Kef \n- Distance : environ 7 km\n- Panneaux\
+        \ install\xe9s par l'Office National des Mines, enlev\xe9s par la suite\n\
+        - Chemins d'acc\xe8s au site non am\xe9nag\xe9s\n- Risque de disparition du\
+        \ site par \xe9rosion \n\n\n**III.\tDescription du site**\n\n**1 Pourquoi\
+        \ visiter le site ?\n\nLa limite Cr\xe9tac\xe9-Pal\xe9og\xe8ne a \xe9t\xe9\
+        \ \xe9tudi\xe9e au sud de la route, au niveau de l'Oued Hadjar. Elle est int\xe9\
+        ressante pour :\n\n- Paysage : caract\xe9ris\xe9 par deux collines \xe9rod\xe9\
+        es ou bois\xe9es, s\xe9par\xe9es par une vaste combe occup\xe9e par des terres\
+        \ agricoles et travers\xe9e par l'Oued Djerfane (fig.1). Des habitations sont\
+        \ diss\xe9min\xe9es \xe7\xe0 et l\xe0 sur les diff\xe9rentes collines ;\n\n\
+        - G\xe9ologie : la colline au NW de l'Oued Djerfane est constitu\xe9e d'une\
+        \ barre de calcaire blanch\xe2tre et de marne grise. A mi-pente, une s\xe9\
+        rie de bancs de calcaire blanc et de marne plonge vers la combe. La colline\
+        \ au SE de Oued Djerfane est form\xe9e de calcaire nummulitique. Les deux\
+        \ collines sont s\xe9par\xe9es par une vaste combe de marnes grises de 600\
+        \ m d'\xe9paisseur. \n\n- Pal\xe9ontologie : les \xe9tudes pal\xe9ontologiques\
+        \ ont attribu\xe9 les calcaires blancs au Cr\xe9tac\xe9 sup\xe9rieur. Le reste\
+        \ de la s\xe9rie de marnes est pal\xe9oc\xe8ne. Les calcaires nummulitiques\
+        \ de la deuxi\xe8me colline sont \xe9oc\xe8nes.\n\n\n\n**2.\tR\xe9sum\xe9\
+        \ des informations importantes \xe0 retenir** : \n\nLa couche K-Pg correspond\
+        \ en fait \xe0 une couche d'argiles grises de 2 cm d'\xe9paisseur, identifi\xe9\
+        e \xe0 la transition Cr\xe9tac\xe9-Pal\xe9og\xe8ne (- Ma) dans plusieurs r\xe9\
+        gions du monde. Dans la r\xe9gion du Kef, cette couche a \xe9t\xe9 \xe9tudi\xe9\
+        e dans la localit\xe9 de Fej Hadjar, \xe0 environ 6 km \xe0 l'ouest de la\
+        \ ville du Kef, sur la route de Hammam Mellegue (Fig.1 et photos ).Cette couche\
+        \ d'argile est exceptionnellement riche en Iridium, un \xe9l\xe9ment que l'on\
+        \ trouve en abondance dans les m\xe9t\xe9orites m\xe9talliques. Cette d\xe9\
+        couverte conforte l'id\xe9e qu'\xe0 la fin du Cr\xe9tac\xe9, il y a 65 millions\
+        \ d'ann\xe9es, une \xe9norme m\xe9t\xe9orite a frapp\xe9 la Terre, provoquant\
+        \ une extinction massive de plus de 80 % des esp\xe8ces animales et v\xe9\
+        g\xe9tales.Avant la catastrophe, les dinosaures et autres groupes de reptiles\
+        \ dominaient la terre, les mers et les cieux.\n\n\n\nLeur extinction a laiss\xe9\
+        \ la voie libre aux mammif\xe8res et aux oiseaux. La m\xe9t\xe9orite, d'un\
+        \ diam\xe8tre d'environ 10 km, est tomb\xe9e pr\xe8s de l'actuel village de\
+        \ Chicxulub, sur la c\xf4te mexicaine du Yucatan (fig. 2). Sa chute a cr\xe9\
+        \xe9 un crat\xe8re de 100 km de diam\xe8tre et de 12 km de profondeur (fig.\
+        \ 3), et a d\xfb imm\xe9diatement an\xe9antir toute vie sur plusieurs milliers\
+        \ de kilom\xe8tres carr\xe9s autour du site d'impact. Quelque 50 000 Km3 de\
+        \ roches ont \xe9t\xe9 projet\xe9s dans l'atmosph\xe8re sous forme de poussi\xe8\
+        res, de gouttelettes de roches fondues (sph\xe9rules) et de microdiamants.\
+        \ Sur la base de la continuit\xe9 s\xe9dimentaire et de la diversit\xe9 pal\xe9\
+        ontologique et pal\xe9obotanique, cette localit\xe9 a \xe9t\xe9 choisie comme\
+        \ section de r\xe9f\xe9rence internationale de la limite K-Pg lors du 28e\
+        \ Congr\xe8s g\xe9ologique international de Washington en 1989.\n\nL'extinction\
+        \ Cr\xe9tac\xe9-Pal\xe9og\xe8ne, ou extinction K-Pg, qui marque la fin du\
+        \ Cr\xe9tac\xe9, est une extinction biologique massive et \xe0 grande \xe9\
+        chelle. Elle repr\xe9sente un ph\xe9nom\xe8ne naturel remarquable.\n\n La\
+        \ crise Cr\xe9tac\xe9-Tertiaire est l'une des cinq grandes crises qui ont\
+        \ marqu\xe9 les temps g\xe9ologiques.La limite K-Pg est un exemple remarquable\
+        \ d'\xe9tape majeure dans l'histoire de la vie sur terre.\n\n\nAu niveau mondial,\
+        \ le nombre de sites pr\xe9sentant une couche d'iridium exc\xe9dentaire s'\xe9\
+        l\xe8ve \xe0 100, dont 30 contiennent \xe9galement des fragments de quartz\
+        \ \"choqu\xe9s\" (sp\xe9cifiques aux impacts de grosses m\xe9t\xe9orites).\
+        \ Le site du Kef fait partie de la quinzaine de sites dans le monde qui r\xe9\
+        pondent aux principaux crit\xe8res d'une succession compl\xe8te de niveaux\
+        \ \xe0 travers la limite K-Pg.\n\nEn raison de son importance internationale,\
+        \ le stratotype mondial du Kef est le plus cit\xe9 dans les publications scientifiques,\
+        \ avec plus de 70 \xe9tudes publi\xe9es, ce qui d\xe9passe de loin le nombre\
+        \ d'\xe9tudes r\xe9alis\xe9es sur les autres limites K-Pg connues.\n\nLe site\
+        \ K-Pg figure sur la liste indicative de l'UNESCO depuis 2016 (http://whc.unesco.org/fr/listesindicatives/6088/).\n\
+        \n**R\xe9f\xe9rences bibliographiques**\n- Ben Salem Habib, Donze Pierre (1995)\
+        \ - pr\xe9sentation g\xe9n\xe9rale de la coupe type de la limite Cr\xe9tac\xe9\
+        -Tertiaire (K-Pg) d'El Kef, Tunisie-ONM\n- Le stratotype de la limite Cr\xe9\
+        tac\xe9-Tertiaire (K-Pg) - UNESCO https://whc.unesco.org/fr/listesindicatives/6088/\n\
+        - J. Smita, G. Keller b, F. Zargouni, S. Razgallah , M. Shimi, 0. Ben Abdelkader\
+        \ C, N. Ben Haj Ali, H. Ben Salem (1997)- The El Kef sections and shampoo\
+        \ procedures.Marine Micropaleontology 29 (1997) 6% 103\n\n\n- Narjess Karoui\
+        \ et al.(1999)- The Cretaceous-Tertiary (K-Pg) mass extinction in planktic\
+        \ foraminifera at Elles I and El Melah, Tunisia - Palaeogeography, Palaeoclimatology,\
+        \ Palaeoecology 178 (2002) 233-255\n\n**Personnes ressources**\n - Mongi Chikhaoui\n\
+        - Mongi Chikhaoui e-mail : Chikhaoui_mongi@yahoo.fr\n- Ben Salem Habib : https://www.facebook.com/habib.bensalem.77985\n",
+      font: '', spacing_above: small, spacing_below: small, data: null, background: '',
       format: markdown}
     name: rich_text_1
     layout_properties: {grid_position: 'MTZSXV,TWNUQG'}

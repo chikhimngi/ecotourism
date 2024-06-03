@@ -16,18 +16,21 @@ components:
   layout_properties: {grid_position: 'TDVJKS,JVFOUR DMPTTF,PZGOZB'}
   components:
   - name: rich_text_1
-    properties: {content: "The Jerissa mine geology and mining museum is housed in\
-        \ the Saint Barbe church, built during the French protectorate and handed\
-        \ over to the Tunisian government when the mining companies were nationalized.\
-        \ The museum features a series of panels and display cases focusing on the\
-        \ history of iron. There is also a selection of iron ore samples and mining\
-        \ artefacts, the oldest dating back to the 1800s.\n\nA stroll around the mine\
-        \ floor allows you to get up close and personal with some very old objects:\
-        \ the carcass of an ambulance dating from the Second World War, a locomotive\
-        \ dating from 1952 and still running, a siderite roasting furnace (shut down\
-        \ in 1960), the mine manager's office house, a real gem built during the French\
-        \ colony, a bene of an old teleferic used to transport iron carbonate to the\
-        \ roasting furnace. \n\n"}
+    properties: {content: "Le mus\xe9e g\xe9ologique et minier de la mine de Jerissa\
+        \ est install\xe9 dans l'\xe9glise Sainte-Barbe, construite sous le protectorat\
+        \ fran\xe7ais et c\xe9d\xe9e au gouvernement tunisien lors de la nationalisation\
+        \ des compagnies mini\xe8res. Le mus\xe9e pr\xe9sente une s\xe9rie de panneaux\
+        \ et de vitrines consacr\xe9s \xe0 l'histoire du fer. On y trouve \xe9galement\
+        \ une s\xe9lection d'\xe9chantillons de minerai de fer et d'objets miniers,\
+        \ dont les plus anciens datent des ann\xe9es 1800.\n\nUne promenade sur le\
+        \ carreau de la mine permet d'approcher des objets tr\xe8s anciens : une carcasse\
+        \ d'ambulance datant de la Seconde Guerre mondiale, une locomotive datant\
+        \ de 1952 et toujours en fonctionnement, un four de grillage de sid\xe9rite\
+        \ (ferm\xe9 en 1960), la maison-bureau du directeur de la mine, v\xe9ritable\
+        \ bijou construit pendant la colonie fran\xe7aise, un dessous d'un ancien\
+        \ t\xe9l\xe9f\xe9rique utilis\xe9 pour transporter le carbonate de fer vers\
+        \ le four de grillage. \n\nTraduit avec www.DeepL.com/Translator (version\
+        \ gratuite)\n"}
     type: RichText
     layout_properties: {grid_position: 'MIKMVL,ABPAIX'}
 - name: column_panel_3

@@ -20,43 +20,49 @@ components:
   - type: RichText
     properties: {role: null, align: left, tooltip: '', enable_slots: true, border: '',
       foreground: '', visible: true, font_size: null, content: "**I.\tIdentification**\n\
-        \n**1.\tTheme /Subject: Triassic ophites from Jebel Debadib**.\n2.\tSite:\
-        \ Jebel D\xe9badib\n3.\tLocation: 36.17529, 8.58399\n\n**II.\tAdvice and practical\
-        \ information** :\n\n- Land status: State-owned\n- Access: easy via tarmac\
-        \ road in good condition\n- Departure point: the town of Le Kef (fig.2).\n\
-        - Distance: approx. 14 km\n- Lack of signposting\n- Undeveloped access paths\
-        \ to the site\n- Risk of disappearance due to alteration and human activity\n\
-        - To preserve the site, it is strictly forbidden to take samples of the green\
-        \ rock. \n\n**III.\tSite description\n\n**1 Why visit the site?\n\n**The landscape**\
-        \ : \n\n- A very beautiful site, clean and free of pollution; \n- A lush Aleppo\
-        \ pine forest; \n- A well-maintained road leading to Hammam Mell\xe8gue;\n\
-        - An exceptional panoramic view of the Oued Mell\xe8gue valley and the vast\
-        \ surrounding agricultural fields and Aleppo pine forests stretching as far\
-        \ as the eye can see to the NE. \n\n**Geology**:\n\n The Triassic outcrop\
-        \ on the left-hand edge of the road to Hammam Mell\xe8gue consists of a thick,\
-        \ whitish gypsum series comprising blocks of grey to black dolomites, grey\
-        \ clays and sandstone levels, deposited between -245 and -205 Ma. \n\nThese\
-        \ series are chaotic (mixed) and lack characteristic fossils, making it impossible\
-        \ to establish a representative stratigraphic succession.\n\nThe Triassic\
-        \ series contains a thick outcrop of green rocks or ophites, corresponding\
-        \ to basaltic lava flows. \n\nOphites owe their name to their distinctive\
-        \ green color.\n\nThese green rocks can be found in more or less elongated\
-        \ flows, or in pillow lavas (photo 4). \n\n**2. Summary of important information\
-        \ to remember** : \n\nThe nature of the Triassic terrains in the Kef region,\
-        \ essentially evaporitic (gypsum, rock salt, halite) and dolomitic, indicates\
-        \ that they were deposited in an environment of Sebkha and Lagunes. Ophites,\
-        \ common in Triassic deposits, indicate that the region was the site of continental\
-        \ volcanic activity. This volcanism is a distant echo of the partial tearing\
-        \ of the Earth's continental crust into pre-oceanic furrows by rifting in\
-        \ a context of tectonic plate divergence (Wikipedia).\n\n**IV.\tFurther information**:\
-        \ \n\n**Bibliographical references**\n\nMohamed Soussi (2002)- Le Jurassique\
-        \ de la Tunisie atlasique. Stratigraphy, sedimentary dynamics, paleogeography\
-        \ and petroleum interest - Travaux et Documents des Laboratoires de G\xe9\
-        ologie de Lyon \n \nPerthuisont V. (1978)- Dynamique et p\xe9trogen\xe8se\
-        \ des extrusions triasiques en Tunisie septentrionale: histoire du diapirisme\
-        \ des d\xf4mes de sel- Presses de l'\xc9cole normale sup\xe9rieure. Paris.\n\
-        \n\n\n\n", font: '', spacing_above: small, spacing_below: small, data: null,
-      background: '', format: markdown}
+        \n**1.\tTh\xe8me /Sujet : Les ophites triasiques du Djebel Debadib**.\n2.\t\
+        Site : Jebel Debadib\n3.\tLocalisation : Jebel D\xe9badib 36.17529, 8.58399\n\
+        \n**II.\tConseils et informations pratiques** :\n\n- Statut de la terre :\
+        \ Propri\xe9t\xe9 de l'Etat\n- Acc\xe8s : facile par une route goudronn\xe9\
+        e en bon \xe9tat.\n- Point de d\xe9part : la ville du Kef (fig.2).\n- Distance\
+        \ : environ 14 km\n- Absence de signalisation\n- Chemins d'acc\xe8s au site\
+        \ non am\xe9nag\xe9s\n- Risque de disparition d\xfb \xe0 l'alt\xe9ration et\
+        \ \xe0 l'activit\xe9 humaine\n- Afin de pr\xe9server le site, il est strictement\
+        \ interdit de pr\xe9lever des \xe9chantillons de la roche verte. \n\n**III.\t\
+        Description du site\n\n**1 Pourquoi visiter le site ?\n\n**Le paysage** :\
+        \ \n\n- Un tr\xe8s beau site, propre et sans pollution ; \n- Une for\xeat\
+        \ luxuriante de pins d'Alep ; \n- Une route bien entretenue menant \xe0 Hammam\
+        \ Mell\xe8gue ;\n- Une vue panoramique exceptionnelle sur la vall\xe9e de\
+        \ l'Oued Mell\xe8gue et les vastes champs agricoles et for\xeats de pins d'Alep\
+        \ qui l'entourent et qui s'\xe9tendent \xe0 perte de vue vers le Nord-Est.\
+        \ \n\n**G\xe9ologie** :\n\n L'affleurement triasique sur le bord gauche de\
+        \ la route de Hammam Mell\xe8gue est constitu\xe9 d'une \xe9paisse s\xe9rie\
+        \ gypseuse blanch\xe2tre comprenant des blocs de dolomies grises \xe0 noires,\
+        \ des argiles grises et des niveaux gr\xe9seux, d\xe9pos\xe9s entre -245 et\
+        \ -205 Ma. \n\nCes s\xe9ries sont chaotiques (mixtes) et d\xe9pourvues de\
+        \ fossiles caract\xe9ristiques, ce qui ne permet pas d'\xe9tablir une succession\
+        \ stratigraphique repr\xe9sentative.\n\nLa s\xe9rie triasique contient un\
+        \ \xe9pais affleurement de roches vertes ou ophites, correspondant \xe0 des\
+        \ coul\xe9es de lave basaltique. \n\nLes ophites doivent leur nom \xe0 leur\
+        \ couleur verte caract\xe9ristique.\n\n\n\nCes roches vertes se trouvent dans\
+        \ des coul\xe9es plus ou moins allong\xe9es, ou dans des pillow lavas (photo\
+        \ 4). \n\n**2. R\xe9sum\xe9 des informations importantes \xe0 retenir** :\
+        \ \n\nLa nature des terrains triasiques de la r\xe9gion du Kef, essentiellement\
+        \ \xe9vaporitiques (gypse, sel gemme, halite) et dolomitiques, indique qu'ils\
+        \ se sont d\xe9pos\xe9s dans un environnement de Sebkha et de Lagunes. Les\
+        \ ophites, fr\xe9quents dans les d\xe9p\xf4ts triasiques, indiquent que la\
+        \ r\xe9gion a \xe9t\xe9 le si\xe8ge d'une activit\xe9 volcanique continentale.\
+        \ Ce volcanisme est un \xe9cho lointain de la d\xe9chirure partielle de la\
+        \ cro\xfbte continentale terrestre en sillons pr\xe9-oc\xe9aniques par rifting\
+        \ dans un contexte de divergence des plaques tectoniques (Wikipedia).\n\n\
+        **IV.\tPour en savoir plus** : \n\n**R\xe9f\xe9rences bibliographiques**\n\
+        \nMohamed Soussi (2002)- Le Jurassique de la Tunisie atlasique. Stratigraphie,\
+        \ dynamique s\xe9dimentaire, pal\xe9og\xe9ographie et int\xe9r\xeat p\xe9\
+        trolier - Travaux et Documents des Laboratoires de G\xe9ologie de Lyon \n\
+        \ \nPerthuisont V. (1978)- Dynamique et p\xe9trogen\xe8se des extrusions triasiques\
+        \ en Tunisie septentrionale : histoire du diapirisme des d\xf4mes de sel-\
+        \ Presses de l'\xc9cole normale sup\xe9rieure. Paris.\n\n\n\n", font: '',
+      spacing_above: small, spacing_below: small, data: null, background: '', format: markdown}
     name: rich_text_1
     layout_properties: {grid_position: 'NPAQQT,AKCYDP'}
 - type: Image

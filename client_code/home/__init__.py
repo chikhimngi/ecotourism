@@ -20,7 +20,7 @@ class home(homeTemplate):
     self.content_panel.clear()
     self.content_panel.add_component(kef())
 
-  def link_1_click(self, **event_args):
+  def home_click(self, **event_args):
     open_form('home')
 
   def geoparck_click(self, **event_args):
@@ -31,11 +31,11 @@ class home(homeTemplate):
   def geology_click(self, **event_args):
     open_form('geology')
 
-  def link_4_click(self, **event_args):
+  def mines_click(self, **event_args):
     self.content_panel.clear()
     self.content_panel.add_component(mineralRessource_copy())
 
-  def link_5_click(self, **event_args):
+  def musee_click(self, **event_args):
     self.content_panel.clear()
     self.content_panel.add_component(museum())
 

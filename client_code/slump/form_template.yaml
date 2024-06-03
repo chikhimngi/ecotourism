@@ -11,41 +11,46 @@ components:
   layout_properties: {grid_position: 'SAZMNE,DKUKGT'}
   components:
   - name: rich_text_1
-    properties: {content: "**I.\tIdentification**\n\n1.\tTheme /Subject : Fold in\
-        \ the Eocene \n2.\tSite: Kef R'Gueb\n3.\t Location: 36.12067, 8.90201\n\n\
-        **II.\tAdvice and practical information**\n\n- Land situation : State-owned\n\
-        - Access: easy via tarmac road in good condition\n- Departure point : the\
-        \ town of Le Kef (fig.2). \n\n- Distance: 20km.\n- Lack of signposting\n-\
-        \ Undeveloped access paths to the site.\n\n\n**III.\tSite description**\n\n\
-        **1 Interest in visiting the site** \n\n**Geological interest**:\n\nThe site\
-        \ corresponds to a faulted fold dipping to the NW and affecting alternating\
-        \ limestones and marls at the base of the Eocene. This fold is sealed by the\
-        \ Eocene nummulite limestone slab. This structure indicates that the area\
-        \ was the site of tectonic instability during the sedimentation of the Eocene\
-        \ nummulite limestone bar 65 Ma ago.\n\n**Landscape interest**\n\nThe Eocene\
-        \ series is criss-crossed by a small river where, over the years, water has\
-        \ carved grooves in which small waterfalls have been created. The calm of\
-        \ the place and the sound of falling water make it an ideal place for rest\
-        \ and relaxation.\n\n**Historical interest**\n\nClose to the Eocene fold is\
-        \ a Roman mill used to press olives (Tlili Mohamed, historian).\n\n**2.\t\
-        Summary of important information to remember**\n\nThe interest of this site\
-        \ is to show that the region was marked by a tectonic instability in compression\
-        \ manifested by the formation of an anticlinal fold affecting the marl-limestone\
-        \ alternations of the base of the Eocene. The fold is sealed by the Eocene\
-        \ nummulite limestone slab. \n\nAs is the case throughout northern Tunisia,\
-        \ the Eocene limestone at this site is a good reservoir for drinking water.\
-        \ In fact, when the Romans first arrived, they settled in these water-rich\
-        \ areas, which were more favorable to the development of housing and agriculture,\
-        \ and where various remains have been found, including the oil mill.\n\n**IV.\t\
-        Further information** : \n\n**Bibliographical references**\n\nAbdessalem El\
-        \ Ghali et al.( 2003)- Synsedimentary tectonic events associated with Eocene\
-        \ compression in Tunisia: paleogeographic and structural implications on the\
-        \ North African margin- Comptes Rendus Geoscience Volume 335, Issue 9, September\
-        \ 2003, Pages 763-771\n\nBen Salem Habib (2017)- The Paleocene and the Eocene-https://hbsgeol.wordpress.com/2017/12/26/le-paleocene-et-leocene/\n\
+    properties: {content: "**I.\tIdentification**\n\n1.\tTh\xe8me / sujet : Les plis\
+        \ \xe0 l'\xc9oc\xe8ne \n2.\tSite : Kef R'Gueb\n3.\t Localisation : 36.12067,\
+        \ 8.90201 36.12067, 8.90201\n\n**II.\tConseils et informations pratiques**\n\
+        \n- Situation du terrain : propri\xe9t\xe9 de l'Etat\n- Acc\xe8s : facile\
+        \ par une route goudronn\xe9e en bon \xe9tat.\n- Point de d\xe9part : la ville\
+        \ du Kef (fig.2). \n\n- Distance : 20 km.\n- Absence de signalisation\n- Pistes\
+        \ d'acc\xe8s au site non am\xe9nag\xe9es.\n\n\n**III.\tDescription du site**\n\
+        \n**1 Int\xe9r\xeat de la visite du site** \n\n**Int\xe9r\xeat g\xe9ologique**\
+        \ :\n\nLe site correspond \xe0 un pli faill\xe9 plongeant vers le NW et affectant\
+        \ des alternances de calcaires et de marnes \xe0 la base de l'Eoc\xe8ne. Ce\
+        \ pli est scell\xe9 par la dalle de calcaire nummulitique \xe9oc\xe8ne. Cette\
+        \ structure indique que la r\xe9gion a \xe9t\xe9 le si\xe8ge d'une instabilit\xe9\
+        \ tectonique pendant la s\xe9dimentation de la barre de calcaire nummulitique\
+        \ \xe9oc\xe8ne, il y a 65 Ma.\n\n**Int\xe9r\xeat paysager\n\nLa s\xe9rie \xe9\
+        oc\xe8ne est travers\xe9e par une petite rivi\xe8re o\xf9, au fil des ans,\
+        \ l'eau a creus\xe9 des sillons dans lesquels se sont form\xe9es de petites\
+        \ cascades. Le calme de l'endroit et le bruit de l'eau qui tombe en font un\
+        \ lieu id\xe9al pour le repos et la d\xe9tente.\n\n**Int\xe9r\xeat historique**\n\
+        \nPr\xe8s du pli \xe9oc\xe8ne se trouve un moulin romain qui servait \xe0\
+        \ presser les olives (Tlili Mohamed, historien).\n\n**2.\tR\xe9sum\xe9 des\
+        \ informations importantes \xe0 retenir**\n\nL'int\xe9r\xeat de ce site est\
+        \ de montrer que la r\xe9gion a \xe9t\xe9 marqu\xe9e par une instabilit\xe9\
+        \ tectonique en compression qui s'est manifest\xe9e par la formation d'un\
+        \ pli anticlinal affectant les alternances marno-calcaires de la base de l'Eoc\xe8\
+        ne. Le pli est scell\xe9 par l'Eoc\xe8ne \n\n\n\nComme dans tout le nord de\
+        \ la Tunisie, le calcaire \xe9oc\xe8ne de ce site constitue un bon r\xe9servoir\
+        \ d'eau potable. D'ailleurs, d\xe8s leur arriv\xe9e, les Romains se sont install\xe9\
+        s dans ces zones riches en eau, plus propices au d\xe9veloppement de l'habitat\
+        \ et de l'agriculture, et o\xf9 l'on a retrouv\xe9 divers vestiges, dont le\
+        \ moulin \xe0 huile.\n**IV.Pour en savoir plus** : \n\n**R\xe9f\xe9rences\
+        \ bibliographiques**\n\nAbdessalem El Ghali et al.( 2003)- Synsedimentary\
+        \ tectonic events associated with Eocene compression in Tunisia : paleogeographic\
+        \ and structural implications on the North African margin- Comptes Rendus\
+        \ Geoscience Volume 335, Issue 9, September 2003, Pages 763-771.\n\nBen Salem\
+        \ Habib (2017)- Le Pal\xe9oc\xe8ne et l'Eoc\xe8ne-https://hbsgeol.wordpress.com/2017/12/26/le-paleocene-et-leocene/\n\
         \nFouad Zargouni , Anis Krima (2003)- Synsedimentary tectonic events associated\
-        \ with Eocene compression in Tunisia: paleogeographic and structural implications\
-        \ on the North African margin.\n\n**Resource persons**\n\n- Mongi Chikaoui-\
-        \ e-mail: Chikhaoui_mongi@yahoo.fr\n- Mohamed Tlili, History of Kef- http://elkef7100.free.fr/Histoire.htm\n"}
+        \ with Eocene compression in Tunisia : paleogeographic and structural implications\
+        \ on the North African margin.\n\n**Personnes ressources\n\n- Mongi Chikaoui-\
+        \ e-mail : Chikhaoui_mongi@yahoo.fr\n- Mohamed Tlili, Histoire du Kef - http://elkef7100.free.fr/Histoire.htm\n\
+        \n\n"}
     type: RichText
     layout_properties: {grid_position: 'PFIUGF,NTBOUU'}
 - name: column_panel_2

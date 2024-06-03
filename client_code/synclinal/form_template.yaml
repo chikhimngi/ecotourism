@@ -8,7 +8,7 @@ components:
   layout_properties: {grid_position: 'RMSIDJ,VXARAT'}
   components:
   - name: headline_1
-    properties: {role: headline, text: 'Sheet02: Eocene perched syncline of Dyr El
+    properties: {role: headline, text: 'Sheet02: Synclinal perché Eocène de Dyr El
         Kef', foreground: 'theme:Secondary 700', align: center, bold: true, underline: true}
     type: Label
     layout_properties: {grid_position: 'JTNLKW,OIQNOL'}
@@ -20,57 +20,64 @@ components:
   - type: RichText
     properties: {role: null, align: left, tooltip: '', enable_slots: true, border: '',
       foreground: '', visible: true, font_size: null, content: "**I.\tIdentification**\n\
-        \n1.\tTheme /Subject: The Eocene perched syncline of Dyr El Kef \n2.\tSite:\
-        \ Sidi Mansour \n3.\tLocation: 36.19768, 8.72766\n\n**II.\tAdvice and practical\
-        \ information** :\n\n- Land status: State-owned\n- Access: easy via tarmac\
-        \ road in good condition\n- Departure point to site: Presidential Palace (fig.2).\n\
-        - Distance: approx. 3.5 km\n- Lack of signposting\n- Unmade access paths to\
-        \ the site\n- Keep the site clean \n- Protect the diversity of animal and\
-        \ plant species in this natural environment to ensure a good quality of life\
-        \ and livelihood for citizens.  \n\n\n**III.\tSite description**\n\n**1.\t\
-        Why visit the site?**\n\nThe circuit shown in figures 1 and 2, approximately\
-        \ 3.5 km long, takes us to the heart of the Eocene perched syncline of Dyr\
-        \ El Kef (fig.2, photo 1). This is a boat-bottom-shaped geological structure\
-        \ whose edges dip 10\xb0 to 20\xb0 towards the heart of the structure. The\
-        \ section to the north of the town of Le Kef covers some 6 km2 and culminates\
-        \ locally at 900m. The fold affects an imposing 60m-thick bar of nummulite\
-        \ limestone. The syncline is perched, since the rocks that make it up are\
-        \ higher than those that frame it on either side (fig. 2 and photo).\n\nIn\
-        \ addition to its obvious geological interest, the site's landscape is marked\
-        \ by the concave shape of the nummulite limestone slab, the presence of caves\
-        \ and karstic cavities, and faults from which emerge the Sidi Mansour spring,\
-        \ which has supplied the region with drinking water for thousands of years\
-        \ (fig.2). It's also a region of greenery and game. Historically, the region\
-        \ has been described as a refuge for prehistoric man, as attested by the rock\
-        \ paintings still visible in the locality known as esh-Sheguega (Tlili Mohamed,\
-        \ historian). \n\nThe site is also of educational interest. High school students\
-        \ survey the site using geological cross-sections and maps to understand the\
-        \ formation and evolution of such a structure. They observe and draw sedimentary\
-        \ rocks and their fossils, represented here by a lumachelle of nummulites\
-        \ (photo). They learn how to read a geological map, and what an outcrop, rock\
-        \ or mineral is.\n\n\n**2.\tSummary of important information to remember:**\n\
-        \nThe structure of the Dyr El Kef perched syncline is the result of a series\
-        \ of deformations undergone by the region from -250 Ma to the present day.\n\
-        \n-  The layers that form the syncline were deposited horizontally (Fig. 3a)\
-        \ under water or on land between the Triassic (-245 Ma) and Upper Miocene\
-        \ (-5.3 Ma). This process is synchronous with the eastward displacement of\
-        \ the African plate relative to the European plate. This is continental drift.\
-        \ Plates move apart or slide relative to one another. This is called distensive\
-        \ tectonics. Distensive tectonics gave rise to the oceans.\n-  In the Late\
-        \ Cretaceous (70 Ma), the African plate began to move northwards t  owards\
-        \ the European plate. The two plates collide, giving rise to mountain ranges\
-        \ (fig.3b, c). In northern Tunisia, the formation of mountain ranges dates\
-        \ from the Upper Miocene (-5.3 Ma) to the Pliocene (-1.8 Ma). Subsequent to\
-        \ their formation, the mountain ranges have undergone profound modifications\
-        \ (dismantling, erosion), which have resulted in the geology of today (fig.4).\
-        \ \n\n\n**IV.\tFurther information **: \n\n**References bibliographique**\n\
-        \nHabib bensalem (2018)- Dyr el Kef - WordPress.com\nSchoeller Henri(1948)-\
-        \ Le r\xe9gime hydrog\xe9ologique des calcaires \xe9oc\xe8nes du synclinal\
-        \ du Dyr El Kef (Tunisie) .Bull. Soc. G\xe9ol. Fr \n\n**Resource persons**\n\
-        \n- Mongi Chikhaoui e-mail: Chikhaoui_mongi@yahoo.fr\n- Mohamed Tlili, Municipality\
-        \ of Kef\n- Habib Ben Salem : https://www.facebook.com/habib.bensalem.77985\n",
-      font: '', spacing_above: small, spacing_below: small, data: null, background: '',
-      format: markdown}
+        \n1.\tTh\xe8me /Sujet : Le synclinal perch\xe9 \xe9oc\xe8ne de Dyr El Kef\
+        \ \n2.\tSite : Sidi Mansour \n3.\tLocalisation : 36.19768, 8.72766\n\n**II.\t\
+        Conseils et informations pratiques** :\n\n- Statut de la terre : Propri\xe9\
+        t\xe9 de l'Etat\n- Acc\xe8s : facile par route goudronn\xe9e en bon \xe9tat\n\
+        - Point de d\xe9part vers le site : Palais pr\xe9sidentiel (fig.2).\n- Distance\
+        \ : environ 3,5 km\n- Absence de signalisation\n- Chemins d'acc\xe8s au site\
+        \ non am\xe9nag\xe9s\n- Maintenir le site propre \n- Prot\xe9ger la diversit\xe9\
+        \ des esp\xe8ces animales et v\xe9g\xe9tales dans cet environnement naturel\
+        \ afin d'assurer une bonne qualit\xe9 de vie et de subsistance aux citoyens.\
+        \  \n\n\n**III.\tDescription du site**\n\n**1.\tPourquoi visiter le site ?\n\
+        \nLe circuit pr\xe9sent\xe9 dans les figures 1 et 2, d'une longueur d'environ\
+        \ 3,5 km, nous conduit au c\u0153ur du synclinal perch\xe9 \xe9oc\xe8ne du\
+        \ Dyr El Kef (fig.2, photo 1). Il s'agit d'une structure g\xe9ologique en\
+        \ forme de fond de bateau dont les bords plongent de 10\xb0 \xe0 20\xb0 vers\
+        \ le c\u0153ur de la structure. La partie situ\xe9e au nord de la ville du\
+        \ Kef couvre environ 6 km2 et culmine localement \xe0 900m. Le pli affecte\
+        \ une imposante barre de calcaire nummulitique de 60 m d'\xe9paisseur. Le\
+        \ synclinal est perch\xe9, car les roches qui le constituent sont plus hautes\
+        \ que celles qui l'encadrent de part et d'autre (fig. 2 et photo).\n\n\nOutre\
+        \ son int\xe9r\xeat g\xe9ologique \xe9vident, le paysage du site est marqu\xe9\
+        \ par la forme concave de la dalle de calcaire nummulitique, la pr\xe9sence\
+        \ de grottes et de cavit\xe9s karstiques, et de failles d'o\xf9 \xe9merge\
+        \ la source de Sidi Mansour, qui alimente la r\xe9gion en eau potable depuis\
+        \ des milliers d'ann\xe9es (fig.2). C'est aussi une r\xe9gion de verdure et\
+        \ de gibier. Historiquement, la r\xe9gion a \xe9t\xe9 d\xe9crite comme un\
+        \ refuge pour les hommes pr\xe9historiques, comme en t\xe9moignent les peintures\
+        \ rupestres encore visibles au lieu-dit esh-Sheguega (Tlili Mohamed, historien).\
+        \ \n\nLe site pr\xe9sente \xe9galement un int\xe9r\xeat p\xe9dagogique. Des\
+        \ lyc\xe9ens \xe9tudient le site \xe0 l'aide de coupes g\xe9ologiques et de\
+        \ cartes pour comprendre la formation et l'\xe9volution d'une telle structure.\
+        \ Ils observent et dessinent les roches s\xe9dimentaires et leurs fossiles,\
+        \ repr\xe9sent\xe9s ici par une lumachelle de nummulites (photo). Ils apprennent\
+        \ \xe0 lire une carte g\xe9ologique et ce qu'est un affleurement, une roche\
+        \ ou un min\xe9ral.\n\n\n**2.\tR\xe9sum\xe9 des informations importantes \xe0\
+        \ retenir:**\n\nLa structure du synclinal perch\xe9 du Dyr El Kef est le r\xe9\
+        sultat d'une s\xe9rie de d\xe9formations subies par la r\xe9gion de -250 Ma\
+        \ \xe0 nos jours.\n\n- Les couches qui forment le synclinal se sont d\xe9\
+        pos\xe9es horizontalement (Fig. 3a) sous l'eau ou sur terre entre le Trias\
+        \ (-245 Ma) et le Mioc\xe8ne sup\xe9rieur (-5,3 Ma). Ce processus est synchrone\
+        \ avec le d\xe9placement vers l'est de la plaque africaine par rapport \xe0\
+        \ la plaque europ\xe9enne. Il s'agit de la d\xe9rive des continents. Les plaques\
+        \ s'\xe9cartent ou glissent les unes par rapport aux autres. C'est ce qu'on\
+        \ appelle la tectonique distensive. La tectonique distensive a donn\xe9 naissance\
+        \ aux oc\xe9ans.\n- \xc0 la fin du Cr\xe9tac\xe9 (70 Ma), la plaque africaine\
+        \ commence \xe0 se d\xe9placer vers le nord en direction de la plaque europ\xe9\
+        enne. Les deux plaques entrent en collision, donnant naissance aux cha\xee\
+        nes de montagnes (fig.3b, c). Dans le nord de la Tunisie, la formation des\
+        \ cha\xeenes de montagnes date du Mioc\xe8ne sup\xe9rieur (-5,3 Ma) au Plioc\xe8\
+        ne (-1,8 Ma). Apr\xe8s leur formation, les cha\xeenes de montagnes ont subi\
+        \ de profondes modifications (d\xe9mant\xe8lement, \xe9rosion) qui ont abouti\
+        \ \xe0 la g\xe9ologie actuelle (fig.4). \n\n\n**IV.\tInformations compl\xe9\
+        mentaires ** : \n\n**R\xe9f\xe9rences bibliographiques**\n\nHabib bensalem\
+        \ (2018)- Dyr el Kef - WordPress.com\nSchoeller Henri(1948)- Le r\xe9gime\
+        \ hydrog\xe9ologique des calcaires \xe9oc\xe8nes du synclinal du Dyr El Kef\
+        \ (Tunisie) .Bull. Soc. G\xe9ol. Fr \n\n**Personnes ressources**\n\n- Mongi\
+        \ Chikhaoui e-mail : Chikhaoui_mongi@yahoo.fr\n- Mohamed Tlili, Municipalit\xe9\
+        \ du Kef\n- Habib Ben Salem : https://www.facebook.com\n\n\n", font: '', spacing_above: small,
+      spacing_below: small, data: null, background: '', format: markdown}
     name: rich_text_1
     layout_properties: {grid_position: 'WSGTKA,BGQFZG'}
 - type: RichText
