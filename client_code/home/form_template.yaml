@@ -16,9 +16,9 @@ components:
     name: headline_1
     layout_properties: {grid_position: 'VWEKKA,RYVQQX'}
   - name: image_1
-    properties: {source: _/theme/bkh.png, display_mode: fill_width}
+    properties: {source: _/theme/bkh.png, height: 310, display_mode: original_size}
     type: Image
-    layout_properties: {grid_position: 'ETPFXH,XBADVL'}
+    layout_properties: {grid_position: 'ZZLXBW,NPYTBO'}
 - type: FlowPanel
   properties: {}
   name: navbar_links
