@@ -8,7 +8,7 @@ components:
   layout_properties: {grid_position: 'KKSYSU,XBJRXF'}
   components:
   - name: headline_1
-    properties: {role: headline, text: 'Sheet03: Triassic ophites', foreground: 'theme:Secondary
+    properties: {role: headline, text: 'Site03: Ophites du Trias', foreground: 'theme:Secondary
         700', align: center, bold: true, italic: true}
     type: Label
     layout_properties: {grid_position: 'EBCNJF,OKNYTI'}
@@ -19,44 +19,109 @@ components:
   components:
   - type: RichText
     properties: {role: null, align: left, tooltip: '', enable_slots: true, border: '',
-      foreground: '', visible: true, font_size: null, content: "**I.\tIdentification**\n\
-        \n**1.\tTheme /Subject: Triassic ophites from Jebel Debadib**.\n2.\tSite:\
-        \ Jebel D\xe9badib\n3.\tLocation: 36.17529, 8.58399\n\n**II.\tAdvice and practical\
-        \ information** :\n\n- Land status: State-owned\n- Access: easy via tarmac\
-        \ road in good condition\n- Departure point: the town of Le Kef (fig.2).\n\
-        - Distance: approx. 14 km\n- Lack of signposting\n- Undeveloped access paths\
-        \ to the site\n- Risk of disappearance due to alteration and human activity\n\
-        - To preserve the site, it is strictly forbidden to take samples of the green\
-        \ rock. \n\n**III.\tSite description\n\n**1 Why visit the site?\n\n**The landscape**\
-        \ : \n\n- A very beautiful site, clean and free of pollution; \n- A lush Aleppo\
-        \ pine forest; \n- A well-maintained road leading to Hammam Mell\xe8gue;\n\
-        - An exceptional panoramic view of the Oued Mell\xe8gue valley and the vast\
-        \ surrounding agricultural fields and Aleppo pine forests stretching as far\
-        \ as the eye can see to the NE. \n\n**Geology**:\n\n The Triassic outcrop\
-        \ on the left-hand edge of the road to Hammam Mell\xe8gue consists of a thick,\
-        \ whitish gypsum series comprising blocks of grey to black dolomites, grey\
-        \ clays and sandstone levels, deposited between -245 and -205 Ma. \n\nThese\
-        \ series are chaotic (mixed) and lack characteristic fossils, making it impossible\
-        \ to establish a representative stratigraphic succession.\n\nThe Triassic\
-        \ series contains a thick outcrop of green rocks or ophites, corresponding\
-        \ to basaltic lava flows. \n\nOphites owe their name to their distinctive\
-        \ green color.\n\nThese green rocks can be found in more or less elongated\
-        \ flows, or in pillow lavas (photo 4). \n\n**2. Summary of important information\
-        \ to remember** : \n\nThe nature of the Triassic terrains in the Kef region,\
-        \ essentially evaporitic (gypsum, rock salt, halite) and dolomitic, indicates\
-        \ that they were deposited in an environment of Sebkha and Lagunes. Ophites,\
-        \ common in Triassic deposits, indicate that the region was the site of continental\
-        \ volcanic activity. This volcanism is a distant echo of the partial tearing\
-        \ of the Earth's continental crust into pre-oceanic furrows by rifting in\
-        \ a context of tectonic plate divergence (Wikipedia).\n\n**IV.\tFurther information**:\
-        \ \n\n**Bibliographical references**\n\nMohamed Soussi (2002)- Le Jurassique\
-        \ de la Tunisie atlasique. Stratigraphy, sedimentary dynamics, paleogeography\
-        \ and petroleum interest - Travaux et Documents des Laboratoires de G\xe9\
-        ologie de Lyon \n \nPerthuisont V. (1978)- Dynamique et p\xe9trogen\xe8se\
-        \ des extrusions triasiques en Tunisie septentrionale: histoire du diapirisme\
-        \ des d\xf4mes de sel- Presses de l'\xc9cole normale sup\xe9rieure. Paris.\n\
-        \n\n\n\n", font: '', spacing_above: small, spacing_below: small, data: null,
-      background: '', format: markdown}
+      foreground: '', visible: true, font_size: null, content: '**I. Identification**
+
+
+        **1. Thème/Sujet : Ophites triasiques du Jebel Debadib**.
+
+        2. Site : Jebel Débadib
+
+        3. Localisation : 36.17529, 8.58399
+
+
+        **II. Conseils et informations pratiques** :
+
+
+        - Statut foncier : Domaine de l''Etat
+
+        - Accès : facile par route goudronnée en bon état
+
+        - Point de départ : la ville du Kef (fig.2).
+
+        - Distance : environ 14 km
+
+        - Absence de balisage
+
+        - Chemins d''accès au site non aménagés
+
+        - Risque de disparition dû aux altérations et aux activités humaines
+
+        - Pour préserver le site, il est strictement interdit de prélever des échantillons
+        de la roche verte.
+
+
+        **III. Description du site
+
+
+        **1 Pourquoi visiter le site ?
+
+
+        **Le paysage** :
+
+
+        - Un très beau site, propre et exempt de pollution ;
+
+        - Une forêt de pins d''Alep luxuriante ;
+
+        - Une route bien entretenue menant à Hammam Mellègue ; - Une vue panoramique
+        exceptionnelle sur la vallée de l''Oued Mellègue et les vastes champs agricoles
+        environnants et les forêts de pins d''Alep qui s''étendent à perte de vue
+        vers le NE.
+
+
+        **Géologie** :
+
+
+        L''affleurement triasique situé sur le bord gauche de la route de Hammam Mellègue
+        est constitué d''une épaisse série gypseuse blanchâtre composée de blocs de
+        dolomies grises à noires, d''argiles grises et de niveaux de grès, déposés
+        entre -245 et -205 Ma.
+
+
+        Ces séries sont chaotiques (mixtes) et dépourvues de fossiles caractéristiques,
+        ce qui ne permet pas d''établir une succession stratigraphique représentative.
+
+
+        La série triasique contient un épais affleurement de roches vertes ou ophites,
+        correspondant à des coulées de lave basaltique.
+
+
+        Les ophites doivent leur nom à leur couleur verte caractéristique.
+
+
+        Ces roches vertes peuvent se trouver dans des coulées plus ou moins allongées,
+        ou dans des laves en coussins (photo 4).
+
+
+        **2. Résumé des informations importantes à retenir** :
+
+
+        La nature des terrains triasiques de la région du Kef, essentiellement évaporitiques
+        (gypse, sel gemme, halite) et dolomitiques, indique qu''ils se sont déposés
+        dans un environnement de Sebkha et de Lagunes. Les ophites, fréquentes dans
+        les gisements triasiques, indiquent que la région a été le siège d''une activité
+        volcanique continentale. Ce volcanisme est un lointain écho du déchirement
+        partiel de la croûte continentale terrestre en sillons préocéaniques par rifting
+        dans un contexte de divergence des plaques tectoniques (Wikipedia).
+
+
+        **IV. Informations complémentaires** :
+
+
+        **Références bibliographiques**
+
+
+        Mohamed Soussi (2002)- Le Jurassique de la Tunisie atlasique. Stratigraphie,
+        dynamique sédimentaire, paléogéographie et intérêt pétrolier - Travaux et
+        Documents des Laboratoires de Géologie de Lyon
+
+
+        Perthuisont V. (1978)- Dynamique et pétrogenèse des extrusions triasiques
+        en Tunisie septentrionale : histoire du diapirisme des dômes de sel- Presses
+        de l''École normale supérieure. Paris.
+
+        ', font: '', spacing_above: small, spacing_below: small, data: null, background: '',
+      format: markdown}
     name: rich_text_1
     layout_properties: {grid_position: 'NPAQQT,AKCYDP'}
 - type: Image

@@ -1,7 +1,7 @@
 container: {type: ColumnPanel}
 components:
 - name: headline_1
-  properties: {role: headline, text: 'Sheet10: Fold in the Eocene', background: '',
+  properties: {role: headline, text: 'Site10: Structures plissées éocènes', background: '',
     foreground: 'theme:Secondary 700', align: center, bold: true, italic: true}
   type: Label
   layout_properties: {grid_position: 'WUCDKY,WAOJYG'}
@@ -11,41 +11,109 @@ components:
   layout_properties: {grid_position: 'SAZMNE,DKUKGT'}
   components:
   - name: rich_text_1
-    properties: {content: "**I.\tIdentification**\n\n1.\tTheme /Subject : Fold in\
-        \ the Eocene \n2.\tSite: Kef R'Gueb\n3.\t Location: 36.12067, 8.90201\n\n\
-        **II.\tAdvice and practical information**\n\n- Land situation : State-owned\n\
-        - Access: easy via tarmac road in good condition\n- Departure point : the\
-        \ town of Le Kef (fig.2). \n\n- Distance: 20km.\n- Lack of signposting\n-\
-        \ Undeveloped access paths to the site.\n\n\n**III.\tSite description**\n\n\
-        **1 Interest in visiting the site** \n\n**Geological interest**:\n\nThe site\
-        \ corresponds to a faulted fold dipping to the NW and affecting alternating\
-        \ limestones and marls at the base of the Eocene. This fold is sealed by the\
-        \ Eocene nummulite limestone slab. This structure indicates that the area\
-        \ was the site of tectonic instability during the sedimentation of the Eocene\
-        \ nummulite limestone bar 65 Ma ago.\n\n**Landscape interest**\n\nThe Eocene\
-        \ series is criss-crossed by a small river where, over the years, water has\
-        \ carved grooves in which small waterfalls have been created. The calm of\
-        \ the place and the sound of falling water make it an ideal place for rest\
-        \ and relaxation.\n\n**Historical interest**\n\nClose to the Eocene fold is\
-        \ a Roman mill used to press olives (Tlili Mohamed, historian).\n\n**2.\t\
-        Summary of important information to remember**\n\nThe interest of this site\
-        \ is to show that the region was marked by a tectonic instability in compression\
-        \ manifested by the formation of an anticlinal fold affecting the marl-limestone\
-        \ alternations of the base of the Eocene. The fold is sealed by the Eocene\
-        \ nummulite limestone slab. \n\nAs is the case throughout northern Tunisia,\
-        \ the Eocene limestone at this site is a good reservoir for drinking water.\
-        \ In fact, when the Romans first arrived, they settled in these water-rich\
-        \ areas, which were more favorable to the development of housing and agriculture,\
-        \ and where various remains have been found, including the oil mill.\n\n**IV.\t\
-        Further information** : \n\n**Bibliographical references**\n\nAbdessalem El\
-        \ Ghali et al.( 2003)- Synsedimentary tectonic events associated with Eocene\
-        \ compression in Tunisia: paleogeographic and structural implications on the\
-        \ North African margin- Comptes Rendus Geoscience Volume 335, Issue 9, September\
-        \ 2003, Pages 763-771\n\nBen Salem Habib (2017)- The Paleocene and the Eocene-https://hbsgeol.wordpress.com/2017/12/26/le-paleocene-et-leocene/\n\
-        \nFouad Zargouni , Anis Krima (2003)- Synsedimentary tectonic events associated\
-        \ with Eocene compression in Tunisia: paleogeographic and structural implications\
-        \ on the North African margin.\n\n**Resource persons**\n\n- Mongi Chikaoui-\
-        \ e-mail: Chikhaoui_mongi@yahoo.fr\n- Mohamed Tlili, History of Kef- http://elkef7100.free.fr/Histoire.htm\n"}
+    properties: {content: '**I. Identification**
+
+
+        1. Thème/Sujet : Le pli à l''Eocène
+
+        2. Site : Kef R''Gueb
+
+        3. Localisation : 36.12067, 8.90201
+
+
+        **II. Conseils et informations pratiques**
+
+
+        - Situation foncière : Domaine de l''Etat
+
+        - Accès : facile par route goudronnée en bon état
+
+        - Point de départ : la ville du Kef (fig.2).
+
+
+        - Distance : 20km.
+
+        - Absence de balisage
+
+        - Chemins d''accès au site non aménagés.
+
+
+        **III. Description du site**
+
+
+        **1 Intérêt de la visite du site**
+
+
+        **Intérêt géologique** :
+
+
+        Le site correspond à un pli faillé à pendage NW affectant une alternance de
+        calcaires et de marnes à la base de l''Eocène. Ce pli est scellé par la dalle
+        calcaire à nummulites éocène. Cette structure indique que la zone a été le
+        siège d''une instabilité tectonique lors de la sédimentation de la barre calcaire
+        à nummulite de l''Eocène il y a 65 Ma.
+
+
+        **Intérêt paysager**
+
+
+        La série éocène est sillonnée par une petite rivière où, au fil des années,
+        l''eau a creusé des sillons dans lesquels se sont créées de petites cascades.
+        Le calme du lieu et le bruit de l''eau qui tombe en font un lieu idéal pour
+        le repos et la détente.
+
+
+        **Intérêt historique**
+
+
+        A proximité du pli éocène se trouve un moulin romain utilisé pour presser
+        les olives (Tlili Mohamed, historien).
+
+
+        **2. Résumé des informations importantes à retenir**
+
+
+        L''intérêt de ce site est de montrer que la région a été marquée par une instabilité
+        tectonique en compression se manifestant par la formation d''un pli anticlinal
+        affectant les alternances marno-calcaires de la base de l''Eocène. Le pli
+        est scellé par la dalle calcaire à nummulite de l''Eocène.
+
+
+        Comme dans tout le nord de la Tunisie, les calcaires éocènes de ce site constituent
+        un bon réservoir d''eau potable. En effet, dès leur arrivée, les Romains s''installèrent
+        dans ces zones riches en eau, plus propices au développement de l''habitat
+        et de l''agriculture, et où l''on a retrouvé divers vestiges, dont le moulin
+        à huile.
+
+
+        **IV. Informations complémentaires** :
+
+
+        **Références bibliographiques**
+
+
+        Abdessalem El Ghali et al.( 2003)- Evénements tectoniques synsédimentaires
+        associés à la compression éocène en Tunisie : implications paléogéographiques
+        et structurales sur la marge nord-africaine- Comptes Rendus Geoscience Volume
+        335, Issue 9, September 2003, Pages 763-771
+
+
+        Ben Salem Habib (2017)- Le Paléocène et l''Eocène-https://hbsgeol.wordpress.com/2017/12/26/le-paleocene-et-leocene/
+
+
+        Fouad Zargouni , Anis Krima (2003)- Evénements tectoniques synsédimentaires
+        associés à la compression éocène en Tunisie : implications paléogéographiques
+        et structurales sur la marge nord-africaine.
+
+
+        **Personnes ressources**
+
+
+        - Mongi Chikaoui- e-mail : Chikhaoui_mongi@yahoo.fr
+
+        - Mohamed Tlili, Histoire du Kef- http://elkef7100.free.fr/Histoire.htm
+
+        '}
     type: RichText
     layout_properties: {grid_position: 'PFIUGF,NTBOUU'}
 - name: column_panel_2

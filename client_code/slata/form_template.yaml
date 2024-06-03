@@ -8,7 +8,7 @@ components:
   layout_properties: {grid_position: 'WDHPEB,YUAGKS'}
   components:
   - name: headline_1
-    properties: {role: headline, text: 'Sheet07: Slata reef', foreground: 'theme:Secondary
+    properties: {role: headline, text: 'Site07: Les calcaires récifaux Aptiens', foreground: 'theme:Secondary
         700', align: center, bold: true, italic: true}
     type: Label
     layout_properties: {grid_position: 'MOEOJS,ASAGQD'}
@@ -19,63 +19,151 @@ components:
   components:
   - type: RichText
     properties: {role: null, align: left, tooltip: '', enable_slots: true, border: '',
-      foreground: '', visible: true, font_size: null, content: "**I.\tIdentification**\n\
-        \n1.\tTheme /Subject: Jebel Slata reef \n2.\tSite: Jebel Slata\n3.\t Location:\
-        \ 35.86064, 8.46669\n\n**II.\tTips and practical information** :\n\n- Land\
-        \ status: State-owned\n- Access: easy via tarmac road in good condition\n\
-        - Departure point: the town of Le Kef (fig.2). - Distance: approx. 46 km (via\
-        \ the town of Tajerouine) or 62 via J. Harraba (fig.1).\n- Lack of signage\n\
-        - Undeveloped site access paths\n- Access to the various galleries is somewhat\
-        \ difficult. \n- Wear shoes, helmet, gloves...\n\n**III.\tSite description**\n\
-        \n**1 Interest in visiting the site**\n\n **Landscape interest**\n\n**Landscape\
-        \ interest**\n  \nJebel Slata is another Aptian carbonate massif peaking at\
-        \ 800 m in the middle of vast plains whose altitude does not exceed 300 to\
-        \ 400 m. This massif is easily climbed to its highest point. From here, you\
-        \ can enjoy a panoramic view that includes the towns of Tajerouine and Jeridssa\
-        \ to the east, the Oued Sarrat dam to the south and several mountain ranges\
-        \ to the west, stretching all the way to the Algerian border (fig. 3). The\
-        \ Ouenza mountain in Algeria, which contains the largest iron ore mine still\
-        \ in operation in North Africa, can be seen here.\n\n**Geological interest**\n\
-        \ :\nThe Jebel Slata massif is a fold formed by an imposing bed of reef limestone\
-        \ of Aptian age (-114 to -108 Ma). It is an arc-shaped structure with a convexity\
-        \ facing NE (fig.3). It rests on Triassic terrain, which appears at its SW\
-        \ end. The whole is enveloped by more recent Upper Cretaceous deposits. \n\
-        \n**Paleontological significance**\n\nTo see the entire geological series\
-        \ from the base of the J.Slata, follow route AB (fig.3). \n\nThe section starts\
-        \ in the Triassic Terrains with their characteristic variegated facies, followed\
-        \ by a series of bioclastic limestones, grey marls and sandstones. The series\
-        \ continues with a mass of reef limestones, in which a polypier can be seen\
-        \ in a life-like position (photo). Polypiers are called corals and are organisms\
-        \ that participate in the construction of reef limestones. between -114 and\
-        \ -108 Ma.\nOther organisms, such as oysters and sea urchins, thrive in these\
-        \ same rocks, and can be seen on site due to their large size (photos).\n\
-        \ \n**Mining interest**\n\nThe reef limestones also contain the largest deposits\
-        \ of lead (galena), zinc (blende) and iron, which have been mined in the past.\
-        \ \n\nAt Jebel Slata, you'll find the remains of several mines exploited in\
-        \ the past: \n\n- The iron mine at the western end can be recognized by the\
-        \ ochre color of the iron and the fact that it was not mined in the past.\
-        \ The mineral extracted is represented by iron oxides (hematite).\n- Lead/zinc\
-        \ mine with old installations and waste rock stockpiles from which lead/zinc\
-        \ mineralization has been extracted.\n- Mining of barite and celestine.\n\n\
-        **2.\tSummary of important information to remember** : \n\nThe Jebel Slata\
-        \ site is a reef built by builder organisms (corals) during the Late Aptian\
-        \ (-114 to -108 Ma). The depositional environment was a submarine high zone\
-        \ (no more than 200 m deep) with a diapiric Triassic core. \n\nThe reef emerged\
-        \ and folded during the Tertiary deformation phases that gave rise to the\
-        \ mountain ranges. As they folded, the reef limestones were intensely fractured.\
-        \ The faults and porosity of these facies appear to have played an important\
-        \ role in the potential transport of metal-rich fluids from great depths to\
-        \ the surface. Once these mineralized fluids reach the surface, their temperatures\
-        \ and pressures drop. The mineralization they carry then precipitates in the\
-        \ faults and voids created by these same fluids. This process is at the origin\
-        \ of lead-zinc and iron mineralization. \n\n\n**IV.\tFind out more** : \n\n\
-        **Bibliographical references**\n\n- Sainfeld P (1956). The lead-zinc-bearing\
-        \ deposits of Tunisia- Economic Geology v.51, pp 150-177\n\n- Dubourdieu,\
-        \ G. (1956). \xc9tude g\xe9ologique de la r\xe9gion de l'Ouenza (confins Alg\xe9\
-        roTunisiens). Publications du service de la carte g\xe9ologique de l'Alg\xe9\
-        rie (nouvelle s\xe9ries), Bulletin n\xb0 10, 659 pp.\n\n**Resource persons**\n\
-        \nMongi Chikhaoui- e-mail:chikhaoui_mongi@gmail.com\n", font: '', spacing_above: small,
-      spacing_below: small, data: null, background: '', format: markdown}
+      foreground: '', visible: true, font_size: null, content: '**I. Identification**
+
+
+        1. Thème/Sujet : Récif de Jebel Slata
+
+        2. Site : Jebel Slata
+
+        3. Localisation : 35.86064, 8.46669
+
+
+        **II. Conseils et informations pratiques** :
+
+
+        - Statut foncier : Domaine de l''Etat
+
+        - Accès : facile par route goudronnée en bon état
+
+        - Point de départ : la ville du Kef (fig.2). - Distance : environ 46 km (par
+        la ville de Tajerouine) ou 62 par J. Harraba (fig.1).
+
+        - Absence de signalisation
+
+        - Chemins d''accès au site non aménagés
+
+        - Accès aux différentes galeries quelque peu difficile.
+
+        - Porter des chaussures, un casque, des gants...
+
+
+        **III. Description du site**
+
+
+        **1 Intérêt de la visite du site**
+
+
+        **Intérêt paysager**
+
+
+        **Intérêt paysager**
+
+
+        Le Jebel Slata est un autre massif carbonaté de l''Aptien culminant à 800
+        m au milieu de vastes plaines dont l''altitude ne dépasse pas 300 à 400 m.
+        Ce massif est facilement escaladé jusqu''à son point culminant. De là, on
+        jouit d''une vue panoramique qui comprend les villes de Tajerouine et Jeridssa
+        à l''est, le barrage de l''Oued Sarrat au sud et plusieurs chaînes de montagnes
+        à l''ouest, s''étendant jusqu''à la frontière algérienne (fig. 3). On peut
+        y voir la montagne de l''Ouenza en Algérie, qui abrite la plus grande mine
+        de fer encore en activité en Afrique du Nord.
+
+
+        **Intérêt géologique**
+
+        :
+
+        Le massif du Jebel Slata est un pli formé par un imposant banc de calcaire
+        récifal d''âge Aptien (-114 à -108 Ma). Il s''agit d''une structure en forme
+        d''arc avec une convexité orientée vers le NE (fig.3). Elle repose sur un
+        terrain triasique, qui apparaît à son extrémité SW. L''ensemble est enveloppé
+        par des dépôts plus récents du Crétacé supérieur.
+
+
+        **Importance paléontologique**
+
+
+        Pour voir l''ensemble de la série géologique depuis la base du J.Slata, suivre
+        l''itinéraire AB (fig.3).
+
+
+        La section commence dans les terrains triasiques avec leurs faciès bigarrés
+        caractéristiques, suivis d''une série de calcaires bioclastiques, de marnes
+        grises et de grès. La série se poursuit avec une masse de calcaires récifaux,
+        dans laquelle on peut voir un polypier en position vivante (photo). Les polypiers
+        sont appelés coraux et sont des organismes qui participent à la construction
+        des calcaires récifaux. entre -114 et -108 Ma.
+
+        D''autres organismes, comme les huîtres et les oursins, prospèrent dans ces
+        mêmes roches, et peuvent être observés sur place en raison de leur grande
+        taille (photos).
+
+
+        **Intérêt minier**
+
+
+        Les calcaires récifaux contiennent également les plus grands gisements de
+        plomb (galène), de zinc (blende) et de fer, qui ont été exploités dans le
+        passé.
+
+
+        A Jebel Slata, on trouve les vestiges de plusieurs mines exploitées dans le
+        passé :
+
+
+        - La mine de fer à l''extrémité ouest est reconnaissable à la couleur ocre
+        du fer et au fait qu''elle n''a pas été exploitée dans le passé. Le minerai
+        extrait est représenté par des oxydes de fer (hématite).
+
+        - Mine de plomb/zinc avec d''anciennes installations et des stocks de stériles
+        d''où ont été extraites des minéralisations plomb/zinc.
+
+        - Exploitation de barytine et de célestine.
+
+
+        **2. Résumé des informations importantes à retenir** :
+
+
+        Le site de Jebel Slata est un récif construit par des organismes bâtisseurs
+        (coraux) au cours de l''Aptien supérieur (-114 à -108 Ma). L''environnement
+        de dépôt était une zone haute sous-marine (pas plus de 200 m de profondeur)
+        avec un noyau triasique diapirique.
+
+
+        Le récif a émergé et s''est plissé lors des phases de déformation tertiaire
+        qui ont donné naissance aux chaînes de montagnes. Au cours de leur plissement,
+        les calcaires récifaux ont été intensément fracturés. Les failles et la porosité
+        de ces faciès semblent avoir joué un rôle important dans le transport potentiel
+        de fluides riches en métaux depuis les grandes profondeurs jusqu''à la surface.
+        Une fois que ces fluides minéralisés atteignent la surface, leurs températures
+        et leurs pressions chutent. La minéralisation qu''ils véhiculent précipite
+        alors dans les failles et les vides créés par ces mêmes fluides. Ce processus
+        est à l''origine des minéralisations en plomb-zinc et en fer.
+
+
+        **IV. Pour en savoir plus** :
+
+
+        **Références bibliographiques**
+
+
+        - Sainfeld P (1956). Les gisements plomb-zinc de Tunisie- Géologie économique
+        v.51, pp 150-177
+
+
+        - Dubourdieu, G. (1956). Étude géologique de la région de l''Ouenza (confins
+        AlgéroTunisiens). Publications du service de la carte géologique de l''Algérie
+        (nouvelle série), Bulletin n° 10, 659 pp.
+
+
+        **Personnes ressources**
+
+
+        Mongi Chikhaoui- e-mail:chikhaoui_mongi@gmail.com
+
+        ', font: '', spacing_above: small, spacing_below: small, data: null, background: '',
+      format: markdown}
     name: rich_text_1
     layout_properties: {grid_position: 'GMGNYR,SKJOMJ'}
 - type: ColumnPanel

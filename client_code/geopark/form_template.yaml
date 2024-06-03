@@ -13,52 +13,72 @@ components:
     layout_properties: {grid_position: 'PYNZCP,CFQDFV'}
     components:
     - name: headline_1
-      properties: {role: headline, text: Geopark Project, background: '', foreground: 'theme:Secondary
+      properties: {role: headline, text: 'Projet Géoparc ', background: '', foreground: 'theme:Secondary
           700', italic: true, bold: true, align: center}
       type: Label
       layout_properties: {grid_position: 'XATPAQ,OECZYY'}
   - type: RichText
     properties: {role: null, align: left, tooltip: '', enable_slots: true, border: '',
-      foreground: '', visible: true, font_size: null, content: "\n\nThe idea of  creating\
-        \ a Geopark in Tunisia, and particularly in the Kef region, dates back to\
-        \ 2002, well before the one in South-East Tunisia, which was only launched\
-        \ in 2016 and is still in progress. \n\nSo what are the criteria that justify\
-        \ the choice of the Kef region to set up the first Geopark in Tunisia? \n\n\
-        Its geological heritage, which is of great scientific interest, seems to justify\
-        \ this choice. Indeed, this heritage enables us to correctly interpret the\
-        \ geological phenomena that have marked the history of our planet over the\
-        \ last 250 million years. This history is rich thanks to the abundance and\
-        \ variety of fossils, geological structures, morpho-structural landscapes\
-        \ and polymetallic mineral concentrations. What's more, the region is home\
-        \ to a site of worldwide interest. This site, located 7 km SW of the town\
-        \ of Le Kef, fossils in the Cretaceous-Paleogene (K-Pg) passage, bear witness\
-        \ to the 5th great biodiversity\ncrisis that marked the history of our planet\
-        \ 65 million years ago. \n\nThis crisis, caused by the impact of a giant asteroid\
-        \ on our planet, led to massive biological extinctions of over 80% of marine\
-        \ and continental species, including the dinosaurs. This locality, studied\
-        \ along with other similar sites around the world, was selected as the international\
-        \ reference locality of the K-Pg  boundary at the 28th International Geological\
-        \ Congress, Washington, and the Workshop on the K-Pg boundary, El Kef, 1992).\
-        \ The K-Pg boundary site has been on UNESCO's tentative list since 2016. \n\
-        \n\_\n\nOn June 19, 2002, the Governorate of Kef welcomed a group of 8 experts\
-        \ from the European Geoparks Network (Mr. Guy Martin and Ms. Rosaria Modica)\
-        \ and Cultural Parc Rocca Di Cerere (Italy) to promote the rich heritage of\
-        \ the Kef region. The mission of these experts was to carry out a feasibility\
-        \ study to verify the possibility of creating an Integrated Tourism System\
-        \ (ITS) and to evaluate the possibilities of creating a Geopark according\
-        \ to the standards established by the European Geoparks Network.  During their\
-        \ field trip, these experts were accompanied and guided by Chikhaloui Mongi\
-        \ (Geologist) and Tlili Mohamed (Archaeologist).\n\nThe fieldwork, which lasted\
-        \ approximately one month, allowed for the identification of several geological\
-        \ and mining sites of regional and universal interest. These sites are associated\
-        \ with historical, archaeological, environmental, and cultural sites. The\
-        \ Table of Jugurtha, a famous historical site, has also been on the UNESCO\
-        \ indicative list since 2017. \n\nThe methodology adopted is the same as that\
-        \ already experimented with at Rocca di Cerere, which includes three approaches:\
-        \ \n\nA global territorial approach to development, also known as a 'bottom-up'\
-        \ approach, involves active participation from socio-economic actors and institutions\
-        \ in the region.\n\n\n", font: '', spacing_above: small, spacing_below: small,
-      data: null, background: '', format: markdown}
+      foreground: '', visible: true, font_size: null, content: 'L’idée de créer un
+        Géoparc en Tunisie, et particulièrement dans la région du Kef, remonte à 2002,
+        bien avant celui du Sud-Est tunisien, qui n’a été lancé qu’en 2016 et est
+        toujours en cours.
+
+
+        Quels sont donc les critères qui justifient le choix de la région du Kef pour
+        implanter le premier Géoparc de Tunisie ?
+
+
+        Son patrimoine géologique, qui présente un grand intérêt scientifique, semble
+        justifier ce choix. En effet, ce patrimoine permet d’interpréter correctement
+        les phénomènes géologiques qui ont marqué l’histoire de notre planète au cours
+        des 250 derniers millions d’années. Cette histoire est riche grâce à l’abondance
+        et à la variété des fossiles, des structures géologiques, des paysages morpho-structuraux
+        et des concentrations minérales polymétalliques. De plus, la région abrite
+        un site d’intérêt mondial. Ce site, situé à 7 km au SO de la ville du Kef,
+        des fossiles du passage Crétacé-Paléogène (K-Pg), témoignent de la 5ème grande
+        crise de biodiversité qui a marqué l’histoire de notre planète il y a 65 millions
+        d’années.
+
+
+        Cette crise, provoquée par l''impact d''un astéroïde géant sur notre planète,
+        a conduit à des extinctions biologiques massives de plus de 80% des espèces
+        marines et continentales, dont les dinosaures. Cette localité, étudiée avec
+        d''autres sites similaires dans le monde, a été sélectionnée comme localité
+        de référence internationale de la limite K-Pg lors du 28e Congrès géologique
+        international, Washington, et de l''Atelier sur la limite K-Pg, El Kef, 1992).
+        Le site de la limite K-Pg est inscrit sur la liste indicative de l''UNESCO
+        depuis 2016.
+
+
+        Le 19 juin 2002, le Gouvernorat du Kef a accueilli un groupe de 8 experts
+        du Réseau Européen des Géoparcs (M. Guy Martin et Mme Rosaria Modica) et du
+        Parc Culturel Rocca Di Cerere (Italie) pour promouvoir le riche patrimoine
+        de la région du Kef. La mission de ces experts était de réaliser une étude
+        de faisabilité pour vérifier la possibilité de créer un Système Intégré de
+        Tourisme (STI) et d''évaluer les possibilités de création d''un Géoparc selon
+        les normes établies par le Réseau Européen des Géoparcs. Lors de leur visite
+        de terrain, ces experts ont été accompagnés et guidés par Chikhaloui Mongi
+        (géologue) et Tlili Mohamed (archéologue).
+
+
+        Le travail de terrain, qui a duré environ un mois, a permis d''identifier
+        plusieurs sites géologiques et miniers d''intérêt régional et universel. Ces
+        sites sont associés à des sites historiques, archéologiques, environnementaux
+        et culturels. La Table de Jugurtha, célèbre site historique, figure également
+        sur la liste indicative de l''UNESCO depuis 2017.
+
+
+        La méthodologie adoptée est la même que celle déjà expérimentée à Rocca di
+        Cerere, qui comprend trois approches :
+
+
+        Une approche territoriale globale du développement, également appelée approche
+        « bottom-up », implique la participation active des acteurs socio-économiques
+        et des institutions de la région.
+
+        ', font: '', spacing_above: small, spacing_below: small, data: null, background: '',
+      format: markdown}
     name: rich_text_1
     layout_properties: {grid_position: 'RCCJVW,WUIOXQ'}
 - type: Image

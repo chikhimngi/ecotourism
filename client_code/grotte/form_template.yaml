@@ -8,7 +8,7 @@ components:
   layout_properties: {grid_position: 'UKXCVR,JUHCNZ'}
   components:
   - name: headline_1
-    properties: {role: headline, text: 'Sheet 05: Stalactites and stalagmites cave',
+    properties: {role: headline, text: 'Site05: Grotte à Stalactites et stalagmites ',
       foreground: 'theme:Secondary 700', align: center, bold: true, italic: true}
     type: Label
     layout_properties: {grid_position: 'KDAYJE,AQAFWS'}
@@ -19,56 +19,131 @@ components:
   components:
   - type: RichText
     properties: {role: null, align: left, tooltip: '', enable_slots: true, border: '',
-      foreground: '', visible: true, font_size: null, content: "**I.\tIdentification**\n\
-        1.\tTheme /Subject: Jebel Harraba stalactite and stalagmite cave\n2.\tSite:\
-        \ Jebel Harraba\n3.\t Location: 36.02955, 8.32721\n\n**II.\tAdvice and practical\
-        \ information** :\n\n- Land status: State-owned\n- Access: easy via tarmac\
-        \ road in good condition\n- Departure point: the town of Le Kef (fig.2). \n\
-        - Distance: approx. 42 km\n- Lack of signposting\n- Undeveloped site access\
-        \ paths\n- Risk of the site disappearing\n- Protect the site by closing the\
-        \ gallery with a wrought-iron gate.\n- Put up signs prohibiting the removal\
-        \ of calcite crystals from inside the gallery.\n- Access to the cave is a\
-        \ little difficult (steep slope) for the elderly. It is advisable to build\
-        \ stairs to facilitate descent into the cave.\n- Please bring a helmet, hiking\
-        \ boots and a flashlight.\n\n\n**III.\tSite description**\n\n**1.\tWhy visit\
-        \ the site?**\n\nAccess to the site is via the GP 5 towards Sakiet Sidi Youssef.\
-        \ Before reaching the Oued Mell\xe8gue bridge, there are three stops (fig.2):\n\
-        - Stop 1: Observe a variegated Triassic outcrop of gypsum, clay, sandstone\
-        \ and dolomite. If you're curious and look closely, you'll find some beautiful\
-        \ bipyramid quartz crystals that can be removed by hand or hammer;\n\n- Stop\
-        \ 2: Jebel Saddine nature reserve. For more details, see this link: (https://rsis.ramsar.org/fr/ris/2220).\n\
-        \n- Stop 3: Along the road, just before the Oued Kohol bridge, you can see\n\
-        \nAn outcrop of black limestone platelets dating from the Albian (-108 to\
-        \ -96 Ma). \nThe black color of this outcrop is due to the presence of organic\
-        \ matter.\nGalena (lead) crystals can be collected here from the old mines\
-        \ located upstream and drained by Oued Kohol.\n\nWe then continue towards\
-        \ the Sid Rabah cave, taking the secondary road that leads to the village\
-        \ of Sidi Rabeh and on to Tajerouine (fig. 2). The average distance is around\
-        \ 42 km.\n\n**Landscape interest**\n\nArriving in the area, one is struck\
-        \ by a distinctive landscape made up of a series of dark-colored carbonate\
-        \ massifs, sometimes peaking at 900 m, in the midst of vast flatlands whose\
-        \ altitude does not exceed 300 to 400 m (J. Harraba, Slata, Jerissa). Several\
-        \ massifs with similar facies can also be observed on the Algerian side. \
-        \ There are no dense forests, as is the case north of the town of Le Kef.\
-        \ Agricultural fields are less fertile than in the Kef region. This vast area\
-        \ is crossed by the Oued Mell\xe8gue, which rises in Algeria.\n\n**Mineralogical\
-        \ interest**\n\nThese carbonate massifs are highly fractured and even karstified.\
-        \ Water percolating through the cracks is loaded with calcium carbonate, which\
-        \ precipitates when it falls to the bottom of the cavities. The structures\
-        \ formed are of two types: stalactites and stalagmites.\n\nStalactites form\
-        \ elongated calcite crystals, clinging to the ceilings of cavities and pointing\
-        \ downwards. Stalagmites form elongated calcite crystals attached to the foot\
-        \ of cavities and pointing upwards.\nThe Jebel Harraba massif contains a cave\
-        \ (a former lead mine) with beautiful stalactite and stalagmite structures.\
-        \ Access to the cave is via an 80 m-long gallery dug into the northern flank\
-        \ of the Jebel Harraba massif, 200 m from the track leading to the village\
-        \ of Si. Rabeh (figs. 2, 3 and 4). \n\n The cave comprises a main chamber\
-        \ connected to several chimneys and corridors. It is the main chamber that\
-        \ contains the spectacular stalactites and stalagmites (photos).\n\n**2.\t\
-        Summary of important information to remember **\n\n**Geological interest**\n\
-        \nThe mountain massifs are composed of reef limestones of Aptian age (-114\
-        \ to -108 Ma).\n\n", font: '', spacing_above: small, spacing_below: small,
-      data: null, background: '', format: markdown}
+      foreground: '', visible: true, font_size: null, content: '**I. Identification**
+
+        1. Thème/Sujet : Grotte de stalactites et stalagmites de Jebel Harraba
+
+        2. Site : Jebel Harraba
+
+        3. Localisation : 36.02955, 8.32721
+
+
+        **II. Conseils et informations pratiques** :
+
+
+        - Statut foncier : Domaine de l''Etat
+
+        - Accès : facile par route goudronnée en bon état
+
+        - Point de départ : la ville du Kef (fig.2).
+
+        - Distance : environ 42 km
+
+        - Absence de balisage
+
+        - Chemins d''accès au site non aménagés
+
+        - Risque de disparition du site
+
+        - Protéger le site en fermant la galerie par un portail en fer forgé.
+
+        - Mettre en place des panneaux interdisant l''extraction de cristaux de calcite
+        depuis l''intérieur de la galerie.
+
+        - L''accès à la grotte est un peu difficile (pente raide) pour les personnes
+        âgées. Il est conseillé de construire des escaliers pour faciliter la descente
+        dans la grotte.
+
+        - Prévoir un casque, des chaussures de randonnée et une lampe de poche.
+
+
+        **III. Description du site**
+
+
+        **1. Pourquoi visiter le site ?**
+
+
+        L''accès au site se fait par la GP 5 en direction de Sakiet Sidi Youssef.
+        Avant d''atteindre le pont de l''Oued Mellègue, trois arrêts sont prévus (fig.2)
+        :
+
+        - Arrêt 1 : Observez un affleurement triasique bigarré de gypse, d''argile,
+        de grès et de dolomie. Si vous êtes curieux et que vous regardez bien, vous
+        trouverez de beaux cristaux de quartz bipyramidaux qui peuvent être enlevés
+        à la main ou au marteau ;
+
+
+        - Arrêt 2 : Réserve naturelle de Jebel Saddine. Pour plus de détails, voir
+        ce lien : (https://rsis.ramsar.org/fr/ris/2220).
+
+
+        - Arrêt 3 : Le long de la route, juste avant le pont de l''Oued Kohol, vous
+        pouvez voir
+
+
+        Un affleurement de plaquettes de calcaire noir datant de l''Albien (-108 à
+        -96 Ma).
+
+        La couleur noire de cet affleurement est due à la présence de matière organique.
+
+        On peut y récolter des cristaux de galène (plomb) provenant des anciennes
+        mines situées en amont et drainées par l''Oued Kohol.
+
+
+        On continue ensuite vers la grotte de Sid Rabah en empruntant la route secondaire
+        qui mène au village de Sidi Rabeh puis à Tajerouine (fig. 2). La distance
+        moyenne est d''environ 42 km.
+
+
+        **Intérêt paysager**
+
+
+        En arrivant dans la zone, on est frappé par un paysage particulier constitué
+        d''une série de massifs carbonatés de couleur sombre, culminant parfois à
+        900 m, au milieu de vastes plaines dont l''altitude ne dépasse pas 300 à 400
+        m (J. Harraba, Slata, Jerissa). Plusieurs massifs aux faciès similaires peuvent
+        également être observés du côté algérien. On n''y trouve pas de forêts denses,
+        comme c''est le cas au nord de la ville du Kef. Les champs agricoles sont
+        moins fertiles que dans la région du Kef. Cette vaste zone est traversée par
+        l''Oued Mellègue, qui prend sa source en Algérie.
+
+
+        **Intérêt minéralogique**
+
+
+        Ces massifs carbonatés sont très fracturés, voire karstifiés. L''eau qui s''infiltre
+        par les fissures est chargée de carbonate de calcium qui précipite en tombant
+        au fond des cavités. Les structures formées sont de deux types : les stalactites
+        et les stalagmites.
+
+
+        Les stalactites forment des cristaux de calcite allongés, accrochés aux plafonds
+        des cavités et pointés vers le bas. Les stalagmites forment des cristaux de
+        calcite allongés fixés au pied des cavités et pointés vers le haut.
+
+        Le massif du Jebel Harraba abrite une grotte (ancienne mine de plomb) présentant
+        de belles structures de stalactites et de stalagmites. L''accès à la grotte
+        se fait par une galerie de 80 m de long creusée dans le flanc nord du massif
+        du Jebel Harraba, à 200 m de la piste menant au village de Si. Rabeh (fig.
+        2, 3 et 4).
+
+
+        La grotte comprend une salle principale reliée à plusieurs cheminées et couloirs.
+        C''est la salle principale qui contient les spectaculaires stalactites et
+        stalagmites (photos).
+
+
+        **2. Résumé des informations importantes à retenir**
+
+
+        **Intérêt géologique**
+
+
+        Les massifs montagneux sont composés de calcaires récifaux d''âge Aptien (-114
+        à -108 Ma).
+
+        ', font: '', spacing_above: small, spacing_below: small, data: null, background: '',
+      format: markdown}
     name: rich_text_1
     layout_properties: {grid_position: 'HJBHDZ,ECBSAW'}
 - type: Image

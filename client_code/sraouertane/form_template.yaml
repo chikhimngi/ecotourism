@@ -8,8 +8,8 @@ components:
   layout_properties: {grid_position: 'KXGKQJ,ZAXLYL'}
   components:
   - name: headline_1
-    properties: {role: headline, text: 'Sheet09: Sra Ouertane phosphate', foreground: 'theme:Secondary
-        700', align: center, bold: true, italic: true}
+    properties: {role: headline, text: 'Site09: Projet de phosphate de Sra Ouertane ',
+      foreground: 'theme:Secondary 700', align: center, bold: true, italic: true}
     type: Label
     layout_properties: {grid_position: 'ZSSUPE,CZGINO'}
 - type: ColumnPanel
@@ -19,74 +19,183 @@ components:
   components:
   - type: RichText
     properties: {role: null, align: left, tooltip: '', enable_slots: true, border: '',
-      foreground: '', visible: true, font_size: null, content: "**I.\tIdentification**\n\
-        \n**1.\tTheme /Subject: Sra Ouertane phosphate**.\n2.\tSite: Sra Ouertane\n\
-        3.\t Location: 35.83288, 8.83058\n\n**II.\tAdvice and practical information**\
-        \ :\n\n- Land situation: State-owned\n- Access: easy via tarmac road in good\
-        \ condition\n- Departure point: the town of Le Kef (fig.2). \n\n- Distance:\
-        \ approx. 25 km from the town of Jerissa or 17 km from the town of Dahmani\
-        \ (fig.1).\n- Lack of signage\n- Undeveloped site access paths\n\n**III.\t\
-        Site description**\n\n**1 Interest in visiting the site** \n\n**Landscape\
-        \ interest**\n\nAccess to the site is either from the town of Jerissa or from\
-        \ the town of Dahmani.\n\nAbout 6 km from the town of Dahmani, take the secondary\
-        \ road that leads to the Sra Ouertane area.\n\nThe Sra Ouertane region is\
-        \ represented by a series of very extensive, tabular structures cut into hectometric\
-        \ blocks, separated by ravines where a few fig trees grow here and there.\
-        \ It is framed to the west by a series of elongated mountains running N-S,\
-        \ NE-SW and N and to the east by vast agricultural fields. On its NE flank\
-        \ are springs of water currently exploited by al Soci\xe9t\xe9 Safai.\n\n\n\
-        **Historical interest**\n\nThe route to Sra Ouertane passes through three\
-        \ places of historical and cultural interest. These are\n\n- Althiburos archaeological\
-        \ site\n\nAlthiburos is a Tunisian archaeological site located in the governorate\
-        \ of Le Kef, more precisely in the Dahmani delegation, in a place now known\
-        \ as Medeina.\nAn ancient Numidian city that came under the influence of Carthage,\
-        \ located on the road linking Carthage to Theveste, it was granted municiple\
-        \ status by the Emperor Hadrian (117-138) under the name Municipium Aelium\
-        \ Hadrianum Augustum Althiburitanum.\n\n- Ammar Belguith Cave in Althiburos\
-        \ \n\nThis cave, located 30 km from Le Kef in the M'dayna Dahmani region,\
-        \ has been transformed into a cultural space by visual artist Ammar Belguith.\
-        \ This is undoubtedly a good example of alternative tourism, offering a program\
-        \ of life in nature, a natural survival experience, camping, stays, workshops,\
-        \ jam sessions, sports, art, artistic residencies, agriculture, animal husbandry\
-        \ and many other workshops and apprenticeships. In creating this space, Belguith\
-        \ wanted to preserve the heritage and cultural heritage of the Kef region.\n\
-        \n**Geological interest**\n\n\n- The Paleocene consists of gray marl with\
-        \ gypsum; \n- The Eocene begins with alternating fine-grained whitish limestones\
-        \ and gray marls. This level contains several phosphate levels with glauconia\
-        \ and flint knobs (trench), containing a large quantity of sharks' teeth (photo).\
-        \ It continues with the Eocene nummulite limestone slab, which forms a jut\
-        \ in the landscape.\n\n\n**Mining interest**\n\nThe Sra Ouertane phosphate\
-        \ project, still under study. Available data:\n\n- Geological reserves of\
-        \ 5 billion tonnes at 14% P2O5 ;\n- Concession of 25% of the deposit; \n-\
-        \ Creation of a mining company and a chemical company;\n- Extraction and flotation\
-        \ of 4 million tonnes of marketable phosphate per year;\n- Processing of 1\
-        \ million tonnes of P2O5/year into phosphoric acid and fertilizer;\n- Construction\
-        \ of railroad, port, water supply, power supply, phosphogypsum dump...\n-\t\
-        \n\n**2.\tSummary of important information to remember**: \n\nThe tabular\
-        \ structure of Sra Ouertane is in fact a perched syncline resulting from a\
-        \ series of deformations undergone by the region from -250 Ma to the present\
-        \ day.\n\n- The layers forming the syncline were deposited horizontally in\
-        \ a submarine position between the Triassic (-245 Ma) and Upper Miocene (-5.3\
-        \ Ma). The phosphate series were deposited at the end of the Paleocene and\
-        \ beginning of the Eocene, some 53 million years ago. They are derived from\
-        \ the decomposition of marine and continental fish and reptiles. The organic\
-        \ parts of the organisms decomposed under certain conditions to form the mineral\
-        \ phosphate, while the teeth and numerous bones were preserved as isolated\
-        \ fossils (teeth and bones).\n \n- From the Upper Miocene (-5.3 Ma) to the\
-        \ Pliocene (-1.8 Ma), the region underwent compressive tectonic deformation,\
-        \ giving rise to the chains. Subsequent to their formation, the mountain ranges\
-        \ underwent profound modifications (dismantling, erosion) that gave rise to\
-        \ the geological structures we know today. \n\n\n**IV.\tFurther information**:\
-        \ \n\n**Bibliographical references**\n\nZaier Ali (1999)- Evolution tectono-s\xe9\
-        dimentaire du bassin phosphat\xe9 du centre-ouest de la Tunisie. Th\xe8se\
-        \ 3\xe8 cycle (ONM).\n\nNoureddine Abbes, Essaid Bilal, Ludwig Hermann, Gerald\
-        \ Steiner and Nils Haneklaus (2020)- Thermal Beneficiation of Sra Ouertane\
-        \ (Tunisia) Low-Grade Phosphate Rock, Minerals\n\n\n\n**Resource persons**\n\
-        \n- Mongi Chikhaoui e-mail: chikaoui_mongi@gmail.com\n- Henchir Ammar58602596\
-        \ (sra Ouertane)\n- Tlili Mohamed (archaeological sites)\n- Belghith ammar\
-        \ (art cave) Telephone: 25 977 930\n- Soci\xe9t\xe9 de Sra Ouertane, Rue Mongi\
-        \ Slim, au dessus du Magasin G\xe9n\xe9ral le Kef (sra ouertane\n", font: '',
-      spacing_above: small, spacing_below: small, data: null, background: '', format: markdown}
+      foreground: '', visible: true, font_size: null, content: '**I. Identification**
+
+
+        **1. Thème/Sujet : Phosphate de Sra Ouertane**.
+
+        2. Site : Sra Ouertane
+
+        3. Localisation : 35.83288, 8.83058
+
+
+        **II. Conseils et informations pratiques** :
+
+
+        - Situation foncière : Domaine de l''Etat
+
+        - Accès : facile par route goudronnée en bon état
+
+        - Point de départ : la ville du Kef (fig.2).
+
+
+        - Distance : environ 25 km de la ville de Jerissa ou 17 km de la ville de
+        Dahmani (fig.1).
+
+        - Absence de signalisation
+
+        - Chemins d''accès au site non aménagés
+
+
+        **III. Description du site**
+
+
+        **1 Intérêt de la visite du site**
+
+
+        **Intérêt paysager**
+
+
+        L''accès au site se fait soit depuis la ville de Jerissa, soit depuis la ville
+        de Dahmani.
+
+
+        A environ 6 km de la ville de Dahmani, prendre la route secondaire qui mène
+        au secteur de Sra Ouertane.
+
+
+        La région de Sra Ouertane est représentée par une série de structures tabulaires
+        très étendues découpées en blocs hectométriques, séparées par des ravins où
+        poussent quelques figuiers çà et là. Elle est encadrée à l''ouest par une
+        série de montagnes allongées orientées N-S, NE-SW et N et à l''est par de
+        vastes champs agricoles. Sur son flanc NE se trouvent des sources d''eau actuellement
+        exploitées par la Société Safai.
+
+
+        **Intérêt historique**
+
+
+        La route vers Sra Ouertane passe par trois lieux d''intérêt historique et
+        culturel. Il s''agit de
+
+
+        - Site archéologique d''Althiburos
+
+
+        Althiburos est un site archéologique tunisien situé dans le gouvernorat du
+        Kef, plus précisément dans la délégation de Dahmani, au lieu-dit aujourd''hui
+        Medeina.
+
+        Ancienne cité numide passée sous l''influence de Carthage, située sur la route
+        reliant Carthage à Theveste, elle a reçu le statut de municipe par l''empereur
+        Hadrien (117-138) sous le nom de Municipium Aelium Hadrianum Augustum Althiburitanum.
+
+
+        - Grotte Ammar Belguith à Althiburos
+
+
+        Cette grotte, située à 30 km du Kef dans la région de M''dayna Dahmani, a
+        été transformée en espace culturel par l''artiste plasticien Ammar Belguith.
+        Il s''agit sans aucun doute d''un bon exemple de tourisme alternatif, proposant
+        un programme de vie dans la nature, une expérience de survie naturelle, du
+        camping, des séjours, des ateliers, des jam sessions, du sport, de l''art,
+        des résidences artistiques, de l''agriculture, de l''élevage et bien d''autres
+        ateliers et apprentissages. En créant cet espace, Belguith a souhaité préserver
+        le patrimoine et l''héritage culturel de la région du Kef.
+
+
+        **Intérêt géologique**
+
+
+        - Le Paléocène est constitué de marnes grises à gypse ;
+
+        - L''Eocène débute par une alternance de calcaires blanchâtres à grains fins
+        et de marnes grises. Ce niveau contient plusieurs niveaux de phosphates à
+        glauconies et à bosses de silex (tranchée), contenant une grande quantité
+        de dents de requins (photo). Il se poursuit par la dalle calcaire à nummulite
+        de l''Eocène, qui forme une saillie dans le paysage.
+
+
+        **Intérêt minier**
+
+
+        Le projet de phosphate de Sra Ouertane, toujours à l''étude. Données disponibles
+        :
+
+
+        - Réserves géologiques de 5 milliards de tonnes à 14% P2O5 ;
+
+        - Concession de 25% du gisement ;
+
+        - Création d''une société minière et d''une société chimique ;
+
+        - Extraction et flottation de 4 millions de tonnes de phosphate commercialisable
+        par an ;
+
+        - Transformation de 1 million de tonnes de P2O5/an en acide phosphorique et
+        engrais ;
+
+        - Construction de voie ferrée, port, adduction d''eau, adduction d''énergie,
+        décharge de phosphogypse...
+
+        -
+
+
+        **2. Résumé des informations importantes à retenir** :
+
+
+        La structure tabulaire de Sra Ouertane est en fait un synclinal perché résultant
+        d''une série de déformations subies par la région de -250 Ma à nos jours.
+
+
+        - Les couches formant le synclinal se sont déposées horizontalement en position
+        sous-marine entre le Trias (-245 Ma) et le Miocène supérieur (-5,3 Ma). Les
+        séries phosphatées se sont déposées à la fin du Paléocène et au début de l''Eocène,
+        il y a environ 53 millions d''années. Elles sont issues de la décomposition
+        de poissons et de reptiles marins et continentaux. Les parties organiques
+        des organismes se sont décomposées dans certaines conditions pour former le
+        minéral phosphate, tandis que les dents et de nombreux os ont été conservés
+        sous forme de fossiles isolés (dents et os).
+
+
+        - Du Miocène supérieur (-5,3 Ma) au Pliocène (-1,8 Ma), la région a subi une
+        déformation tectonique compressive, donnant naissance aux chaînes. Postérieurement
+        à leur formation, les massifs montagneux ont subi de profondes modifications
+        (démantèlement, érosion) qui ont donné naissance aux structures géologiques
+        que nous connaissons aujourd''hui.
+
+
+        **IV. Informations complémentaires** :
+
+
+        **Références bibliographiques**
+
+
+        Zaier Ali (1999)- Evolution tectono-sédimentaire du bassin phosphaté du centre-ouest
+        de la Tunisie. Thèse 3è cycle (ONM).
+
+
+        Noureddine Abbes, Essaid Bilal, Ludwig Hermann, Gerald Steiner et Nils Haneklaus
+        (2020)- Thermal Beneficiation of Sra Ouertane (Tunisia) Low-Grade Phosphate
+        Rock, Minerals
+
+
+        **Personnes ressources**
+
+
+        - Mongi Chikhaoui e-mail : chikaoui_mongi@gmail.com
+
+        - Henchir Ammar58602596 (sra Ouertane)
+
+        - Tlili Mohamed (sites archéologiques)
+
+        - Belghith ammar (grotte d''art) Téléphone : 25 977 930
+
+        - Société de Sra Ouertane, Rue Mongi Slim, au dessus du Magasin Général le
+        Kef (sra ouertane
+
+        ', font: '', spacing_above: small, spacing_below: small, data: null, background: '',
+      format: markdown}
     name: rich_text_1
     layout_properties: {grid_position: 'QCFHQA,FUURDS'}
 - type: ColumnPanel

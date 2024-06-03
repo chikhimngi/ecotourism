@@ -13,30 +13,39 @@ components:
     layout_properties: {grid_position: 'REXQBR,NYMEYE'}
     components:
     - name: headline_1
-      properties: {role: headline, text: About the Kef Region, foreground: 'theme:Secondary
+      properties: {role: headline, text: Présentation de la région du Kef, foreground: 'theme:Secondary
           700', align: center, bold: true, italic: true}
       type: Label
       layout_properties: {grid_position: 'FYHJKM,LTXDSC'}
   - type: RichText
     properties: {role: null, align: left, tooltip: '', enable_slots: true, border: '',
-      foreground: '', visible: true, font_size: null, content: "The Kef region is\
-        \ located 170 km north-west of Tunisia country (figure). It is bordered to\
-        \ the north by the governorate of Jendouba, to the east by the governorate\
-        \ of Siliana, to the south by the governorate of Kasserine and to the west\
-        \ by the Algerian border. \n\nIt covers an area of 5081 km2, i.e. 3% of the\
-        \ country's surface area, and has a population of 243156. The governorate\
-        \ of Kef is located in the Atlas Mountains. It is made up of a succession\
-        \ of mountain ranges stretching in a NE-SW direction. Altitudes can reach\
-        \ 1000m at Dyr El Kef and 1100m at Jebel Slata. The climate is semi-arid.\
-        \ Temperatures vary between 6 and 7\xb0C in winter and 25 to 27\xb0C in summer.\
-        \ Annual rainfall is between 380 and 400 mm/year.\n\nThe governorate of Kef\
-        \ is an agricultural region covering 485,153 hectares, including 102,215 hectares\
-        \ of forests and 337,489 hectares of farmland. \n\nHistorically, the town\
-        \ of Kef is one of the few regions where traces of prehistoric man have been\
-        \ found, dating back to the Middle Pleistocene (300,000 years, Sidi Zine archaeological\
-        \ site, Dyr El Kef rock paintings). The town of Le Kef has seen a succession\
-        \ of civilisations: Carthaginian, Roman, Muslimh.\n\n\n", font: '', spacing_above: small,
-      spacing_below: small, data: null, background: '', format: markdown}
+      foreground: '', visible: true, font_size: null, content: 'La région du Kef est
+        située à 170 km au nord-ouest de la Tunisie (figure). Elle est bordée au nord
+        par le gouvernorat de Jendouba, à l''est par le gouvernorat de Siliana, au
+        sud par le gouvernorat de Kasserine et à l''ouest par la frontière algérienne.
+
+
+        Elle couvre une superficie de 5081 km2, soit 3% de la superficie du pays,
+        et compte 243156 habitants. Le gouvernorat du Kef est situé dans les montagnes
+        de l''Atlas. Il est constitué d''une succession de chaînes de montagnes s''étendant
+        dans une direction NE-SW. Les altitudes peuvent atteindre 1000m à Dyr El Kef
+        et 1100m à Jebel Slata. Le climat est semi-aride. Les températures varient
+        entre 6 et 7°C en hiver et 25 à 27°C en été. Les précipitations annuelles
+        sont comprises entre 380 et 400 mm/an.
+
+
+        Le gouvernorat du Kef est une région agricole qui s''étend sur 485 153 hectares,
+        dont 102 215 hectares de forêts et 337 489 hectares de terres agricoles.
+
+
+        Historiquement, la ville du Kef est l''une des rares régions où l''on a retrouvé
+        des traces d''homme préhistorique, remontant au Pléistocène moyen (300 000
+        ans, site archéologique de Sidi Zine, peintures rupestres de Dyr El Kef).
+        La ville du Kef a vu se succéder les civilisations : carthaginoise, romaine,
+        musulmane.
+
+        ', font: '', spacing_above: small, spacing_below: small, data: null, background: '',
+      format: markdown}
     name: rich_text_1
     layout_properties: {grid_position: 'IVROGG,DFTLMN'}
 - type: ColumnPanel

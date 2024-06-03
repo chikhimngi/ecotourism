@@ -6,7 +6,7 @@ components:
   layout_properties: {grid_position: 'ISDXRB,GHIYIR'}
   components:
   - name: headline_1
-    properties: {role: headline, text: 'Sheet08b: Geological and Mining Museum', foreground: 'theme:Secondary
+    properties: {role: headline, text: 'Site08b: Musée géologique et minier', foreground: 'theme:Secondary
         700', align: center, bold: true, italic: true}
     type: Label
     layout_properties: {grid_position: 'TLNVBL,DVXIZF'}
@@ -16,18 +16,22 @@ components:
   layout_properties: {grid_position: 'TDVJKS,JVFOUR DMPTTF,PZGOZB'}
   components:
   - name: rich_text_1
-    properties: {content: "The Jerissa mine geology and mining museum is housed in\
-        \ the Saint Barbe church, built during the French protectorate and handed\
-        \ over to the Tunisian government when the mining companies were nationalized.\
-        \ The museum features a series of panels and display cases focusing on the\
-        \ history of iron. There is also a selection of iron ore samples and mining\
-        \ artefacts, the oldest dating back to the 1800s.\n\nA stroll around the mine\
-        \ floor allows you to get up close and personal with some very old objects:\
-        \ the carcass of an ambulance dating from the Second World War, a locomotive\
-        \ dating from 1952 and still running, a siderite roasting furnace (shut down\
-        \ in 1960), the mine manager's office house, a real gem built during the French\
-        \ colony, a bene of an old teleferic used to transport iron carbonate to the\
-        \ roasting furnace. \n\n"}
+    properties: {content: 'Le musée de la géologie et de la mine de Jerissa est installé
+        dans l''église Sainte-Barbe, construite sous le protectorat français et cédée
+        au gouvernement tunisien lors de la nationalisation des sociétés minières.
+        Le musée présente une série de panneaux et de vitrines consacrés à l''histoire
+        du fer. On y trouve également une sélection d''échantillons de minerai de
+        fer et d''objets miniers, les plus anciens datant des années 1800.
+
+
+        Une promenade dans la mine permet d''approcher de très près des objets très
+        anciens : la carcasse d''une ambulance datant de la Seconde Guerre mondiale,
+        une locomotive datant de 1952 et toujours en fonctionnement, un four de torréfaction
+        de sidérite (arrêté en 1960), la maison de bureau du directeur de la mine,
+        véritable bijou construit pendant la colonie française, une abri d''un ancien
+        téléphérique utilisé pour transporter le carbonate de fer au four de torréfaction.
+
+        '}
     type: RichText
     layout_properties: {grid_position: 'MIKMVL,ABPAIX'}
 - name: column_panel_3
