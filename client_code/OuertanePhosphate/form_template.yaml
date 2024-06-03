@@ -24,19 +24,23 @@ components:
     type: Image
     layout_properties: {grid_position: 'JECYAG,ERETOF'}
   - name: rich_text_1
-    properties: {content: "Sra Ouertane project corresponds to a gently sloping plateau\n\
-        \nThe photo (fig. 1) shows a soft level, masked by scree, corresponding to\
-        \ the Ypresian phosphate series (trench). Underneath lies the massive Nummulites\
-        \ limestone slab.\n\nThe Sra Ouertane area is an exemplary phosphate extraction,\
-        \ processing and mining project in the Ksour region of the Kef governorate.\
-        \ \n\n- It contains almost 5 billion tonnes of phosphate ore with an average\
-        \ content of 14% P2O5: \n\n- Mise concession of 25% of the Sra Ouertane deposit.\
-        \ \n- Creation of a mining company and a chemical company \n- Extraction and\
-        \ flotation of 4 million tonnes of marketable phosphate per year. \n- Transformation\
-        \ 1 million tonnes P2O5/year in the form of phosphoric acid and fertiliser.\
-        \ \n\nInstallation of the required infrastructure: railway, port site, water\
-        \ supply, power supply, phosphogypsum dump, utilities and storage facilities.\
-        \ \n- Co\xfbt of the investment: US$3 billion (\u2248 \u20ac2.1 billion)"}
+    properties: {content: "\n\nLe projet Sra Ouertane correspond \xe0 un plateau en\
+        \ pente\ndouceLa photo (fig. 1) montre un niveau meuble, masqu\xe9 par des\n\
+        \xe9boulis, correspondant \xe0 la s\xe9rie phosphat\xe9e de l'Ypr\xe9sien\
+        \ (tranch\xe9e). En\ndessous se trouve la dalle calcaire massive des Nummulites.\n\
+        \n\_\nLa zone de Sra Ouertane est un projet exemplaire\nd'extraction, de traitement\
+        \ et d'exploitation des phosphates dans la r\xe9gion de\nKsour, dans le gouvernorat\
+        \ du Kef. \n\n\_\n\n- Elle contient pr\xe8s de 5 milliards de tonnes de minerai\
+        \ de\nphosphate d'une teneur moyenne de 14% P2O5 : \n\n\_\n\n- Mise en concession\
+        \ de 25% du gisement de Sra Ouertane. \n\n- Cr\xe9ation d'une soci\xe9t\xe9\
+        \ mini\xe8re et d'une soci\xe9t\xe9 chimique \n\n- Extraction et flottation\
+        \ de 4 millions de tonnes de\nphosphate commercialisable par an. \n\n- Transformation\
+        \ de 1 million de tonnes de P2O5/an sous\nforme d'acide phosphorique et d'engrais.\
+        \ \n\n\_\n\nMise en place des infrastructures n\xe9cessaires : chemin de\n\
+        fer, site portuaire, alimentation en eau, alimentation \xe9lectrique, d\xe9\
+        charge de\nphosphogypse, utilit\xe9s et installations de stockage. \n\n- Co\xfb\
+        t de l'investissement : 3 milliards de dollars\nam\xe9ricains (\u2248 2,1\
+        \ milliards d'euros)\n\n"}
     type: RichText
     layout_properties: {grid_position: 'VIWBIW,ZVNLYM'}
 is_package: true

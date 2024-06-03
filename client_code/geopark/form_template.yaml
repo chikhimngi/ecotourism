@@ -13,52 +13,61 @@ components:
     layout_properties: {grid_position: 'PYNZCP,CFQDFV'}
     components:
     - name: headline_1
-      properties: {role: headline, text: Geopark Project, background: '', foreground: 'theme:Secondary
+      properties: {role: headline, text: Projet Geopark, background: '', foreground: 'theme:Secondary
           700', italic: true, bold: true, align: center}
       type: Label
       layout_properties: {grid_position: 'XATPAQ,OECZYY'}
   - type: RichText
     properties: {role: null, align: left, tooltip: '', enable_slots: true, border: '',
-      foreground: '', visible: true, font_size: null, content: "\n\nThe idea of  creating\
-        \ a Geopark in Tunisia, and particularly in the Kef region, dates back to\
-        \ 2002, well before the one in South-East Tunisia, which was only launched\
-        \ in 2016 and is still in progress. \n\nSo what are the criteria that justify\
-        \ the choice of the Kef region to set up the first Geopark in Tunisia? \n\n\
-        Its geological heritage, which is of great scientific interest, seems to justify\
-        \ this choice. Indeed, this heritage enables us to correctly interpret the\
-        \ geological phenomena that have marked the history of our planet over the\
-        \ last 250 million years. This history is rich thanks to the abundance and\
-        \ variety of fossils, geological structures, morpho-structural landscapes\
-        \ and polymetallic mineral concentrations. What's more, the region is home\
-        \ to a site of worldwide interest. This site, located 7 km SW of the town\
-        \ of Le Kef, fossils in the Cretaceous-Paleogene (K-Pg) passage, bear witness\
-        \ to the 5th great biodiversity\ncrisis that marked the history of our planet\
-        \ 65 million years ago. \n\nThis crisis, caused by the impact of a giant asteroid\
-        \ on our planet, led to massive biological extinctions of over 80% of marine\
-        \ and continental species, including the dinosaurs. This locality, studied\
-        \ along with other similar sites around the world, was selected as the international\
-        \ reference locality of the K-Pg  boundary at the 28th International Geological\
-        \ Congress, Washington, and the Workshop on the K-Pg boundary, El Kef, 1992).\
-        \ The K-Pg boundary site has been on UNESCO's tentative list since 2016. \n\
-        \n\_\n\nOn June 19, 2002, the Governorate of Kef welcomed a group of 8 experts\
-        \ from the European Geoparks Network (Mr. Guy Martin and Ms. Rosaria Modica)\
-        \ and Cultural Parc Rocca Di Cerere (Italy) to promote the rich heritage of\
-        \ the Kef region. The mission of these experts was to carry out a feasibility\
-        \ study to verify the possibility of creating an Integrated Tourism System\
-        \ (ITS) and to evaluate the possibilities of creating a Geopark according\
-        \ to the standards established by the European Geoparks Network.  During their\
-        \ field trip, these experts were accompanied and guided by Chikhaloui Mongi\
-        \ (Geologist) and Tlili Mohamed (Archaeologist).\n\nThe fieldwork, which lasted\
-        \ approximately one month, allowed for the identification of several geological\
-        \ and mining sites of regional and universal interest. These sites are associated\
-        \ with historical, archaeological, environmental, and cultural sites. The\
-        \ Table of Jugurtha, a famous historical site, has also been on the UNESCO\
-        \ indicative list since 2017. \n\nThe methodology adopted is the same as that\
-        \ already experimented with at Rocca di Cerere, which includes three approaches:\
-        \ \n\nA global territorial approach to development, also known as a 'bottom-up'\
-        \ approach, involves active participation from socio-economic actors and institutions\
-        \ in the region.\n\n\n", font: '', spacing_above: small, spacing_below: small,
-      data: null, background: '', format: markdown}
+      foreground: '', visible: true, font_size: null, content: "\n\n\_\n\n\_\n\n\_\
+        \n\nL'id\xe9e de cr\xe9er un G\xe9oparc en Tunisie, et particuli\xe8rement\n\
+        dans la r\xe9gion du Kef, remonte \xe0 2002, bien avant celui du Sud-Est tunisien\
+        \ qui\nn'a \xe9t\xe9 lanc\xe9 qu'en 2016 et qui est toujours en cours de r\xe9\
+        alisation. \n\n\_\n\nQuels sont donc les crit\xe8res qui justifient le choix\
+        \ de la\nr\xe9gion du Kef pour mettre en place le premier Geopark en Tunisie\
+        \ ? \n\n\_\n\nSon patrimoine g\xe9ologique, qui pr\xe9sente un grand int\xe9\
+        r\xeat\nscientifique, semble justifier ce choix. En effet, ce patrimoine nous\
+        \ permet\nd'interpr\xe9ter correctement les ph\xe9nom\xe8nes g\xe9ologiques\
+        \ qui ont marqu\xe9 l'histoire\nde notre plan\xe8te au cours des 250 derniers\
+        \ millions d'ann\xe9es. Cette histoire\nest riche gr\xe2ce \xe0 l'abondance\
+        \ et \xe0 la vari\xe9t\xe9 des fossiles, des structures\ng\xe9ologiques, des\
+        \ paysages morpho-structurels et des concentrations de min\xe9raux\npolym\xe9\
+        talliques. De plus, la r\xe9gion abrite un site d'int\xe9r\xeat mondial. Ce\
+        \ site,\nsitu\xe9 \xe0 7 km au sud-ouest de la ville du Kef, les fossiles\
+        \ du passage\nCr\xe9tac\xe9-Pal\xe9og\xe8ne (K-Pg), t\xe9moignent de la 5\xe8\
+        me grande crise de la biodiversit\xe9\nqui a marqu\xe9 l'histoire de notre\
+        \ plan\xe8te.\n\ngrande crise de la biodiversit\xe9 qui a marqu\xe9 l'histoire\
+        \ de\nnotre plan\xe8te il y a 65 millions d'ann\xe9es. \n\n\_\n\nCette crise,\
+        \ provoqu\xe9e par l'impact d'un ast\xe9ro\xefde g\xe9ant sur\nnotre plan\xe8\
+        te, a entra\xeen\xe9 des extinctions biologiques massives de plus de 80 %\n\
+        des esp\xe8ces marines et continentales, dont les dinosaures. Cette localit\xe9\
+        ,\n\xe9tudi\xe9e avec d'autres sites similaires dans le monde, a \xe9t\xe9\
+        \ choisie comme\nlocalit\xe9 de r\xe9f\xe9rence internationale de la limite\
+        \ K-Pg lors du 28e Congr\xe8s\ng\xe9ologique international, Washington, et\
+        \ de l'Atelier sur la limite K-Pg, El\nKef, 1992). Le site de la limite K-Pg\
+        \ figure sur la liste indicative de\nl'UNESCO depuis 2016.\n\n\_\n\nLe 19\
+        \ juin 2002, le Gouvernorat du Kef a accueilli un groupe\nde 8 experts du\
+        \ R\xe9seau Europ\xe9en des G\xe9oparcs (M. Guy Martin et Mme Rosaria\nModica)\
+        \ et du Parc Culturel Rocca Di Cerere (Italie) pour promouvoir le riche\n\
+        patrimoine de la r\xe9gion du Kef. La mission de ces experts \xe9tait de r\xe9\
+        aliser une\n\xe9tude de faisabilit\xe9 pour v\xe9rifier la possibilit\xe9\
+        \ de cr\xe9er un Syst\xe8me\nTouristique Int\xe9gr\xe9 (STI) et d'\xe9valuer\
+        \ les possibilit\xe9s de cr\xe9er un G\xe9oparc\nselon les normes \xe9tablies\
+        \ par le R\xe9seau Europ\xe9en des G\xe9oparcs.\_ Lors de leur visite sur\
+        \ le terrain, ces\nexperts ont \xe9t\xe9 accompagn\xe9s et guid\xe9s par Chikhaloui\
+        \ Mongi (g\xe9ologue) et Tlili\nMohamed (arch\xe9ologue).\n\n\_\n\nLe travail\
+        \ de terrain, qui a dur\xe9 environ un mois, a permis\nd'identifier plusieurs\
+        \ sites g\xe9ologiques et miniers d'int\xe9r\xeat r\xe9gional et\nuniversel.\
+        \ Ces sites sont associ\xe9s \xe0 des sites historiques, arch\xe9ologiques,\n\
+        environnementaux et culturels. La Table de Jugurtha, c\xe9l\xe8bre site historique,\n\
+        figure \xe9galement sur la liste indicative de l'UNESCO depuis 2017. \n\n\_\
+        \n\nLa m\xe9thodologie adopt\xe9e est la m\xeame que celle d\xe9j\xe0\nexp\xe9\
+        riment\xe9e \xe0 Rocca di Cerere, qui comprend trois approches : \n\n\_\n\n\
+        Une approche territoriale globale du d\xe9veloppement,\n\xe9galement connue\
+        \ sous le nom d'approche \"bottom-up\", implique une\nparticipation active\
+        \ des acteurs socio-\xe9conomiques et des institutions de la\nr\xe9gion.\n\
+        \n\n", font: '', spacing_above: small, spacing_below: small, data: null, background: '',
+      format: markdown}
     name: rich_text_1
     layout_properties: {grid_position: 'RCCJVW,WUIOXQ'}
 - type: Image
