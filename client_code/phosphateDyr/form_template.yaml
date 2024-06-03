@@ -8,7 +8,7 @@ components:
   layout_properties: {grid_position: 'NDPGIG,BFMYAJ'}
   components:
   - name: headline_1
-    properties: {role: headline, text: 'Sheet01: Phosphate outcrops', foreground: 'theme:Secondary
+    properties: {role: headline, text: 'Site01: Niveau phosphaté de Dyr El Kef', foreground: 'theme:Secondary
         700', align: center, bold: true, italic: true}
     type: Label
     layout_properties: {grid_position: 'AZVZZW,BNINSS'}
@@ -20,31 +20,36 @@ components:
   - type: RichText
     properties: {role: null, align: left, tooltip: '', enable_slots: true, border: '',
       foreground: '', visible: true, font_size: null, content: "**I.\tIdentification**\n\
-        \n1. Theme /Subject: Glauconia phosphate level \n2. Stop C1a: south-east flank\
-        \ of Dyr El Kef (fig.1 and 3)\n3. Location: 36.18523, 8.71980\n\n**II.\tTips\
-        \ and practical information** :\n\n- Land situation: State-owned\n- Access:\
-        \ easy via tarmac road in good condition\n- Departure point: Presidential\
-        \ Palace (fig.2).\n- Distance: circuit A (approx. 1.8 km), circuit B (890m)\n\
-        - Lack of signage\n- Access paths to site not developed\n- Risk of disappearance\
-        \ through alteration and human action\n- Install signposts at site entrance\n\
-        - Provide visitors with posters and leaflets describing the site \n- Install\
-        \ signs explaining the site's interest in geotourism \n- Install signs prohibiting\
-        \ sampling and site degradation.\n\n**III.\tSite description**\n\n**1 Why\
-        \ visit the site?**\n\nThe aim is to discover a geological site that is remarkable\
-        \ for its : \n\n- Geology  (fossils of various organisms, especially large\
-        \ nummulites and sharks' teeth, several layers of phosphates recognizable\
-        \ by their grayish hue, grainy texture, fetid odor and richness in grains\
-        \ of glauconie, an easily identifiable greenish clay mineral), \n\n- Pedagogy\
-        \  (presentation of the geological series to schoolchildren enables them to\
-        \ learn about the history of the region's geology, in particular how the sedimentary\
-        \ layers were deposited, their ages, visible fossils, how phosphate was deposited,\
-        \ etc....), \n\n- History (three Muslim, Christian and Jewish cemeteries exist\
-        \ side by side, as do Roman baths, the Temple of Venus and rock writings),\n\
-        \n- Landscape as it overlooks the town of Le Kef, with its famous Kasbha,\
-        \ and the vast green plains (especially in spring) that stretch for dozens\
-        \ of kilometers around the town, dotted with mountains that can be seen on\
-        \ the horizon as far away as Algeria.\n", font: '', spacing_above: small,
-      spacing_below: small, data: null, background: '', format: markdown}
+        \n1. Th\xe8me /Sujet : Niveau de phosphate et de glauconie \n2. Arr\xeat C1a\
+        \ : flanc sud-est du Dyr El Kef (fig.1 et 3)\n3. Localisation : 36.18523,\
+        \ 8.71980\n\n**II.\tConseils et informations pratiques** :\n\n- Situation\
+        \ fonci\xe8re : Propri\xe9t\xe9 de l'Etat\n- Acc\xe8s : facile par route goudronn\xe9\
+        e en bon \xe9tat\n- Point de d\xe9part : Palais pr\xe9sidentiel (fig.2).\n\
+        - Distance : circuit A (environ 1,8 km), circuit B (890m)\n- Absence de signalisation\n\
+        - Chemins d'acc\xe8s au site non am\xe9nag\xe9s\n- Risque de disparition par\
+        \ alt\xe9ration et action humaine\n- Installer des panneaux de signalisation\
+        \ \xe0 l'entr\xe9e du site\n- Mettre \xe0 disposition des visiteurs des affiches\
+        \ et des d\xe9pliants d\xe9crivant le site \n- Installer des panneaux expliquant\
+        \ l'int\xe9r\xeat du site pour le g\xe9otourisme \n- Installer des panneaux\
+        \ d'interdiction de pr\xe9l\xe8vement et de d\xe9gradation du site.\n\n**III.\t\
+        Description du site**\n\n**1 Pourquoi visiter le site ?\n\nIl s'agit de d\xe9\
+        couvrir un site g\xe9ologique remarquable par sa : \n\n- G\xe9ologie (fossiles\
+        \ d'organismes divers, notamment de grandes nummulites et dents de requins,\
+        \ plusieurs couches de phosphates reconnaissables \xe0 leur teinte grise,\
+        \ leur texture granuleuse, leur odeur f\xe9tide et leur richesse en grains\
+        \ de glauconie, un min\xe9ral argileux verd\xe2tre facilement identifiable),\
+        \ \n\n- P\xe9dagogie (la pr\xe9sentation de la s\xe9rie g\xe9ologique aux\
+        \ \xe9coliers leur permet de conna\xeetre l'histoire de la g\xe9ologie de\
+        \ la r\xe9gion, notamment le d\xe9p\xf4t des couches s\xe9dimentaires, leur\
+        \ \xe2ge, les fossiles visibles, le d\xe9p\xf4t des phosphates, etc....),\
+        \ \n\n- L'histoire (trois cimeti\xe8res musulmans, chr\xe9tiens et juifs se\
+        \ c\xf4toient, ainsi que des thermes romains, le temple de V\xe9nus et le\
+        \ mus\xe9e de l'art rupestre).\n\n- Paysage car il domine la ville du Kef,\
+        \ avec sa c\xe9l\xe8bre Kasbha, et les vastes plaines verdoyantes (surtout\
+        \ au printemps) qui s'\xe9tendent sur des dizaines de kilom\xe8tres autour\
+        \ de la ville, parsem\xe9es de montagnes que l'on aper\xe7oit \xe0 l'horizon\
+        \ jusqu'en Alg\xe9rie.\n", font: '', spacing_above: small, spacing_below: small,
+      data: null, background: '', format: markdown}
     name: rich_text_1
     layout_properties: {grid_position: 'YZZJKY,YAGBME'}
 - type: Image
@@ -79,16 +84,7 @@ components:
       \ fossiles qu\u2019elles contiennent. Les fossiles sont des organismes vivants\
       \ qui ont \xe9t\xe9 ensevelis au moment de la s\xe9dimentation des couches en\
       \ milieu marin. Ces fossiles sont utilis\xe9s pour dater les couches dans lesquelles\
-      \ ils sont conserv\xe9s. \n\nAinsi les marnes du Pal\xe9oc\xe8ne sont dat\xe9\
-      es par les fossiles qu\u2019elles renferment tels les Globotruncana,  Truncorotalia\
-      \  et Globigerina). Les nummulites sont des foraminif\xe8res datant la barre\
-      \ de calcaires de l\u2019Eoc\xe8ne inf\xe9rieur. \n\nL\u2019examen attentif\
-      \ montre que les couches de s\xe9rie d\xe9crite plus haut se distinguent par\
-      \  l\u2019\xe9paisseur, la couleur, les constituants ou faci\xe8s et les fossiles\
-      \ qu\u2019elles contiennent. Les fossiles sont des organismes vivants qui ont\
-      \ \xe9t\xe9 ensevelis au moment de la s\xe9dimentation des couches en milieu\
-      \ marin. Ces fossiles sont utilis\xe9s pour dater les couches dans lesquelles\
-      \ ils sont conserv\xe9s. \n\n", font: '', spacing_above: small, spacing_below: small,
+      \ ils sont conserv\xe9s. \n\n\n\n", font: '', spacing_above: small, spacing_below: small,
     data: null, background: '', format: markdown}
   name: rich_text_3
   layout_properties: {grid_position: 'SSZKQF,QRUJWP PTTBDR,ZDYZYQ'}

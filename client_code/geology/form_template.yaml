@@ -34,7 +34,7 @@ components:
   components:
   - type: Link
     properties: {role: null, url: '', align: left, tooltip: '', border: '', foreground: 'theme:White',
-      visible: true, text: Phosphate Rocks, font_size: 18, wrap_on: mobile, font: '',
+      visible: true, text: Niveau phosphaté, font_size: 18, wrap_on: mobile, font: '',
       col_spacing: medium, spacing_above: small, icon_align: left, col_widths: '',
       spacing_below: small, italic: true, background: 'theme:Primary 500', bold: true,
       underline: false, icon: ''}
@@ -47,7 +47,7 @@ components:
     layout_properties: {grid_position: 'NVZZKF,TTQHCA'}
   - type: Link
     properties: {role: null, url: '', align: left, tooltip: '', border: '', foreground: 'theme:White',
-      visible: true, text: Perched syncline of Dyr El Kef, font_size: 18, wrap_on: mobile,
+      visible: true, text: Synclinal perché de Dyr  El Kef, font_size: 18, wrap_on: mobile,
       font: '', col_spacing: medium, spacing_above: small, icon_align: left, col_widths: '',
       spacing_below: small, italic: true, background: 'theme:Primary 500', bold: true,
       underline: false, icon: ''}
@@ -60,7 +60,7 @@ components:
     layout_properties: {grid_position: 'CSHWQS,CAFGKZ'}
   - type: Link
     properties: {role: null, url: '', align: left, tooltip: '', border: '', foreground: 'theme:White',
-      visible: true, text: Volcanic Rocks (ophites), font_size: 18, wrap_on: mobile,
+      visible: true, text: Roches volcaniques (ophites), font_size: 18, wrap_on: mobile,
       font: '', col_spacing: medium, spacing_above: small, icon_align: left, col_widths: '',
       spacing_below: small, italic: true, background: 'theme:Primary 500', bold: true,
       underline: false, icon: ''}
@@ -73,10 +73,10 @@ components:
     layout_properties: {grid_position: 'UHUXKY,HGHUPQ'}
   - type: Link
     properties: {role: null, url: '', align: left, tooltip: '', border: '', foreground: 'theme:White',
-      visible: true, text: Iridium and  spinnel  level, font_size: 18, wrap_on: mobile,
-      font: '', col_spacing: medium, spacing_above: small, icon_align: left, col_widths: '',
-      spacing_below: small, italic: true, background: 'theme:Primary 500', bold: true,
-      underline: false, icon: ''}
+      visible: true, text: Site K/T, font_size: 18, wrap_on: mobile, font: '', col_spacing: medium,
+      spacing_above: small, icon_align: left, col_widths: '', spacing_below: small,
+      italic: true, background: 'theme:Primary 500', bold: true, underline: false,
+      icon: ''}
     name: kt
     layout_properties: {grid_position: 'NNFRQR,IISKQQ'}
     event_bindings: {click: kt_click}
@@ -86,7 +86,7 @@ components:
     layout_properties: {grid_position: 'KSADUO,XNDXAB'}
   - type: Link
     properties: {role: null, url: '', align: left, tooltip: '', border: '', foreground: 'theme:White',
-      visible: true, text: Stalactites et stalagmites cave, font_size: 18, wrap_on: mobile,
+      visible: true, text: Grotte à stalactites et stalagmites, font_size: 18, wrap_on: mobile,
       font: '', col_spacing: medium, spacing_above: small, icon_align: left, col_widths: '',
       spacing_below: small, italic: true, background: 'theme:Primary 500', bold: true,
       underline: false, icon: ''}
@@ -99,8 +99,8 @@ components:
     layout_properties: {grid_position: 'JPXONV,HFPLOM'}
   - type: Link
     properties: {role: null, url: '', align: left, tooltip: '', border: '', foreground: 'theme:White',
-      visible: true, text: Ammonites level, font_size: 18, wrap_on: mobile, font: '',
-      col_spacing: medium, spacing_above: small, icon_align: left, col_widths: '',
+      visible: true, text: Niveau à Ammonites Aptien, font_size: 18, wrap_on: mobile,
+      font: '', col_spacing: medium, spacing_above: small, icon_align: left, col_widths: '',
       spacing_below: small, italic: true, background: 'theme:Primary 500', bold: true,
       underline: false, icon: ''}
     name: ammonite
@@ -112,8 +112,8 @@ components:
     layout_properties: {grid_position: 'BTPWGC,DKVCJZ'}
   - type: Link
     properties: {role: null, url: '', align: left, tooltip: '', border: '', foreground: 'theme:White',
-      visible: true, text: Aptian Reef Limestones, font_size: 18, wrap_on: mobile,
-      font: '', col_spacing: medium, spacing_above: small, icon_align: left, col_widths: '',
+      visible: true, text: Les rcifs aptiens, font_size: 18, wrap_on: mobile, font: '',
+      col_spacing: medium, spacing_above: small, icon_align: left, col_widths: '',
       spacing_below: small, italic: true, background: 'theme:Primary 500', bold: true,
       underline: false, icon: ''}
     name: recif
@@ -124,7 +124,7 @@ components:
     type: Spacer
     layout_properties: {grid_position: 'YOVGPL,FMDIVC'}
   - name: jerissa
-    properties: {text: Jerissa Iron Mine, foreground: 'theme:White', background: 'theme:Primary
+    properties: {text: Mine de fer de Jerissa, foreground: 'theme:White', background: 'theme:Primary
         500', italic: true, font_size: 18, bold: true}
     type: Link
     layout_properties: {grid_position: 'HJYJXG,TWNQTF'}
@@ -135,7 +135,7 @@ components:
     layout_properties: {grid_position: 'BWFXFG,RQHQLN'}
   - type: Link
     properties: {role: null, url: '', align: left, tooltip: '', border: '', foreground: 'theme:White',
-      visible: true, text: 'Sra Ouertane Phosphate ', font_size: 18, wrap_on: mobile,
+      visible: true, text: Projet de Phosphate Sra Ouertane, font_size: 18, wrap_on: mobile,
       font: '', col_spacing: medium, spacing_above: small, icon_align: left, col_widths: '',
       spacing_below: small, italic: true, background: 'theme:Primary 500', bold: true,
       underline: false, icon: ''}
@@ -148,7 +148,7 @@ components:
     layout_properties: {grid_position: 'WDBYFI,XWWWPI'}
   - type: Link
     properties: {role: null, url: '', align: left, tooltip: '', border: '', foreground: 'theme:White',
-      visible: true, text: 'Eocene Folded structures ', font_size: 18, wrap_on: mobile,
+      visible: true, text: Structures plissées éocène, font_size: 18, wrap_on: mobile,
       font: '', col_spacing: medium, spacing_above: small, icon_align: left, col_widths: '',
       spacing_below: small, italic: true, background: 'theme:Primary 500', bold: true,
       underline: false, icon: ''}
