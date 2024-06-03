@@ -19,143 +19,94 @@ components:
   components:
   - type: RichText
     properties: {role: null, align: left, tooltip: '', enable_slots: true, border: '',
-      foreground: '', visible: true, font_size: null, content: '**I. Identification**
-
-        1. Thème/Sujet : Limite Crétacé-Tertiaire (site K-Pg)
-
-        2. Site : Fej hadjar
-
-        3. Localisation : 36.15362, 8.64869
-
-
-        **II. Conseils et informations pratiques** :
-
-
-        - Situation du terrain : inconnue
-
-        - Accès : facile par route goudronnée en bon état
-
-        - Point de départ : la ville du Kef
-
-        - Distance : environ 7 km
-
-        - Balisage installé par l''Office National des Mines, enlevé ultérieurement
-
-        - Chemins d''accès au site non aménagés
-
-        - Risque de disparition du site par érosion
-
-
-        **III. Description du site**
-
-
-        **1 Pourquoi visiter le site ?**
-
-
-        La limite Crétacé-Paléogène a été étudiée au sud de la route, au niveau de
-        l''Oued Hadjar. Elle présente un intérêt pour :
-
-
-        - Paysage : caractérisé par deux collines érodées ou boisées, séparées par
-        une vaste combe occupée par des terres agricoles et traversée par l''Oued
-        Djerfane (fig.1). Les habitations sont dispersées çà et là sur les différentes
-        collines ;
-
-
-        - Géologie : la colline au NW de l''Oued Djerfane est constituée d''une barre
-        de calcaire blanchâtre et de marnes grises. A mi-pente, une série de bancs
-        de calcaire blanc et de marnes plonge vers la combe. La colline au SE de l''Oued
-        Djerfane est formée de calcaires à nummulites. Les deux collines sont séparées
-        par une vaste combe de marnes grises de 600 m d''épaisseur.
-
-
-        - Paléontologie : les études paléontologiques ont attribué les calcaires blancs
-        au Crétacé supérieur. Le reste de la série marneuse est paléocène. Les calcaires
-        à nummulites de la seconde colline sont éocènes.
-
-
-        **2. Résumé des informations importantes à retenir** :
-
-
-        La couche K-Pg correspond en fait à une couche épaisse de 2 cm d''argiles
-        grises, identifiée à la transition Crétacé-Paléogène (- Ma) dans plusieurs
-        régions du monde. Dans la région du Kef, cette couche a été étudiée dans la
-        localité de Fej Hadjar, à environ 6 km à l''ouest de la ville du Kef, sur
-        la route de Hammam Mellegue (Fig.1 et photos). Cette couche argileuse est
-        exceptionnellement riche en Iridium, un élément que l''on trouve en abondance
-        dans les météorites métalliques. Cette découverte conforte l''idée qu''à la
-        fin du Crétacé, il y a 65 millions d''années, une énorme météorite a frappé
-        la Terre, provoquant une extinction massive de plus de 80 % des espèces animales
-        et végétales. Avant la catastrophe, les dinosaures et autres groupes de reptiles
-        dominaient la terre, les mers et le ciel.
-
-
-        Leur extinction a laissé la place aux mammifères et aux oiseaux. La météorite,
-        d''un diamètre d''environ 10 km, est tombée près du village actuel de Chicxulub,
-        sur la côte du Yucatan au Mexique (fig. 2). Sa chute a créé un cratère de
-        100 km de diamètre et de 12 km de profondeur (fig. 3), et a dû immédiatement
-        anéantir toute vie sur plusieurs milliers de kilomètres carrés autour du lieu
-        d''impact. Environ 50 000 km3 de roches ont été rejetés dans l''atmosphère
-        sous forme de poussières, de gouttelettes de roche fondue (sphérules) et de
-        microdiamants. Sur la base de la continuité sédimentaire et de la diversité
-        paléontologique et paléobotanique, cette localité a été choisie comme section
-        de référence internationale de la limite K-Pg lors du 28e Congrès géologique
-        international à Washington en 1989.
-
-
-        L''extinction Crétacé-Paléogène, ou extinction K-Pg, qui marque la fin du
-        Crétacé, est une extinction biologique massive et de grande ampleur. Elle
-        représente un phénomène naturel remarquable.
-
-
-        La crise Crétacé-Tertiaire est l''une des cinq crises majeures qui ont marqué
-        les temps géologiques. La limite K-Pg est un exemple remarquable d''une étape
-        majeure de l''histoire de la vie sur terre.
-
-
-        La limite Crétacé-Paléogène conserve encore la majeure partie de son intégrité,
-        mais est menacée par l''érosion. Elle est également un objet de curiosité
-        pour la population locale. Des panneaux d''information ont été installés pour
-        sensibiliser les habitants à son patrimoine naturel. L''affleurement est considéré
-        comme un stratotype reconnu internationalement, et à ce titre mérite d''être
-        sauvegardé et mis en valeur.
-
-
-        Au niveau mondial, le nombre de sites présentant un excès de couche d''iridium
-        s''élève à 100, dont 30 contiennent également des fragments de quartz « choqués
-        » (spécifiques aux gros impacts de météorites). Le site du Kef fait partie
-        d''une quinzaine de sites dans le monde qui répondent aux principaux critères
-        d''une succession complète de niveaux sur la limite K-Pg.
-
-
-        Les critères de comparaison entre ces sites reposent essentiellement sur des
-        éléments enregistrant des impacts de météorites, des extinctions massives
-        et l''apparition d''une nouvelle faune.En raison de son importance internationale,
-        le stratotype mondial du Kef est le plus cité dans les publications scientifiques,
-        avec plus de 70 études publiées, dépassant de loin le nombre d''études réalisées
-        sur les autres limites K-Pg connues.
-
-
-        Le site K-Pg est inscrit sur la liste indicative de l''UNESCO depuis 2016
-        (http://whc.unesco.org/fr/listesindicatives/6088/).
-
-
-        **Références bibliographiques**
-
-
-        - Ben Salem Habib, Donze Pierre (1995) - Présentation générale de la coupe
-        type limite Crétacé-Tertiaire (K-Pg) du Kef, Tunisie-ONM
-
-        - Le stratotype limite Crétacé-Tertiaire (K-Pg) - UNESCO https://whc.unesco.org/fr/listesindicatives/6088/
-
-        - J. Smita, G. Keller b, F. Zargouni, S. Razgallah , M. Shimi, 0. Ben Abdelkader
-        C, N. Ben Haj Ali, H. Ben Salem (1997)- Les coupes d''El Kef et les procédures
-        de shampooing. Micropaléontologie marine 29 (1997) 6% 103
-
-        - Narjess Karoui et al.(1999)- Le stratotype limite Crétacé-Tertiaire
-
-        ', font: '', spacing_above: small, spacing_below: small, data: null, background: '',
-      format: markdown}
+      foreground: '', visible: true, font_size: null, content: "**I. Identification**\n\
+        1. Th\xe8me/Sujet : Limite Cr\xe9tac\xe9-Tertiaire (site K-t)\n2. Site : Fej\
+        \ hadjar\n3. Localisation : 36.15362, 8.64869\n\n**II. Conseils et informations\
+        \ pratiques** :\n\n- propri\xe9t\xe9 fonci\xe8re : inconnue\n- Acc\xe8s :\
+        \ facile par route goudronn\xe9e en bon \xe9tat\n- Point de d\xe9part : la\
+        \ ville du Kef\n- Distance : environ 7 km\n- Balisage inexistant \n- Chemins\
+        \ d'acc\xe8s au site non am\xe9nag\xe9s\n- Risque de disparition du site par\
+        \ \xe9rosion\n\n**III. Description du site**\n\n**1 Pourquoi visiter le site\
+        \ ?**\n\nLa limite Cr\xe9tac\xe9-tertiaire a \xe9t\xe9 \xe9tudi\xe9e au sud\
+        \ de la route, au niveau de l'Oued Hadjar (fig.1). Elle pr\xe9sente un int\xe9\
+        r\xeat  :\n\n- Paysager : caract\xe9ris\xe9 par deux collines partiellement\
+        \ bois\xe9es, s\xe9par\xe9es par une vaste combe occup\xe9e par des terres\
+        \ agricoles et travers\xe9e par l'Oued Djerfane (photo ). Les habitations\
+        \ sont dispers\xe9es \xe7\xe0 et l\xe0 sur les diff\xe9rentes collines ;\n\
+        \n- G\xe9ologique : la colline \xe0 l'ouest de l'Oued Djerfane est constitu\xe9\
+        e d'une barre de calcaires blanch\xe2tres et de marnes grises du Cr\xe9tac\xe9\
+        \ sup\xe9rieur (Maastrichtien)   Au-dessus se d\xe9veloppe une \xe9paisse\
+        \ s\xe9rie de marnes grise \xe0 gypse du Pal\xe9oc\xe8ne, \xe9paisse d'environ\
+        \ 600m. ces marnes sont surmont\xe9es par une barre de calcaires \xe0 nummulites\
+        \ de l'Eoc\xe8ne inf\xe9rieur, formant la colline situ\xe9e \xe0 l'Est de\
+        \ l'Oued Djerfane. La limite entre les calcaires du Maastrichtien et les marnes\
+        \ grises du Pal\xe9oc\xe8ne passe au niveau de l'Oued djerfane (fig.1). c'est\
+        \ \xe0 ce niveau que la couche argileuse \xe0 Iridium a \xe9t\xe9 localis\xe9\
+        e   La limite entre les marnes du Pal\xe9oc\xe8ne et  la barre de calcaires\
+        \ \xe0 Nummulites de l'Eoc\xe8ne moyen est constitu\xe9e par une s\xe9rie\
+        \ de calcaires gis claire, intercal\xe9s de plusieurs niveaux phosphat\xe9\
+        s \xe0 glauconies.\n\n- Pal\xe9ontologie : les calcaires blancs du Maastrichtien\
+        \ livrent de tr\xe8s beau fossiles d'inoc\xe9rames, Les calcaires \xe0 de\
+        \ l'Eoc\xe8ne sont riches en fossiles de Nummulites de grandes tailles.\n\n\
+        **2. R\xe9sum\xe9 des informations importantes \xe0 retenir** :\n\nLa couche\
+        \ K-Pg correspond en fait \xe0 une couche \xe9paisse de 2 cm d'argiles grises,\
+        \ identifi\xe9e \xe0 la transition Cr\xe9tac\xe9-Pal\xe9og\xe8ne (- Ma) dans\
+        \ plusieurs r\xe9gions du monde. Dans la r\xe9gion du Kef, cette couche a\
+        \ \xe9t\xe9 \xe9tudi\xe9e dans la localit\xe9 de Fej Hadjar, \xe0 environ\
+        \ 6 km \xe0 l'ouest de la ville du Kef, sur la route de Hammam Mellegue (Fig.1\
+        \ et photos). Cette couche argileuse est exceptionnellement riche en Iridium,\
+        \ un \xe9l\xe9ment que l'on trouve en abondance dans les m\xe9t\xe9orites\
+        \ m\xe9talliques. Cette d\xe9couverte conforte l'id\xe9e qu'\xe0 la fin du\
+        \ Cr\xe9tac\xe9, il y a 65 millions d'ann\xe9es, une \xe9norme m\xe9t\xe9\
+        orite a frapp\xe9 la Terre, provoquant une extinction massive de plus de 80\
+        \ % des esp\xe8ces animales et v\xe9g\xe9tales. Avant la catastrophe, les\
+        \ dinosaures et autres groupes de reptiles dominaient la terre, les mers et\
+        \ le ciel.\n\nLeur extinction a laiss\xe9 la place aux mammif\xe8res et aux\
+        \ oiseaux. La m\xe9t\xe9orite, d'un diam\xe8tre d'environ 10 km, est tomb\xe9\
+        e pr\xe8s du village actuel de Chicxulub, sur la c\xf4te du Yucatan au Mexique\
+        \ (fig. 2). Sa chute a cr\xe9\xe9 un crat\xe8re de 100 km de diam\xe8tre et\
+        \ de 12 km de profondeur (fig. 3), et a d\xfb imm\xe9diatement an\xe9antir\
+        \ toute vie sur plusieurs milliers de kilom\xe8tres carr\xe9s autour du lieu\
+        \ d'impact. Environ 50 000 km3 de roches ont \xe9t\xe9 rejet\xe9s dans l'atmosph\xe8\
+        re sous forme de poussi\xe8res, de gouttelettes de roche fondue (sph\xe9rules)\
+        \ et de microdiamants. Sur la base de la continuit\xe9 s\xe9dimentaire et\
+        \ de la diversit\xe9 pal\xe9ontologique et pal\xe9obotanique, cette localit\xe9\
+        \ a \xe9t\xe9 choisie comme section de r\xe9f\xe9rence internationale de la\
+        \ limite K-Pg lors du 28e Congr\xe8s g\xe9ologique international \xe0 Washington\
+        \ en 1989.\n\nL'extinction Cr\xe9tac\xe9-Pal\xe9og\xe8ne, ou extinction K-Pg,\
+        \ qui marque la fin du Cr\xe9tac\xe9, est une extinction biologique massive\
+        \ et de grande ampleur. Elle repr\xe9sente un ph\xe9nom\xe8ne naturel remarquable.\n\
+        \nLa crise Cr\xe9tac\xe9-Tertiaire est l'une des cinq crises majeures qui\
+        \ ont marqu\xe9 les temps g\xe9ologiques. La limite K-Pg est un exemple remarquable\
+        \ d'une \xe9tape majeure de l'histoire de la vie sur terre.\n\nLa limite Cr\xe9\
+        tac\xe9-Pal\xe9og\xe8ne conserve encore la majeure partie de son int\xe9grit\xe9\
+        , mais est menac\xe9e par l'\xe9rosion. Elle est \xe9galement un objet de\
+        \ curiosit\xe9 pour la population locale. Des panneaux d'information ont \xe9\
+        t\xe9 install\xe9s pour sensibiliser les habitants \xe0 son patrimoine naturel.\
+        \ L'affleurement est consid\xe9r\xe9 comme un stratotype reconnu internationalement,\
+        \ et \xe0 ce titre m\xe9rite d'\xeatre sauvegard\xe9 et mis en valeur.\n\n\
+        Au niveau mondial, le nombre de sites pr\xe9sentant un exc\xe8s de couche\
+        \ d'iridium s'\xe9l\xe8ve \xe0 100, dont 30 contiennent \xe9galement des fragments\
+        \ de quartz \xab choqu\xe9s \xbb (sp\xe9cifiques aux gros impacts de m\xe9\
+        t\xe9orites). Le site du Kef fait partie d'une quinzaine de sites dans le\
+        \ monde qui r\xe9pondent aux principaux crit\xe8res d'une succession compl\xe8\
+        te de niveaux sur la limite K-Pg.\n\nLes crit\xe8res de comparaison entre\
+        \ ces sites reposent essentiellement sur des \xe9l\xe9ments enregistrant des\
+        \ impacts de m\xe9t\xe9orites, des extinctions massives et l'apparition d'une\
+        \ nouvelle faune.En raison de son importance internationale, le stratotype\
+        \ mondial du Kef est le plus cit\xe9 dans les publications scientifiques,\
+        \ avec plus de 70 \xe9tudes publi\xe9es, d\xe9passant de loin le nombre d'\xe9\
+        tudes r\xe9alis\xe9es sur les autres limites K-Pg connues.\n\nLe site K-Pg\
+        \ est inscrit sur la liste indicative de l'UNESCO depuis 2016 (http://whc.unesco.org/fr/listesindicatives/6088/).\n\
+        \n**R\xe9f\xe9rences bibliographiques**\n\n- Ben Salem Habib, Donze Pierre\
+        \ (1995) - Pr\xe9sentation g\xe9n\xe9rale de la coupe type limite Cr\xe9tac\xe9\
+        -Tertiaire (K-Pg) du Kef, Tunisie-ONM\n- Le stratotype limite Cr\xe9tac\xe9\
+        -Tertiaire (K-Pg) - UNESCO https://whc.unesco.org/fr/listesindicatives/6088/\n\
+        - J. Smita, G. Keller b, F. Zargouni, S. Razgallah , M. Shimi, 0. Ben Abdelkader\
+        \ C, N. Ben Haj Ali, H. Ben Salem (1997)- Les coupes d'El Kef et les proc\xe9\
+        dures de shampooing. Micropal\xe9ontologie marine 29 (1997) 6% 103\n- Narjess\
+        \ Karoui et al.(1999)- Le stratotype limite Cr\xe9tac\xe9-Tertiaire\n", font: '',
+      spacing_above: small, spacing_below: small, data: null, background: '', format: markdown}
     name: rich_text_1
     layout_properties: {grid_position: 'MTZSXV,TWNUQG'}
 - type: ColumnPanel
