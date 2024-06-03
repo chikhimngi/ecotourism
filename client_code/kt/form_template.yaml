@@ -171,13 +171,10 @@ components:
     name: image_1
     layout_properties: {grid_position: 'QWEIAJ,JLTYOD'}
   - name: rich_text_2
-    properties: {content: 'Fig1- Localisation du site Kt et plus loin '}
+    properties: {content: '**Fig1- Localisation du site Kt et plus loin le site des
+        roches volcaniques (ophites) affleurant dans le Trias** '}
     type: RichText
     layout_properties: {grid_position: 'IQSLCL,XJCMAG'}
-  - name: spacer_1
-    properties: {height: 32}
-    type: Spacer
-    layout_properties: {grid_position: 'MEGFZA,CKGKCF'}
 - type: Image
   properties: {role: null, vertical_align: center, height: '200', tooltip: photo 2Oued Hajar,
     border: '', foreground: '', visible: true, display_mode: fill_width, spacing_above: small,
