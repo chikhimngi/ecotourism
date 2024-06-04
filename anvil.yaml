@@ -4,12 +4,12 @@ services:
 - source: /runtime/services/tables.yml
   client_config: {}
   server_config: {}
-package_name: ecotourism
+package_name: geotourism
 allow_embedding: false
-name: ecotourism
+name: geotourism
 runtime_options: {version: 2, client_version: '3', server_version: python3-sandbox,
   server_spec: null}
-metadata: {title: ecotourism-in-the-kef}
+metadata: {title: geotourim in the Kef area}
 startup_form: home
 db_schema: {}
 renamed: true
