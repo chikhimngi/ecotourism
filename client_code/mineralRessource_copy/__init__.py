@@ -12,9 +12,9 @@ class mineralRessource_copy(mineralRessource_copyTemplate):
     # Any code you write here will run before the form opens.
 
   def sraa_phosphate_click(self, **event_args):
-    self.column_panel_3.clear()
-    self.column_panel_3.add_component(OuertanePhosphate())
+    self.column_panel_4.clear()
+    self.column_panel_4.add_component(OuertanePhosphate())
 
   def Jerissa_Mine_click(self, **event_args):
-    self.column_panel_3.clear()
-    self.column_panel_3.add_component(jerissa())
+    self.column_panel_4.clear()
+    self.column_panel_4.add_component(jerissa())
