@@ -1,6 +1,6 @@
 container:
   type: ColumnPanel
-  properties: {col_widths: '{"SGHKEA":55,"VTMLAB":5}'}
+  properties: {col_widths: '{"SGHKEA":35,"VTMLAB":25}'}
 components:
 - type: ColumnPanel
   properties: {col_widths: '{}'}
@@ -20,35 +20,42 @@ components:
   - type: RichText
     properties: {role: null, align: left, tooltip: '', enable_slots: true, border: '',
       foreground: '', visible: true, font_size: null, content: "La ville du Kef, situ\xe9\
-        e \xe0 170 km de  Tunis (figure), est une ville b\xe2tie dans le creux du\
-        \ synclinal perch\xe9 de Dyr El Kef, auquel elle semble lui est accroch\xe9\
-        e. \n\nElle couvre une superficie de 5081 km2, soit 3% de la superficie du\
-        \ pays, et compte 243156 habitants. Le gouvernorat du Kef est situ\xe9 dans\
-        \ les montagnes de l'Atlas. Il est constitu\xe9 d'une succession de cha\xee\
-        nes de montagnes s'\xe9tendant dans une direction NE-SW. Les altitudes peuvent\
-        \ atteindre 1000m \xe0 Dyr El Kef et 1100m \xe0 Jebel Slata. Le climat est\
-        \ semi-aride. Les temp\xe9ratures varient entre 6 et 7\xb0C en hiver et 25\
-        \ \xe0 27\xb0C en \xe9t\xe9. Les pr\xe9cipitations annuelles sont comprises\
-        \ entre 380 et 400 mm/an.\n\nLa r\xe9gion du Kef c'est plusieurs atouts:\n\
-        - C'est une r\xe9gion gricole qui s'\xe9tend sur 485 153 hectares, dont 102\
-        \ 215 hectares de for\xeats et 337 489 hectares de terres agricoles.\n- une\
-        \ \n\n\nLa r\xe9gion du Kef regorge aussi d\u2019anciennes gisements miniers\
-        \ o\xf9 furent exploit\xe9es par le pass\xe9 des min\xe9ralisations polym\xe9\
-        talliques de gal\xe8ne (plomb), de blende (zinc), de fer, de barytine et de\
-        \ fluorine. L\u2019activit\xe9 mini\xe8re, qui a dur\xe9 plus qu\u2019un si\xe8\
-        cle, a laiss\xe9 un patrimoine industriel consid\xe9rable repr\xe9sent\xe9\
-        \ par d\u2019anciennes galeries et carri\xe8res, d\u2019anciennes laveries,\
-        \ des puits miniers qui ont gard\xe9 leurs \xe9quipements jusqu\u2019\xe0\
-        \ aujourd\u2019hui, d\u2019anciens fours, wagons, treuils etc. la visite des\
-        \ anciennes galeries ou carri\xe8res permet d\u2019observer les vestiges des\
-        \ anciennes\nexploitations et profiter pour collecter des min\xe9raux de gal\xe8\
-        nes, blende,\nfluorines, barytine et fer.\n\nHistoriquement, la ville du Kef\
-        \ est l'une des rares r\xe9gions o\xf9 l'on a retrouv\xe9 des traces d'homme\
-        \ pr\xe9historique, remontant au Pl\xe9istoc\xe8ne moyen (300 000 ans, site\
-        \ arch\xe9ologique de Sidi Zine, peintures rupestres de Dyr El Kef). La ville\
-        \ du Kef a vu se succ\xe9der les civilisations : carthaginoise, romaine, musulmane.\n",
-      font: '', spacing_above: small, spacing_below: small, data: null, background: '',
-      format: markdown}
+        e \xe0 170 km de  Tunis (figure), est b\xe2tie dans le creux de la montagne\
+        \ de Dyr El Kef, \xe0 laquelle elle semble lui est accroch\xe9e. \n\nLa ville\
+        \ du Kef est le chef-lieu du Gouvernorat qui porte le m\xeame nom. Celui-ci\
+        \  couvre une superficie de 5081 km2, soit 3% de la superficie du pays, et\
+        \ compte 243156 habitants. Il appartient \xe0 l'Atlas tunisien, constitu\xe9\
+        \ d'une succession de cha\xeenes de montagnes dont les altitudes peuvent atteindre\
+        \ 1000m \xe0 Dyr El Kef et 1100m \xe0 Jebel Slata. Le climat est semi-aride.\
+        \ Les temp\xe9ratures varient entre 6 et 7\xb0C en hiver et 25 \xe0 27\xb0\
+        C en \xe9t\xe9. Les pr\xe9cipitations annuelles sont comprises entre 380 et\
+        \ 400 mm/an. \n\nLa r\xe9gion du Kef est principalement une r\xe9gion agricole\
+        \ qui s'\xe9tend sur 485 153 hectares, dont 102 215 hectares de for\xeats\
+        \ et 337 489 hectares de terres agricoles.\n\nElle est dot\xe9e en d\u2019\
+        un patrimoine riche et vari\xe9 :\n\n- Historique et culturel englobant les\
+        \ traces de l'homme pr\xe9historique, remontant au Pl\xe9istoc\xe8ne moyen\
+        \ (300 000 ans). C\u2019est aussi un carrefour  de plusieurs civilisations\
+        \ (carthaginoise, romaine, bizantin, musulmane, arabe, etc), dont t\xe9moignent\
+        \ les nombreux monuments intra miros  ( l\u2019ancienne cit\xe9 romaine Sicca\
+        \ Veneria, la basilique Sain Pierre, Sid Bou Makhlouf, El Griba, la Khasba)\
+        \ et extramiros (Sid Zine, El Mdeina, Table de Jugurtha). \n\n- Naturel comprenant\
+        \ des formations g\xe9ologique et une riche faune et flaures qui racontent\
+        \ l\u2019histoire de notre r\xe9gion vieille de 250 Millions d\u2019ann\xe9\
+        es. Plusieurs g\xe9osites d\u2019int\xe9r\xeat scientifique et g\xe9otouristique\
+        \ sont recens\xe9s dont la limite Cr\xe9tac\xe9-Pal\xe9og\xe8ne de Hammam\
+        \ Mell\xe8gue constitue un site d\u2019int\xe9r\xeat universel.\n\n- La r\xe9\
+        gion du Kef regorge aussi d\u2019anciennes gisements miniers o\xf9 furent\
+        \ exploit\xe9es par le pass\xe9 des min\xe9ralisations polym\xe9talliques\
+        \ de gal\xe8ne (plomb), de blende (zinc), de fer, de barytine et de fluorine.\
+        \ L\u2019activit\xe9 mini\xe8re, qui a dur\xe9 plus qu\u2019un si\xe8cle,\
+        \ a laiss\xe9 un patrimoine industriel consid\xe9rable repr\xe9sent\xe9 par\
+        \ d\u2019anciennes galeries et carri\xe8res, d\u2019anciennes laveries, des\
+        \ puits miniers qui ont gard\xe9 leurs \xe9quipements jusqu\u2019\xe0 aujourd\u2019\
+        hui, d\u2019anciens fours, wagons, treuils etc. la visite des anciennes galeries\
+        \ ou carri\xe8res permet d\u2019observer les vestiges des anciennes exploitations\
+        \ et profiter pour collecter des min\xe9raux de gal\xe8nes, blende, fluorines,\
+        \ barytine et fer.\n", font: '', spacing_above: small, spacing_below: small,
+      data: null, background: '', format: markdown}
     name: rich_text_1
     layout_properties: {grid_position: 'IVROGG,DFTLMN'}
 - type: ColumnPanel
@@ -60,4 +67,8 @@ components:
   properties: {source: _/theme/carte_kef.png, display_mode: fill_width, tooltip: boundaries of the Governorate of Kef}
   type: Image
   layout_properties: {grid_position: 'CLMQJL,VTMLAB UDNPLC,PSJFIK'}
+- name: image_2
+  properties: {source: _/theme/kef.jpg, display_mode: zoom_to_fill, height: 208}
+  type: Image
+  layout_properties: {grid_position: 'CLMQJL,VTMLAB PTUGUL,TMSZLB'}
 is_package: true
