@@ -24,23 +24,26 @@ components:
     type: Image
     layout_properties: {grid_position: 'JECYAG,ERETOF'}
   - name: rich_text_1
-    properties: {content: "Le projet Sra Ouertane correspond \xe0 un plateau en pente\
-        \ douce\n\nLa photo (fig. 1) montre un niveau meuble, masqu\xe9 par des \xe9\
-        boulis, correspondant \xe0 la s\xe9rie phosphat\xe9e de l'Ypr\xe9sien (tranch\xe9\
-        e). En dessous se trouve la dalle calcaire massive des Nummulites.\n\nLa zone\
-        \ de Sra Ouertane est un projet exemplaire d'extraction, de traitement et\
-        \ d'exploitation des phosphates dans la r\xe9gion de Ksour, dans le gouvernorat\
-        \ du Kef. \n\n- Elle contient pr\xe8s de 5 milliards de tonnes de minerai\
-        \ de phosphate avec une teneur moyenne de 14% P2O5 : \n\n- Mise en concession\
-        \ de 25% du gisement de Sra Ouertane. \n- Cr\xe9ation d'une soci\xe9t\xe9\
-        \ mini\xe8re et d'une soci\xe9t\xe9 chimique \n- Extraction et flottation\
-        \ de 4 millions de tonnes de phosphate commercialisable par an. \n- Transformation\
-        \ de 1 million de tonnes de P2O5/an sous forme d'acide phosphorique et d'engrais.\
-        \ \n\nMise en place des infrastructures n\xe9cessaires : chemin de fer, site\
-        \ portuaire, alimentation en eau, alimentation \xe9lectrique, d\xe9charge\
-        \ de phosphogypse, utilit\xe9s et installations de stockage. \n- Co\xfbt de\
-        \ l'investissement : 3 milliards de dollars am\xe9ricains (\u2248 2,1 milliards\
-        \ d'euros)\n\nTraduit avec www.DeepL.com/Translator (version gratuite)"}
+    properties: {content: "La s\xe9rie g\xe9ologique du secteur de Sra Ouertane comprend\
+        \ de bas en haut: une barre massive   de calcaires \xe0 Nummulites de l'Eoc\xe8\
+        ne moyen de 60 m d'\xe9paisseur. Celle-ci repose sur une \xe9pisse s\xe9rie\
+        \ de marnes grises \xe0 gypse du Pal\xe9oc\xe8ne. \n\nLa photo (fig. 1) montre\
+        \ un niveau meuble, masqu\xe9 par des \xe9boulis, correspondant \xe0 la s\xe9\
+        rie phosphat\xe9e de l'Ypr\xe9sien (tranch\xe9e). En dessous se trouve la\
+        \ dalle calcaire massive des Nummulites.\n\nLa zone de Sra Ouertane est un\
+        \ projet exemplaire d'extraction, de traitement et d'exploitation des phosphates\
+        \ dans la r\xe9gion de Ksour, dans le gouvernorat du Kef. \n\n- Elle contient\
+        \ pr\xe8s de 5 milliards de tonnes de minerai de phosphate avec une teneur\
+        \ moyenne de 14% P2O5 : \n\n- Mise en concession de 25% du gisement de Sra\
+        \ Ouertane. \n- Cr\xe9ation d'une soci\xe9t\xe9 mini\xe8re et d'une soci\xe9\
+        t\xe9 chimique \n- Extraction et flottation de 4 millions de tonnes de phosphate\
+        \ commercialisable par an. \n- Transformation de 1 million de tonnes de P2O5/an\
+        \ sous forme d'acide phosphorique et d'engrais. \n\nMise en place des infrastructures\
+        \ n\xe9cessaires : chemin de fer, site portuaire, alimentation en eau, alimentation\
+        \ \xe9lectrique, d\xe9charge de phosphogypse, utilit\xe9s et installations\
+        \ de stockage. \n- Co\xfbt de l'investissement : 3 milliards de dollars am\xe9\
+        ricains (\u2248 2,1 milliards d'euros)\n\nTraduit avec www.DeepL.com/Translator\
+        \ (version gratuite)"}
     type: RichText
     layout_properties: {grid_position: 'VIWBIW,ZVNLYM'}
 is_package: true
