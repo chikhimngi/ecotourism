@@ -69,17 +69,13 @@ components:
   type: Image
   layout_properties: {grid_position: 'YZPMBW,WHUDDY PKCOHF,FPBWVZ'}
 - name: image_4
-  properties: {}
+  properties: {source: _/theme/kt2.png, display_mode: fill_width}
   type: Image
   layout_properties: {grid_position: 'YZPMBW,WHUDDY URHGDF,XVJKJU'}
 - name: image_3
-  properties: {}
+  properties: {source: _/theme/couche-a-iridium2.png, display_mode: fill_width}
   type: Image
   layout_properties: {grid_position: 'YZPMBW,WHUDDY QNZSGE,KMPSUY'}
-- name: image_1
-  properties: {}
-  type: Image
-  layout_properties: {grid_position: 'YZPMBW,WHUDDY CYKHMH,CRLFSC'}
 - type: Image
   properties: {role: null, vertical_align: center, height: '200', tooltip: Thin yellow layer Iridium and meteoritic spinels rich,
     border: '', foreground: '', visible: true, display_mode: fill_width, spacing_above: small,
