@@ -35,7 +35,7 @@ components:
   components:
   - type: Link
     properties: {role: null, url: '', align: left, tooltip: '', border: '', foreground: 'theme:White',
-      visible: true, text: Le Kef en Tunisie, font_size: 18, wrap_on: mobile, font: '',
+      visible: true, text: 'Les atouts du Kef ', font_size: 18, wrap_on: mobile, font: '',
       col_spacing: medium, spacing_above: small, icon_align: left, col_widths: '',
       spacing_below: small, italic: true, background: 'theme:Primary 500', bold: true,
       underline: false, icon: ''}

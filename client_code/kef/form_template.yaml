@@ -13,7 +13,7 @@ components:
     layout_properties: {grid_position: 'REXQBR,NYMEYE'}
     components:
     - name: headline_1
-      properties: {role: headline, text: Présentation de la région du Kef, foreground: 'theme:Secondary
+      properties: {role: headline, text: Les atouts de la région du Kef, foreground: 'theme:Secondary
           700', align: center, bold: true, italic: true}
       type: Label
       layout_properties: {grid_position: 'FYHJKM,LTXDSC'}
@@ -30,7 +30,7 @@ components:
         \ pr\xe9cipitations annuelles sont comprises entre 380 et 400 mm/an. \n\n\
         La r\xe9gion du Kef est principalement une r\xe9gion agricole qui s'\xe9tend\
         \ sur 485 153 hectares, dont 102 215 hectares de for\xeats et 337 489 hectares\
-        \ de terres agricoles.\n\nLa r\xe9gion du Kef est dot\xe9e d\u2019un patrimoine\
+        \ de terres agricoles.\nLa r\xe9gion du Kef est dot\xe9e d\u2019un patrimoine\
         \ riche et diversifi\xe9 :\n\n- Historique et culturel englobant les traces\
         \ de l'homme pr\xe9historique, remontant au Pl\xe9istoc\xe8ne moyen (300 000\
         \ ans). C\u2019est aussi un carrefour  de plusieurs civilisations (carthaginoise,\
@@ -39,26 +39,26 @@ components:
         \ la basilique Sain Pierre, Sid Bou Makhlouf, El Griba, la Khasba) et extramiros\
         \ (Sid Zine, El Mdeina, Table de Jugurtha). \n\n- Les formations g\xe9ologiques\
         \ de la r\xe9gion du Kef racontent plus de 250  Millions d\u2019ann\xe9es\
-        \ d'histoire de la Terre. \nLa r\xe9gion du Kef appartient \xe0 l'Atlas tunisien\
-        \ septentrional qui se caract\xe9rise par la diversit\xe9 exceptionnelle de\
-        \ ses formations g\xe9ologiques. Celles-ci furent fa\xe7onn\xe9es aux cours\
+        \ d'histoire de la Terre. \n\nLa r\xe9gion du Kef appartient \xe0 l'Atlas\
+        \ tunisien septentrional qui se caract\xe9rise par la diversit\xe9 exceptionnelle\
+        \ de ses formations g\xe9ologiques. Celles-ci furent fa\xe7onn\xe9es aux cours\
         \ des p\xe9riodes g\xe9ologiques de l\u2019\xe8re secondaire, c\u2019est \xe0\
-        \ dire depuis le Trias ( durant 250 millions d\u2019ann\xe9es). Le \nPlusieurs\
-        \ g\xe9osites d\u2019int\xe9r\xeat scientifique, didactique et g\xe9otouristique\
-        \ sont recens\xe9s. Le site K/T situ\xe9 \xe0 4 km au SW de la ville du Kef\
-        \ vers Hammam Mell\xe8gue constitue un site d\u2019int\xe9r\xeat universel.\n\
-        \n- La r\xe9gion du Kef regorge aussi d\u2019anciens gisements miniers o\xf9\
-        \ furent exploit\xe9es par le pass\xe9 des min\xe9ralisations polym\xe9talliques\
-        \ de gal\xe8ne (plomb), de blende (zinc), de fer, de barytine et de fluorine.\
-        \ L\u2019activit\xe9 mini\xe8re, qui a dur\xe9 plus qu\u2019un si\xe8cle,\
-        \ a laiss\xe9 un patrimoine industriel consid\xe9rable repr\xe9sent\xe9 par\
-        \ d\u2019anciennes galeries et carri\xe8res, d\u2019anciennes laveries, des\
-        \ puits miniers qui ont gard\xe9 leurs \xe9quipements jusqu\u2019\xe0 aujourd\u2019\
-        hui, d\u2019anciens fours, wagons, treuils etc. la visite des anciennes galeries\
-        \ ou carri\xe8res permet d\u2019observer les vestiges des anciennes exploitations\
-        \ et profiter pour collecter des min\xe9raux de gal\xe8nes, blende, fluorines,\
-        \ barytine et fer.\n", font: '', spacing_above: small, spacing_below: small,
-      data: null, background: '', format: markdown}
+        \ dire depuis le Trias  (durant 250 millions d\u2019ann\xe9es)..\n\nLes \xe9\
+        l\xe9ments repr\xe9sentatifs de l'Histoire g\xe9ologique est la fr\xe9quence\
+        \ de sites g\xe9ologiques, g\xe9omorphologiques, paysag\xe9s, exceptionnels\
+        \ et de curiosit\xe9 qui pr\xe9sentent un int\xe9r\xeat scientifique, p\xe9\
+        dagogique ou encore esth\xe9tique.\n\n- La r\xe9gion du Kef regorge aussi\
+        \ d\u2019anciens gisements miniers o\xf9 furent exploit\xe9es par le pass\xe9\
+        \ des min\xe9ralisations polym\xe9talliques de gal\xe8ne (plomb), de blende\
+        \ (zinc), de fer, de barytine et de fluorine. L\u2019activit\xe9 mini\xe8\
+        re, qui a dur\xe9 plus qu\u2019un si\xe8cle, a laiss\xe9 un patrimoine industriel\
+        \ consid\xe9rable repr\xe9sent\xe9 par d\u2019anciennes galeries et carri\xe8\
+        res, d\u2019anciennes laveries, des puits miniers qui ont gard\xe9 leurs \xe9\
+        quipements jusqu\u2019\xe0 aujourd\u2019hui, d\u2019anciens fours, wagons,\
+        \ treuils etc. la visite des anciennes galeries ou carri\xe8res permet d\u2019\
+        observer les vestiges des anciennes exploitations et profiter pour collecter\
+        \ des min\xe9raux de gal\xe8nes, blende, fluorines, barytine et fer.\n", font: '',
+      spacing_above: small, spacing_below: small, data: null, background: '', format: markdown}
     name: rich_text_1
     layout_properties: {grid_position: 'IVROGG,DFTLMN'}
 - type: ColumnPanel
