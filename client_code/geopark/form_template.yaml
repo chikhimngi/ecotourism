@@ -3,8 +3,8 @@ container:
   properties: {col_widths: '{}'}
 components:
 - name: headline_1
-  properties: {role: headline, text: du Kef, background: '', foreground: 'theme:Secondary
-      700', italic: true, bold: true, align: center}
+  properties: {role: headline, text: 'Projet Geopark du Kef: mor-né', background: '',
+    foreground: 'theme:Secondary 700', italic: true, bold: true, align: center}
   type: Label
   layout_properties: {grid_position: 'DMHUJZ,EHXHSU'}
 - type: ColumnPanel
@@ -14,106 +14,110 @@ components:
   components:
   - type: RichText
     properties: {role: null, align: left, tooltip: '', enable_slots: true, border: '',
-      foreground: '', visible: true, font_size: null, content: "\n\n**Introduction**\n\
-        En juillet 2002, j\u2019ai eu l\u2019occasion de participer, au si\xe8ge du\
-        \ Gouvernorat du Kef, \xe0 une r\xe9union \xe0 laquelle ont pris part aussi\
-        \ des experts du r\xe9seau europ\xe9en des Geoparks de l\u2019UNESCO et du\
-        \ Parc Culturel Rocca Di Cerere (Italie). Il semble que la visite de ces experts\
-        \ vient \xe0 la suite d\u2018une demande formul\xe9e par le Gouvernement tunisien\
-        \ aupr\xe8s du r\xe9seau europ\xe9en des Geoparks de l\u2019UNESCO pour \xe9\
-        tudier la possibilit\xe9 de cr\xe9er un Geopark au Kef selon les normes \xe9\
-        tablies par l\u2019European Network Geoparks. Le choix de la r\xe9gion du\
-        \ Kef a \xe9t\xe9 justifi\xe9 par son patrimoine g\xe9ologique exceptionnel,\
-        \ associ\xe9 \xe0 un riche patrimoine arch\xe9ologique, historique et culturel.\n\
-        \nTrois groupes de travail sont alors constitu\xe9s. J\u2019ai \xe9t\xe9 d\xe9\
-        sign\xe9 en tant que G\xe9ologue pour accompagner et guider, sur le terrain,\
-        \ les deux G\xe9ologues de l\u2019UNESCO : Monsieur Guy Martin et Mme Rosaria\
-        \ Modica.\n\nAu terme de la prospection de terrain, qui a dur\xe9 environ\
-        \ un mois, et qui a conduit \xe0 identifier les meilleurs sites de la r\xe9\
-        gion, les principaux r\xe9sultats ont \xe9t\xe9 alors pr\xe9sent\xe9s en s\xe9\
-        ance pl\xe9ni\xe8re au cours de laquelle on a annonc\xe9 l\u2019heureuse nouvelle\
-        \ que, gr\xe2ce \xe0 son potentiel patrimoine exceptionnel, le projet du Geopark\
-        \ au Kef a \xe9t\xe9 retenu. Les recommandations de poursuites des travaux\
-        \ (volet juridique, et feuille de route) ont \xe9t\xe9 propos\xe9es.\n\nMalheureusement,\
-        \ cette r\xe9union de sensibilisation a \xe9t\xe9  la derni\xe8re car curieusement\
-        \ le projet a \xe9t\xe9 oubli\xe9 dans les tiroirs de la direction r\xe9gionale\
-        \ de d\xe9veloppement au Gouvernorat du Kef et depuis personne n\u2019entend.\
-        \ \n\nAvec mes moyens j\u2019ai pu r\xe9cup\xe9rer le DVD qui contient les\
-        \ r\xe9sultats des travaux qui justifient la cr\xe9ation du Projet de Geopark\
-        \ que je vais essayer de r\xe9sumer dans les lignes qui suivent en esp\xe9\
-        rant que les responsables du Gouvernorat du Kef qui avaient pris part, \xe0\
-        \ l\u2019\xe9poque, au d\xe9marrage du projet se manifestent et nous d\xe9\
-        voiler ce mis\xe8re. \n\n**Intitul\xe9 du Projet**\n\t\xab Syst\xe8me touristique\
-        \ int\xe9gr\xe9 (S.T.I) \xbb\n**Objectifs du projet**\n-\tR\xe9aliser une\
-        \ \xe9tude de faisabilit\xe9 pour v\xe9rifier la possibilit\xe9 de la cr\xe9\
-        ation d\u2019un syst\xe8me touristique int\xe9gr\xe9 (S.T.I) pour la mise\
-        \ en valeur du patrimoine de la r\xe9gion du Kef ;\n\n-\t\xc9valuer les possibilit\xe9\
-        s pour la cr\xe9ation d\u2019un Geopark suivant les normes \xe9tablies par\
-        \ l\u2019European Network Geoparks\n Les ressources touristiques recens\xe9\
-        es et analys\xe9es\n- Patrimoine g\xe9ologique\n- Patrimoine arch\xe9ologique,\
-        \ historique et culturel\n- Patrimoine naturel et environnemental\n- Patrimoine\
-        \ ethno anthropologique\n- Patrimoine gastronomique\nD\xe9veloppement du Projet\n\
-        -\tD\xe9marrage du projet\n-\tRecherches sur le terrain\n-\tAnalyse et comparaison\
-        \ des donn\xe9es\nLes ressources humaines engag\xe9es\n\uf0fc\tDeux experts\
-        \ de l\u2019European Geoparks Network\n\no\tM. Guy Martin \no\tMme Rosaria\
-        \ Modica ;\n\n\uf0fc\tSix experts du Parc Culturel Rocca Di Cerere (Italie)\n\
-        \n\uf0fc\tDeux experts tunisiens\n\n-\tChikhaoui Mongi (G\xe9ologie)\n-\t\
-        Tlili Mohamed (Arch\xe9ologie)\n**R\xe9sultats**\nLes travaux de terrain,\
-        \ qui ont dur\xe9 environ un mois, ont permis de mettre on \xe9vidence un\
-        \ patrimoine g\xe9ologique exceptionnel (11 sites inventori\xe9s, figure)\
-        \ permettant une lecture correcte des ph\xe9nom\xe8nes g\xe9ologiques qui\
-        \ ont marqu\xe9 l\u2019histoire g\xe9ologique de la r\xe9gion du Kef durant\
-        \ les derni\xe8res 250 millions d\u2019ann\xe9es, depuis le Trias. \n\nCette\
-        \ histoire g\xe9ologique est tr\xe8s riches gr\xe2ce \xe0 l\u2019abondance\
-        \ et \xe0 la vari\xe9t\xe9 des paysages g\xe9omorphologiques,  des fossiles,\
-        \ des structures g\xe9ologiques, des roches et des concr\xe9tions min\xe9\
-        rales.\n\nLes sites g\xe9ologiques exceptionnels permettent de comprendre\
-        \ l\u2019histoire de la Terre gr\xe2ce \xe0 des t\xe9moignages pal\xe9o-environnementaux\
-        \ unique au niveau mondial. \n\nEn effet les roches de la r\xe9gion du Kef\
-        \ peuvent contribuer \xe0 d\xe9voiler l\u2019une des cinq grandes crises de\
-        \ l\u2019histoire de la Terre, qui est responsable de la disparition de plus\
-        \ de 80% des organismes marins, des grands reptiles marins, des dinosaures,\
-        \ des ammonites et des b\xe9lemnites.\nLes dinosaures sont apparus au Trias\
-        \ (250 Ma). Leur disparition a \xe9t\xe9 tr\xe8s brutale il y a 65 millions\
-        \ d\u2019ann\xe9e, c'est-\xe0-dire \xe0 la limite du Cr\xe9tac\xe9 et du pal\xe9\
-        oc\xe8ne (K-T ou K-Pg). La limite K-T est reconnue et \xe9tudi\xe9e sur une\
-        \ centaine de sites dans le monde y compris celle qui affleure \xe0 7km \xe0\
-        \ l\u2019Ouest de la ville du Kef, dans la localit\xe9 de Fej Hjar  situ\xe9\
-        e sur la route vers Hammam Mell\xe8gue (figure).\nla limite K-T est soulign\xe9\
-        e par la pr\xe9sence d'un niveau d'argile sombre encadr\xe9 par des ensembles\
-        \ plus marneux (tranch\xe9e et photos). Le niveau argileux est riche en Iridium.\
-        \ Cet \xe9l\xe9ment, tr\xe8s rare dans les mat\xe9riaux terrestres (teneur\
-        \ de l'ordre de 0,00005 ppm) est beaucoup plus abondant dans les m\xe9t\xe9\
+      foreground: '', visible: true, font_size: null, content: "\n\nIntroduction\n\
+        \nEn juillet\n2002, j\u2019ai eu l\u2019occasion de participer, au si\xe8\
+        ge du Gouvernorat du Kef, \xe0 une\nr\xe9union \xe0 laquelle ont pris part\
+        \ aussi des experts du r\xe9seau europ\xe9en des\nGeoparks de l\u2019UNESCO\
+        \ et du Parc Culturel Rocca Di Cerere (Italie). Il semble\nque la visite de\
+        \ ces experts vient \xe0 la suite d\u2018une demande formul\xe9e par le\n\
+        Gouvernement tunisien aupr\xe8s du r\xe9seau europ\xe9en des Geoparks de l\u2019\
+        UNESCO pour \xe9tudier\nla possibilit\xe9 de cr\xe9er un Geopark au Kef selon\
+        \ les normes \xe9tablies par\nl\u2019European Network Geoparks. Le choix de\
+        \ la r\xe9gion du Kef a \xe9t\xe9 justifi\xe9 par son\npatrimoine g\xe9ologique\
+        \ exceptionnel, associ\xe9 \xe0 un riche patrimoine\narch\xe9ologique, historique\
+        \ et culturel.\n\nTrois groupes\nde travail sont alors constitu\xe9s. J\u2019\
+        ai \xe9t\xe9 d\xe9sign\xe9 en tant que G\xe9ologue pour\naccompagner et guider,\
+        \ sur le terrain, les deux G\xe9ologues de l\u2019UNESCO\_: Monsieur\nGuy\
+        \ Martin et Mme Rosaria Modica.\n\nAu terme de la\nprospection de terrain,\
+        \ qui a dur\xe9 environ un mois, et qui a conduit \xe0\nidentifier les meilleurs\
+        \ sites de la r\xe9gion, les principaux r\xe9sultats ont \xe9t\xe9 alors\n\
+        pr\xe9sent\xe9s en s\xe9ance pl\xe9ni\xe8re au cours de laquelle on a annonc\xe9\
+        \ l\u2019heureuse\nnouvelle que, gr\xe2ce \xe0 son potentiel patrimoine exceptionnel,\
+        \ le projet du\nGeopark au Kef a \xe9t\xe9 retenu. Les recommandations de\
+        \ poursuites des travaux\n(volet juridique, et feuille de route) ont \xe9\
+        t\xe9 propos\xe9es.\n\nMalheureusement,\ncette r\xe9union de sensibilisation\
+        \ a \xe9t\xe9\_\nla derni\xe8re car curieusement le projet a \xe9t\xe9 oubli\xe9\
+        \ dans les tiroirs de\nla direction r\xe9gionale de d\xe9veloppement au Gouvernorat\
+        \ du Kef et depuis personne\nn\u2019entend. \n\nAvec mes moyens\nj\u2019ai\
+        \ pu r\xe9cup\xe9rer le DVD qui contient les r\xe9sultats des travaux qui\
+        \ justifient\nla cr\xe9ation du Projet de Geopark que je vais essayer de r\xe9\
+        sumer dans les lignes\nqui suivent en esp\xe9rant que les responsables du\
+        \ Gouvernorat du Kef qui avaient\npris part, \xe0 l\u2019\xe9poque, au d\xe9\
+        marrage du projet se manifestent et nous d\xe9voiler\nce mis\xe8re. \n\n\n\
+        Intitul\xe9 du Projet\n\n\_\_\_\_\_\_\_\_ \xab\_Syst\xe8me\ntouristique int\xe9\
+        gr\xe9 (S.T.I)\_\xbb\n\nObjectifs du projet \n\n-\_\_\_\_\_\nR\xe9aliser une\n\
+        \xe9tude de faisabilit\xe9 pour v\xe9rifier la possibilit\xe9 de la cr\xe9\
+        ation d\u2019un syst\xe8me\ntouristique int\xe9gr\xe9 (S.T.I) pour la mise\
+        \ en valeur du patrimoine de la r\xe9gion\ndu Kef\_;\n\n\xc9valuer les\npossibilit\xe9\
+        s pour la cr\xe9ation d\u2019un Geopark suivant les normes \xe9tablies par\n\
+        l\u2019European Network Geoparks\n\n\_Les ressources touristiques\nrecens\xe9\
+        es et analys\xe9es\n\n- Patrimoine\ng\xe9ologique\n\n- Patrimoine\narch\xe9\
+        ologique, historique et culturel\n\n- Patrimoine\nnaturel et environnemental\n\
+        \n- Patrimoine\nethno anthropologique\n\n- Patrimoine gastronomique\n\nD\xe9\
+        veloppement du Projet\n\n-\_\_\_\_\_\nD\xe9marrage du\nprojet\n\n-\_\_\_\_\
+        \_\nRecherches sur\nle terrain\n\n-\_\_\_\_\_\nAnalyse et\ncomparaison des\
+        \ donn\xe9es\n\nLes ressources humaines engag\xe9es\n\n\xfc Deux experts de\
+        \ l\u2019European Geoparks Network\n\n\_\n\no\_\_\nM. Guy Martin \n\no\_\_\
+        \nMme Rosaria\nModica\_;\n\n\_\n\n\xfc Six experts du Parc Culturel Rocca\
+        \ Di Cerere (Italie)\n\n\_\n\n\xfc Deux experts tunisiens\n\n\_\n\n-\_\_\_\
+        \_\_\nChikhaoui Mongi\n(G\xe9ologie)\n\n-\_\_\_\_\_\nTlili Mohamed\n(Arch\xe9\
+        ologie)\n\nR\xe9sultats\n\nLes travaux de\nterrain, qui ont dur\xe9 environ\
+        \ un mois, ont permis de mettre on \xe9vidence\_un\npatrimoine g\xe9ologique\
+        \ exceptionnel (11 sites inventori\xe9s, figure) permettant\nune lecture correcte\
+        \ des ph\xe9nom\xe8nes g\xe9ologiques qui ont marqu\xe9 l\u2019histoire\n\
+        g\xe9ologique de la r\xe9gion du Kef durant les derni\xe8res 250 millions\
+        \ d\u2019ann\xe9es,\ndepuis le Trias. \n\nCette histoire g\xe9ologique\nest\
+        \ tr\xe8s riches gr\xe2ce \xe0 l\u2019abondance et \xe0 la vari\xe9t\xe9 des\
+        \ paysages\ng\xe9omorphologiques,\_ des fossiles, des\nstructures g\xe9ologiques,\
+        \ des roches et des concr\xe9tions min\xe9rales.\n\nLes sites g\xe9ologiques\n\
+        exceptionnels permettent de comprendre l\u2019histoire de la Terre gr\xe2\
+        ce \xe0 des\nt\xe9moignages pal\xe9o-environnementaux unique au niveau mondial.\
+        \ \n\nEn effet les\nroches de la r\xe9gion du Kef peuvent contribuer \xe0\
+        \ d\xe9voiler l\u2019une des cinq grandes\ncrises de l\u2019histoire de la\
+        \ Terre, qui est responsable de la disparition de plus\nde 80% des organismes\
+        \ marins, des grands reptiles marins, des dinosaures, des\nammonites et des\
+        \ b\xe9lemnites.\n\nLes dinosaures\nsont apparus au Trias (250 Ma). Leur disparition\
+        \ a \xe9t\xe9 tr\xe8s brutale il y a 65\nmillions d\u2019ann\xe9e, c'est-\xe0\
+        -dire \xe0 la limite du Cr\xe9tac\xe9 et du pal\xe9oc\xe8ne (K-T ou\nK-Pg).\
+        \ La limite K-T est reconnue et \xe9tudi\xe9e sur une centaine de sites dans\
+        \ le\nmonde y compris celle qui affleure \xe0 7km \xe0 l\u2019Ouest de la\
+        \ ville du Kef, dans la\nlocalit\xe9 de Fej Hjar \_situ\xe9e sur la route\n\
+        vers Hammam Mell\xe8gue (figure).\n\nla limite K-T est soulign\xe9e par la\
+        \ pr\xe9sence d'un niveau\nd'argile sombre encadr\xe9 par des ensembles plus\
+        \ marneux (tranch\xe9e et photos). Le\nniveau argileux est riche en Iridium.\
+        \ Cet \xe9l\xe9ment, tr\xe8s rare dans les\nmat\xe9riaux terrestres (teneur\
+        \ de l'ordre de 0,00005 ppm) est beaucoup plus\nabondant dans les m\xe9t\xe9\
         orites (teneur de l'ordre de 0,5 ppm). Il conforte ainsi la th\xe9orie d\u2019\
-        impact m\xe9t\xe9oritique \xe0 l\u2019origine des extinctions massives \xe0\
-        \ grande \xe9chelle d\u2019esp\xe8ces animales et v\xe9g\xe9tales. \nEn se\
-        \ basant sur la continuit\xe9 de s\xe9dimentation, l\u2019absence de lacune\
-        \ ainsi que sur la diversit\xe9 pal\xe9ontologique et pal\xe9obotanique, cette\
-        \ localit\xe9 a \xe9t\xe9 retenue comme coupe de r\xe9f\xe9rence internationale\
-        \ de la limite K-T lors du 28\xe8me Congr\xe8s G\xe9ologique International,\
+        impact\nm\xe9t\xe9oritique \xe0 l\u2019origine des extinctions massives \xe0\
+        \ grande \xe9chelle d\u2019esp\xe8ces\nanimales et v\xe9g\xe9tales. \n\nEn\
+        \ se basant sur la continuit\xe9 de s\xe9dimentation, l\u2019absence de\n\
+        lacune ainsi que sur la diversit\xe9 pal\xe9ontologique et pal\xe9obotanique,\
+        \ cette\nlocalit\xe9 a \xe9t\xe9 retenue comme coupe de r\xe9f\xe9rence internationale\
+        \ de la limite K-T\nlors du 28\xe8me Congr\xe8s G\xe9ologique International,\
         \ \xe0 Washington, en 1989 (UNESCO, https://whc.unesco.org/fr/listesindicatives/6088/).\n\
-        \nMalgr\xe9 son importance \xe0 l\u2019\xe9chelle mondiale, la coupe du Kef\
-        \ est aujourd\u2019hui menac\xe9e par l\u2019\xe9rosion notamment pendant\
-        \ les p\xe9riodes de crues. Aucune action de pr\xe9servation ne peut \xea\
-        tre envisag\xe9e car son propri\xe9t\xe9 fonci\xe8re n\u2019est pa encore\
-        \ d\xe9finie \n\n**Conclusion**\n\tL\u2019\xe9tude indique que le Kef est\
-        \ une r\xe9gion qui se distingue par al richesse de son patrimoine historique\
-        \ et culturelle, pour l\u2019abondance des sites naturels et pour les sp\xe9\
+        \nMalgr\xe9 son\nimportance \xe0 l\u2019\xe9chelle mondiale, la coupe du Kef\
+        \ est aujourd\u2019hui menac\xe9e par l\u2019\xe9rosion notamment pendant\n\
+        les p\xe9riodes de crues. Aucune action de pr\xe9servation ne peut \xeatre\
+        \ envisag\xe9e car\nson propri\xe9t\xe9 fonci\xe8re n\u2019est pa encore d\xe9\
+        finie \nConclusion\_\_\_\_\_\_\_\_ L\u2019\xe9tude indique que\nle Kef est\
+        \ une r\xe9gion qui se distingue par al richesse de son patrimoine\nhistorique\
+        \ et culturelle, pour l\u2019abondance des sites naturels et pour les\nsp\xe9\
         cificit\xe9s exceptionnelles de son territoire du point de vue g\xe9ologique\n\
-        \n\tLes richesses g\xe9ologiques de la r\xe9gion du Kef indiqueraient que\
-        \ le mod\xe8le de d\xe9veloppement qui peut mieux r\xe9pondre aux exigences\
-        \ de croissances \xe9conomique serai la constitution d \xbbu GEOPARK, suivant\
-        \ le mod\xe8le indiqu\xe9 par le syst\xe8me int\xe9gr\xe9 d\u2019actions propos\xe9\
-        es.\n\tEtant donn\xe9 l\u2019importance du patrimoine recens\xe9, Le d\xe9\
-        marrage prenant le rel\xe8ve au projet S.T.I pour la cr\xe9ation du EOPARK\
-        \ doit se baser su :\n-\tUne strat\xe9gie claire de d\xe9veloppement durable\
-        \ ;\n-\tLa mise en place d\u2019une juridiction capable de g\xe9rer de fa\xe7\
-        on autonome le Geopark  en pr\xe9cisant le rple juridique, les actions \xe0\
-        \ d\xe9velopper\nLa conclusion finale propos\xe9e dans cette \xe9tude est\
-        \ intitul\xe9e comme suit :\n\n\xab Le Geopark du Kef serait ainsi le premier\
-        \ en Afrique et pourrait constituer le premier n\u0153ud du r\xe9seau africain\
-        \ des Geopark \xbb\n\n", font: '', spacing_above: small, spacing_below: small,
-      data: null, background: '', format: markdown}
+        \n\_\_\_\_\_\_\_\_ Les richesses\ng\xe9ologiques de la r\xe9gion du Kef indiqueraient\
+        \ que le mod\xe8le de d\xe9veloppement\nqui peut mieux r\xe9pondre aux exigences\
+        \ de croissances \xe9conomique serai la\nconstitution d\_\xbbu GEOPARK, suivant\
+        \ le mod\xe8le indiqu\xe9 par le syst\xe8me\nint\xe9gr\xe9 d\u2019actions\
+        \ propos\xe9es.\n\n\_\_\_\_\_\_\_\_ Etant donn\xe9\nl\u2019importance du patrimoine\
+        \ recens\xe9, Le d\xe9marrage prenant le rel\xe8ve au projet\nS.T.I pour la\
+        \ cr\xe9ation du EOPARK doit se baser sur\_:\n\n-\_\_\_\_\_\nUne strat\xe9\
+        gie\nclaire de d\xe9veloppement durable\_;\n\n-\_\_\_\_\_\nLa mise en\nplace\
+        \ d\u2019une juridiction capable de g\xe9rer de fa\xe7on autonome le Geopark\
+        \ \_en pr\xe9cisant le rple juridique, les actions \xe0\nd\xe9velopper\n\n\
+        La conclusion\nfinale propos\xe9e dans cette \xe9tude est intitul\xe9e comme\
+        \ suit\_:\n\n\xab\_Le Geopark du Kef serait ainsi le\npremier en Afrique et\
+        \ pourrait constituer le\npremier n\u0153ud du r\xe9seau africain des Geopark\_\
+        \xbb\n\n\_\n\n\n", font: '', spacing_above: small, spacing_below: small, data: null,
+      background: '', format: markdown}
     name: rich_text_1
     layout_properties: {grid_position: 'RCCJVW,WUIOXQ'}
 - name: image_5
