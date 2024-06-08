@@ -24,31 +24,31 @@ components:
         \ : flanc sud-est du Dyr El Kef (fig.1 et 3)\n3. Localisation : 36.18523,\
         \ 8.71980\n\n**II.\tConseils et informations pratiques** :\n\n- Situation\
         \ fonci\xe8re : Propri\xe9t\xe9 de l'Etat\n- Acc\xe8s : facile par route goudronn\xe9\
-        e en bon \xe9tat\n- Point de d\xe9part : Palais pr\xe9sidentiel (fig.2).\n\
-        - Distance : circuit A (environ 1,8 km), circuit B (890m)\n- Absence de signalisation\n\
-        - Chemins d'acc\xe8s au site non am\xe9nag\xe9s\n- Risque de disparition par\
-        \ alt\xe9ration et action humaine\n- Installer des panneaux de signalisation\
+        e en bon \xe9tat\n- Point de d\xe9part : Palais pr\xe9sidentiel (figure).\n\
+        - Distance : circuit A  (environ 1,8 km), circuit B (890m)\n- Absence de signalisation\n\
+        - Chemins d'acc\xe8s au site non am\xe9nag\xe9s\n- Risque de disparition du\
+        \ site par alt\xe9ration et action humaine\n- Installer des panneaux de signalisation\
         \ \xe0 l'entr\xe9e du site\n- Mettre \xe0 disposition des visiteurs des affiches\
         \ et des d\xe9pliants d\xe9crivant le site \n- Installer des panneaux expliquant\
         \ l'int\xe9r\xeat du site pour le g\xe9otourisme \n- Installer des panneaux\
-        \ d'interdiction de pr\xe9l\xe8vement et de d\xe9gradation du site.\n\n**III.\t\
-        Description du site**\n\n**1 Pourquoi visiter le site ?\n\nIl s'agit de d\xe9\
-        couvrir un site g\xe9ologique remarquable par sa : \n\n- G\xe9ologie (fossiles\
-        \ d'organismes divers, notamment de grandes nummulites et dents de requins,\
-        \ plusieurs couches de phosphates reconnaissables \xe0 leur teinte grise,\
-        \ leur texture granuleuse, leur odeur f\xe9tide et leur richesse en grains\
-        \ de glauconie, un min\xe9ral argileux verd\xe2tre facilement identifiable),\
-        \ \n\n- P\xe9dagogie (la pr\xe9sentation de la s\xe9rie g\xe9ologique aux\
-        \ \xe9coliers leur permet de conna\xeetre l'histoire de la g\xe9ologie de\
-        \ la r\xe9gion, notamment le d\xe9p\xf4t des couches s\xe9dimentaires, leur\
-        \ \xe2ge, les fossiles visibles, le d\xe9p\xf4t des phosphates, etc....),\
-        \ \n\n- L'histoire (trois cimeti\xe8res musulmans, chr\xe9tiens et juifs se\
-        \ c\xf4toient, ainsi que des thermes romains, le temple de V\xe9nus et le\
-        \ mus\xe9e de l'art rupestre).\n\n- Paysage car il domine la ville du Kef,\
-        \ avec sa c\xe9l\xe8bre Kasbha, et les vastes plaines verdoyantes (surtout\
-        \ au printemps) qui s'\xe9tendent sur des dizaines de kilom\xe8tres autour\
-        \ de la ville, parsem\xe9es de montagnes que l'on aper\xe7oit \xe0 l'horizon\
-        \ jusqu'en Alg\xe9rie.\n", font: '', spacing_above: small, spacing_below: small,
+        \ d'interdiction de pr\xe9l\xe8vement d'\xe9chantillons et de d\xe9gradation\
+        \ du site.\n\n**III.\tDescription du site**\n\n**1 Pourquoi visiter le site\
+        \ ?**\n\nIl s'agit de d\xe9couvrir un site g\xe9ologique remarquable par sa\
+        \ : \n\n- **G\xe9ologie*** - fossiles d'organismes divers, notamment de grandes\
+        \ nummulites et dents de requins, plusieurs couches de phosphates reconnaissables\
+        \ \xe0 leur teinte grise, leur texture granuleuse, leur odeur f\xe9tide et\
+        \ leur richesse en grains de glauconie, un min\xe9ral argileux verd\xe2tre\
+        \ facilement identifiable, \n\n- **P\xe9dagogie** -a pr\xe9sentation de la\
+        \ s\xe9rie g\xe9ologique aux \xe9coliers leur permet de conna\xeetre l'histoire\
+        \ de la g\xe9ologie de la r\xe9gion, notamment le d\xe9p\xf4t des couches\
+        \ s\xe9dimentaires, leur \xe2ge, les fossiles visibles, le d\xe9p\xf4t des\
+        \ phosphates, \n\n- L'histoire -trois cimeti\xe8res musulmans, chr\xe9tiens\
+        \ et juifs se c\xf4toient, ainsi que des thermes romains, le temple de V\xe9\
+        nus et le mus\xe9e de l'art rupestre.\n\n-**Paysage** car il domine la ville\
+        \ du Kef, avec sa c\xe9l\xe8bre Kasbha, et les vastes plaines verdoyantes\
+        \ (surtout au printemps) qui s'\xe9tendent sur des dizaines de kilom\xe8tres\
+        \ autour de la ville, parsem\xe9es de montagnes que l'on aper\xe7oit \xe0\
+        \ l'horizon jusqu'en Alg\xe9rie.\n", font: '', spacing_above: small, spacing_below: small,
       data: null, background: '', format: markdown}
     name: rich_text_1
     layout_properties: {grid_position: 'YZZJKY,YAGBME'}
@@ -62,16 +62,15 @@ components:
   properties: {role: null, align: left, tooltip: '', enable_slots: true, border: '',
     foreground: '', visible: true, font_size: null, content: "**2.\tR\xe9sum\xe9 des\
       \ informations importantes \xe0 retenir**\nLe long de la route, juste au tournant\
-      \ apr\xe8s le cimeti\xe8re des Musulmans (fig.2), on peut observer une succession\
-      \ de couches g\xe9ologiques form\xe9es par des alternances de calcaires et de\
-      \ marnes grises, intercal\xe9es par plusieurs couches phosphat\xe9es de 50 cm\
-      \ environ chacune, ponctu\xe9es de petits grains verts de glauconies et renfermant\
-      \ des dents de requins et des rognons de silex (fig.4). On peut reconnaitre\
-      \ le minerai phosphat\xe9 gr\xe2ce \xe0 son odeur f\xe9tide. \n\nCes  alternances,\
-      \ d\u2019environ 100 m d\u2019\xe9paisseur font suite \xe0 des marnes grises\
-      \ \xe0 gypse (terme c, fig. 2) et se poursuit par une dalle de calcaires en\
-      \ bancs massifs \xe0 nummulites  de 60 m d\u2019\xe9paisseur (terme d, fig.\
-      \ 2). Les alternances phosphat\xe9es et les marnes sous-jacentes appartiennent\
+      \ apr\xe8s le cimeti\xe8re des Musulmans (figue), on peut observer une s\xe9\
+      rie g\xe9ologique form\xe9e par des alternances de calcaires et de marnes grises,\
+      \ renfermant plusieurs couches de phosphat\xe9 de 50 cm environ chacune, ponctu\xe9\
+      es de petits grains verts de glauconies et renfermant des dents de requins et\
+      \ des rognons de silex (photo). On peut reconnaitre le minerai phosphat\xe9\
+      \ gr\xe2ce \xe0 son odeur f\xe9tide. \n\nle niveau phosphat\xe9 repose sur des\
+      \ marnes grises \xe0 gypse (terme c, fig. 2) et se poursuit par une dalle de\
+      \ calcaires en bancs massifs \xe0 nummulites  de 60 m d\u2019\xe9paisseur (terme\
+      \ d, fig. 2). Les alternances phosphat\xe9es et les marnes sous-jacentes appartiennent\
       \ au Pal\xe9oc\xe8ne (-65 \xe0 -53 Ma). La dalle de calcaires \xe0 nummulites\
       \ est dat\xe9e de l\u2019Eoc\xe8ne ((-53 \xe0 \u2013 34 Ma)\n\nLa dalle de calcaires\
       \ \xe0 nummulites n\u2019est pas visible au niveau du site, il faut descendre\
